@@ -1,0 +1,225 @@
+"curr_id","code","basic_unit","curr_code","frac_unit","frac_perbasic"
+1,"AFG","Afghan afghani","AFN","Pul",100
+2,"ALB","Albanian lek","ALL","Qindarke",100
+3,"DZA","Algerian dinar","DZD","Santeem",100
+4,"AND","Euro","EUR","Cent",100
+5,"AGO","Angolan kwanza","AOA","Centimo",100
+6,"AIA","East Caribbean dollar","XCD","Cent",100
+7,"ATG","East Caribbean dollar","XCD","Cent",100
+8,"ARG","Argentine peso","ARS","Centavo",100
+9,"ARM","Armenian dram","AMD","Luma",100
+10,"ABW","Aruban florin","AWG","Cent",100
+11,"AUS","Australian dollar","AUD","Cent",100
+12,"AUT","Euro","EUR","Cent",100
+13,"AZE","Azerbaijani manat","AZN","Qəpik",100
+14,"BHR","Bahraini dinar","BHD","Fils",1000
+15,"BGD","Bangladeshi taka","BDT","Paisa",100
+16,"BRB","Barbadian dollar","BBD","Cent",100
+17,"BLR","New Belarusian ruble","BYN","Kapyeyka",100
+18,"BLR","Old Belarusian ruble","BYR","Kapyeyka",100
+19,"BEL","Euro","EUR","Cent",100
+20,"BLZ","Belize dollar","BZD","Cent",100
+21,"BEN","West African CFA franc","XOF","Centime",100
+22,"BMU","Bermudian dollar","BMD","Cent",100
+23,"BTN","Bhutanese ngultrum","BTN","Chetrum",100
+24,"BTN","Indian rupee","INR","Paisa",100
+25,"BOL","Bolivian boliviano","BOB","Centavo",100
+26,"BIH","Bosnia and Herzegovina convertible mark","BAM","Fening",100
+27,"BWA","Botswana pula","BWP","Thebe",100
+28,"BRA","Brazilian real","BRL","Centavo",100
+29,"IOT","United States dollar","USD","Cent",100
+30,"BRN","Brunei dollar","BND","Sen",100
+31,"BRN","Singapore dollar","SGD","Cent",100
+32,"BGR","Bulgarian lev","BGN","Stotinka",100
+33,"BFA","West African CFA franc","XOF","Centime",100
+34,"BDI","Burundian franc","BIF","Centime",100
+35,"KHM","Cambodian riel","KHR","Sen",100
+36,"KHM","United States dollar","USD","Cent",100
+37,"CMR","Central African CFA franc","XAF","Centime",100
+38,"CAN","Canadian dollar","CAD","Cent",100
+39,"CPV","Cape Verdean escudo","CVE","Centavo",100
+40,"CYM","Cayman Islands dollar","KYD","Cent",100
+41,"CAF","Central African CFA franc","XAF","Centime",100
+42,"TCD","Central African CFA franc","XAF","Centime",100
+43,"CHL","Chilean peso","CLP","Centavo",100
+44,"CHN","Chinese yuan","CNY","Fen",100
+45,"CCK","Australian dollar","AUD","Cent",100
+46,"COL","Colombian peso","COP","Centavo",100
+47,"COM","Comorian franc","KMF","Centime",100
+48,"COD","Congolese franc","CDF","Centime",100
+49,"COG","Central African CFA franc","XAF","Centime",100
+50,"COK","New Zealand dollar","NZD","Cent",100
+51,"CRI","Costa Rican colon","CRC","Centimo",100
+52,"CIV","West African CFA franc","XOF","Centime",100
+53,"HRV","Croatian kuna","HRK","Lipa",100
+54,"CUB","Cuban convertible peso","CUC","Centavo",100
+55,"CUB","Cuban peso","CUP","Centavo",100
+56,"CYP","Euro","EUR","Cent",100
+57,"CZE","Czech koruna","CZK","Haler",100
+58,"DNK","Danish krone","DKK","Ore",100
+59,"DJI","Djiboutian franc","DJF","Centime",100
+60,"DMA","East Caribbean dollar","XCD","Cent",100
+61,"DOM","Dominican peso","DOP","Centavo",100
+62,"TMP","United States dollar","USD","Cent",100
+63,"ECU","United States dollar","USD","Cent",100
+64,"EGY","Egyptian pound","EGP","Piastre",100
+65,"SLV","United States dollar","USD","Cent",100
+66,"GNQ","Central African CFA franc","XAF","Centime",100
+67,"ERI","Eritrean nakfa","ERN","Cent",100
+68,"EST","Euro","EUR","Cent",100
+69,"ETH","Ethiopian birr","ETB","Santim",100
+70,"FLK","Falkland Islands pound","FKP","Penny",100
+71,"FRO","Danish krone","DKK","Ore",100
+72,"FIN","Euro","EUR","Cent",100
+73,"FRA","Euro","EUR","Cent",100
+74,"PYF","CFP franc","XPF","Centime",100
+75,"GAB","Central African CFA franc","XAF","Centime",100
+76,"GEO","Georgian lari","GEL","Tetri",100
+77,"DEU","Euro","EUR","Cent",100
+78,"GHA","Ghanaian cedi","GHS","Pesewa",100
+79,"GIB","Gibraltar pound","GIP","Penny",100
+80,"GRC","Euro","EUR","Cent",100
+81,"GRD","East Caribbean dollar","XCD","Cent",100
+82,"GTM","Guatemalan quetzal","GTQ","Centavo",100
+83,"GIN","Guinean franc","GNF","Centime",100
+84,"GNB","West African CFA franc","XOF","Centime",100
+85,"GUY","Guyanese dollar","GYD","Cent",100
+86,"HTI","Haitian gourde","HTG","Centime",100
+87,"HND","Honduran lempira","HNL","Centavo",100
+88,"HKG","Hong Kong dollar","HKD","Cent",100
+89,"HUN","Hungarian forint","HUF","Filler",100
+90,"ISL","Icelandic krona","ISK","Eyrir",100
+91,"IND","Indian rupee","INR","Paisa",100
+92,"IDN","Indonesian rupiah","IDR","Sen",100
+93,"IRN","Iranian rial","IRR","Dinar",100
+94,"IRQ","Iraqi dinar","IQD","Fils",1000
+95,"IRL","Euro","EUR","Cent",100
+96,"ISR","Israeli new shekel","ILS","Agora",100
+97,"ITA","Euro","EUR","Cent",100
+98,"JAM","Jamaican dollar","JMD","Cent",100
+99,"JPN","Japanese yen","JPY","Sen",100
+100,"JOR","Jordanian dinar","JOD","Piastre",100
+101,"KAZ","Kazakhstani tenge","KZT","Tiin",100
+102,"KEN","Kenyan shilling","KES","Cent",100
+103,"KIR","Australian dollar","AUD","Cent",100
+104,"PRK","North Korean won","KPW","Chon",100
+105,"KOR","South Korean won","KRW","Jeon",100
+106,"KWT","Kuwaiti dinar","KWD","Fils",1000
+107,"KGZ","Kyrgyzstani som","KGS","Tyiyn",100
+108,"LAO","Lao kip","LAK","Att",100
+109,"LVA","Euro","EUR","Cent",100
+110,"LBN","Lebanese pound","LBP","Piastre",100
+111,"LSO","Lesotho loti","LSL","Sente",100
+112,"LSO","South African rand","ZAR","Cent",100
+113,"LBR","Liberian dollar","LRD","Cent",100
+114,"LBY","Libyan dinar","LYD","Dirham",1000
+115,"LIE","Swiss franc","CHF","Rappen",100
+116,"LTU","Euro","EUR","Cent",100
+117,"LUX","Euro","EUR","Cent",100
+118,"MDG","Malagasy ariary","MGA","Iraimbilanja",5
+119,"MWI","Malawian kwacha","MWK","Tambala",100
+120,"MYS","Malaysian ringgit","MYR","Sen",100
+121,"MDV","Maldivian rufiyaa","MVR","Laari",100
+122,"MLI","West African CFA franc","XOF","Centime",100
+123,"MLT","Euro","EUR","Cent",100
+124,"MHL","United States dollar","USD","Cent",100
+125,"MRT","Mauritanian ouguiya","MRO","Khoums",5
+126,"MUS","Mauritian rupee","MUR","Cent",100
+127,"MEX","Mexican peso","MXN","Centavo",100
+128,"MDA","Moldovan leu","MDL","Ban",100
+129,"MCO","Euro","EUR","Cent",100
+130,"MNG","Mongolian togrog","MNT","Mongo",100
+131,"MSR","East Caribbean dollar","XCD","Cent",100
+132,"MAR","Moroccan dirham","MAD","Centime",100
+133,"MOZ","Mozambican metical","MZN","Centavo",100
+134,"MMR","Burmese kyat","MMK","Pya",100
+135,"NAM","Namibian dollar","NAD","Cent",100
+136,"NAM","South African rand","ZAR","Cent",100
+137,"NRU","Australian dollar","AUD","Cent",100
+138,"NPL","Nepalese rupee","NPR","Paisa",100
+139,"NLD","Euro","EUR","Cent",100
+140,"NCL","CFP franc","XPF","Centime",100
+141,"NZL","New Zealand dollar","NZD","Cent",100
+142,"NIC","Nicaraguan cordoba","NIO","Centavo",100
+143,"NER","West African CFA franc","XOF","Centime",100
+144,"NGA","Nigerian naira","NGN","Kobo",100
+145,"NIU","New Zealand dollar","NZD","Cent",100
+146,"NOR","Norwegian krone","NOK","Ore",100
+147,"OMN","Omani rial","OMR","Baisa",1000
+148,"PAK","Pakistani rupee","PKR","Paisa",100
+149,"PLW","United States dollar","USD","Cent",100
+150,"PSE","Israeli new shekel","ILS","Agora",100
+151,"PSE","Jordanian dinar","JOD","Piastre",100
+152,"PAN","Panamanian balboa","PAB","Centesimo",100
+153,"PAN","United States dollar","USD","Cent",100
+154,"PNG","Papua New Guinean kina","PGK","Toea",100
+155,"PRY","Paraguayan guarani","PYG","Centimo",100
+156,"PER","Peruvian sol","PEN","Centimo",100
+157,"PHL","Philippine peso","PHP","Centavo",100
+158,"POL","Polish zloty","PLN","Grosz",100
+159,"PRT","Euro","EUR","Cent",100
+160,"QAT","Qatari riyal","QAR","Dirham",100
+161,"ROM","Romanian leu","RON","Ban",100
+162,"RUS","Russian ruble","RUB","Kopek",100
+163,"RWA","Rwandan franc","RWF","Centime",100
+164,"SHN","Saint Helena pound","SHP","Penny",100
+165,"KNA","East Caribbean dollar","XCD","Cent",100
+166,"LCA","East Caribbean dollar","XCD","Cent",100
+167,"VCT","East Caribbean dollar","XCD","Cent",100
+168,"WSM","Samoan tala","WST","Sene",100
+169,"SMR","Euro","EUR","Cent",100
+170,"SAU","Saudi riyal","SAR","Halala",100
+171,"SEN","West African CFA franc","XOF","Centime",100
+172,"SYC","Seychellois rupee","SCR","Cent",100
+173,"SLE","Sierra Leonean leone","SLL","Cent",100
+174,"SGP","Brunei dollar","BND","Sen",100
+175,"SGP","Singapore dollar","SGD","Cent",100
+176,"SVK","Euro","EUR","Cent",100
+177,"SVN","Euro","EUR","Cent",100
+178,"SLB","Solomon Islands dollar","SBD","Cent",100
+179,"SOM","Somali shilling","SOS","Cent",100
+180,"ZAF","South African rand","ZAR","Cent",100
+181,"SGS","British pound","GBP","Penny",100
+182,"ESP","Euro","EUR","Cent",100
+183,"LKA","Sri Lankan rupee","LKR","Cent",100
+184,"SDN","Sudanese pound","SDG","Piastre",100
+185,"SUR","Surinamese dollar","SRD","Cent",100
+186,"SWZ","Swazi lilangeni","SZL","Cent",100
+187,"SWE","Swedish krona","SEK","Ore",100
+188,"CHE","Swiss franc","CHF","Rappen",100
+189,"SYR","Syrian pound","SYP","Piastre",100
+190,"TWN","New Taiwan dollar","TWD","Cent",100
+191,"TJK","Tajikistani somoni","TJS","Diram",100
+192,"TZA","Tanzanian shilling","TZS","Cent",100
+193,"THA","Thai baht","THB","Satang",100
+194,"TGO","West African CFA franc","XOF","Centime",100
+195,"TON","Tongan paʻanga","TOP","Seniti",100
+196,"TTO","Trinidad and Tobago dollar","TTD","Cent",100
+197,"TUN","Tunisian dinar","TND","Millime",1000
+198,"TUR","Turkish lira","TRY","Kurus",100
+199,"TKM","Turkmenistan manat","TMT","Tennesi",100
+200,"TCA","United States dollar","USD","Cent",100
+201,"TUV","Australian dollar","AUD","Cent",100
+202,"TUV","Tuvaluan dollar","TVD","Cent",100
+203,"UGA","Ugandan shilling","UGX","Cent",100
+204,"UKR","Ukrainian hryvnia","UAH","Kopiyka",100
+205,"UKR","Russian ruble","RUB","Kopek",100
+206,"ARE","United Arab Emirates dirham","AED","Fils",100
+207,"GBR","British pound","GBP","Penny",100
+208,"USA","United States dollar","USD","Cent",100
+209,"URY","Uruguayan peso","UYU","Centesimo",100
+210,"UZB","Uzbekistani soʻm","UZS","Tiyin",100
+211,"VUT","Vanuatu vatu","VUV",,
+212,"VEN","Venezuelan bolivar","VEF","Centimo",100
+213,"VNM","Vietnamese dong","VND","Hao",10
+214,"WLF","CFP franc","XPF","Centime",100
+215,"YEM","Yemeni rial","YER","Fils",100
+216,"ZMB","Zambian kwacha","ZMW","Ngwee",100
+217,"ZWE","Botswana pula","BWP","Thebe",100
+218,"ZWE","British pound","GBP","Penny",100
+219,"ZWE","Chinese yuan","CNY","Fen",100
+220,"ZWE","Euro","EUR","Cent",100
+221,"ZWE","Indian rupee","INR","Paisa",100
+222,"ZWE","Japanese yen","JPY","Sen",100
+223,"ZWE","South African rand","ZAR","Cent",100
+224,"ZWE","United States dollar","USD","Cent",100

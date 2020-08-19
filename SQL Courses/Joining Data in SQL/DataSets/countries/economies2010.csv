@@ -1,0 +1,191 @@
+"code","year","income_group","gross_savings"
+"AFG",2010,"Low income",37.133
+"AGO",2010,"Upper middle income",23.534
+"ALB",2010,"Upper middle income",20.011
+"ARE",2010,"High income",27.073
+"ARG",2010,"Upper middle income",17.361
+"ARM",2010,"Lower middle income",15.797
+"ATG",2010,"High income",13.398
+"AUS",2010,"High income",23.584
+"AUT",2010,"High income",25.521
+"AZE",2010,"Upper middle income",46.567
+"BDI",2010,"Low income",3.723
+"BEL",2010,"High income",24.456
+"BEN",2010,"Low income",14.905
+"BFA",2010,"Low income",15.788
+"BGD",2010,"Lower middle income",29.141
+"BGR",2010,"Upper middle income",20.845
+"BHR",2010,"High income",36.206
+"BHS",2010,"High income",15.141
+"BIH",2010,"Upper middle income",10.115
+"BLR",2010,"Upper middle income",26.186
+"BLZ",2010,"Upper middle income",10.33
+"BOL",2010,"Lower middle income",24.969
+"BRA",2010,"Upper middle income",18.368
+"BRB",2010,"High income",8.12
+"BRN",2010,"High income",
+"BTN",2010,"Lower middle income",44.674
+"BWA",2010,"Upper middle income",32.162
+"CAF",2010,"Low income",4.115
+"CAN",2010,"High income",19.898
+"CHE",2010,"High income",38.881
+"CHL",2010,"High income",24.839
+"CHN",2010,"Upper middle income",51.802
+"CIV",2010,"Lower middle income",16.765
+"CMR",2010,"Lower middle income",17.524
+"COD",2010,"Low income",15.574
+"COG",2010,"Lower middle income",27.651
+"COL",2010,"Upper middle income",19.107
+"COM",2010,"Low income",15.22
+"CPV",2010,"Lower middle income",25.257
+"CRI",2010,"Upper middle income",16.489
+"CYP",2010,"High income",12.507
+"CZE",2010,"High income",23.588
+"DEU",2010,"High income",25.241
+"DJI",2010,"Lower middle income",24.089
+"DMA",2010,"Upper middle income",2.462
+"DNK",2010,"High income",24.639
+"DOM",2010,"Upper middle income",18.745
+"DZA",2010,"Upper middle income",49.869
+"ECU",2010,"Upper middle income",25.757
+"EGY",2010,"Lower middle income",19.421
+"ERI",2010,"Low income",-9.257
+"ESP",2010,"High income",19.628
+"EST",2010,"High income",23.087
+"ETH",2010,"Low income",24.494
+"FIN",2010,"High income",22.843
+"FJI",2010,"Upper middle income",
+"FRA",2010,"High income",21.075
+"FSM",2010,"Lower middle income",
+"GAB",2010,"Upper middle income",41.009
+"GBR",2010,"High income",13.233
+"GEO",2010,"Upper middle income",11.64
+"GHA",2010,"Lower middle income",17.276
+"GIN",2010,"Low income",0.135
+"GMB",2010,"Low income",5.026
+"GNB",2010,"Low income",-2.057
+"GNQ",2010,"Upper middle income",41.231
+"GRC",2010,"High income",5.664
+"GRD",2010,"Upper middle income",-1.702
+"GTM",2010,"Lower middle income",12.575
+"GUY",2010,"Upper middle income",7.88
+"HKG",2010,"High income",30.892
+"HND",2010,"Lower middle income",17.547
+"HRV",2010,"High income",20.278
+"HTI",2010,"Low income",23.869
+"HUN",2010,"High income",20.992
+"IDN",2010,"Lower middle income",33.582
+"IND",2010,"Lower middle income",33.689
+"IRL",2010,"High income",16.039
+"IRN",2010,"Upper middle income",41.522
+"IRQ",2010,"Upper middle income",23.736
+"ISL",2010,"High income",7.256
+"ISR",2010,"High income",22.064
+"ITA",2010,"High income",17.121
+"JAM",2010,"Upper middle income",13.41
+"JOR",2010,"Upper middle income",18.381
+"JPN",2010,"High income",25.174
+"KAZ",2010,"Upper middle income",26.309
+"KEN",2010,"Lower middle income",14.809
+"KGZ",2010,"Lower middle income",24.869
+"KHM",2010,"Lower middle income",10.521
+"KIR",2010,"Lower middle income",
+"KNA",2010,"High income",13.133
+"KOR",2010,"High income",34.659
+"KWT",2010,"High income",50.831
+"LAO",2010,"Lower middle income",
+"LBN",2010,"Upper middle income",3.847
+"LBR",2010,"Low income",
+"LBY",2010,"Upper middle income",
+"LCA",2010,"Upper middle income",11.734
+"LKA",2010,"Lower middle income",28.457
+"LSO",2010,"Lower middle income",16.421
+"LTU",2010,"High income",17.671
+"LUX",2010,"High income",24.899
+"LVA",2010,"High income",21.365
+"MAC",2010,"High income",
+"MAR",2010,"Lower middle income",29.7
+"MDA",2010,"Lower middle income",16.001
+"MDG",2010,"Low income",13.74
+"MDV",2010,"Upper middle income",6.844
+"MEX",2010,"Upper middle income",21.555
+"MHL",2010,"Upper middle income",
+"MKD",2010,"Upper middle income",22.443
+"MLI",2010,"Low income",13.306
+"MLT",2010,"High income",18.954
+"MMR",2010,"Lower middle income",23.184
+"MNE",2010,"Upper middle income",-1.246
+"MNG",2010,"Lower middle income",26.881
+"MOZ",2010,"Low income",8.081
+"MRT",2010,"Lower middle income",30.703
+"MUS",2010,"Upper middle income",14.27
+"MWI",2010,"Low income",26.25
+"MYS",2010,"Upper middle income",33.468
+"NAM",2010,"Upper middle income",20.709
+"NER",2010,"Low income",25.45
+"NGA",2010,"Lower middle income",20.843
+"NIC",2010,"Lower middle income",15.542
+"NLD",2010,"High income",27.798
+"NOR",2010,"High income",36.27
+"NPL",2010,"Low income",35.909
+"NRU",2010,"High income",
+"NZL",2010,"High income",24.648
+"OMN",2010,"High income",33.761
+"PAK",2010,"Lower middle income",13.577
+"PAN",2010,"Upper middle income",26.436
+"PER",2010,"Upper middle income",22.505
+"PHL",2010,"Lower middle income",24.138
+"PLW",2010,"Upper middle income",
+"PNG",2010,"Lower middle income",
+"POL",2010,"High income",15.913
+"PRI",2010,"High income",
+"PRT",2010,"High income",10.709
+"PRY",2010,"Upper middle income",15.905
+"QAT",2010,"High income",50.419
+"ROU",2010,"Upper middle income",21.755
+"RUS",2010,"Upper middle income",24.417
+"RWA",2010,"Low income",6.369
+"SAU",2010,"High income",43.414
+"SDN",2010,"Lower middle income",17.259
+"SEN",2010,"Low income",17.708
+"SGP",2010,"High income",51.68
+"SLB",2010,"Lower middle income",12.799
+"SLE",2010,"Low income",9.581
+"SLV",2010,"Lower middle income",10.831
+"SMR",2010,"High income",
+"SRB",2010,"Upper middle income",12.102
+"SSD",2010,"Low income",
+"STP",2010,"Lower middle income",32.965
+"SUR",2010,"Upper middle income",50.552
+"SVK",2010,"High income",19.303
+"SVN",2010,"High income",22.121
+"SWE",2010,"High income",28.876
+"SWZ",2010,"Lower middle income",3.179
+"SYC",2010,"High income",17.241
+"SYR",2010,"Lower middle income",23.845
+"TCD",2010,"Low income",25.871
+"TGO",2010,"Low income",17.634
+"THA",2010,"Upper middle income",28.724
+"TJK",2010,"Lower middle income",6.999
+"TKM",2010,"Upper middle income",
+"TLS",2010,"Lower middle income",
+"TON",2010,"Lower middle income",
+"TTO",2010,"High income",13.168
+"TUN",2010,"Lower middle income",20.825
+"TUR",2010,"Upper middle income",21.334
+"TUV",2010,"Upper middle income",
+"TZA",2010,"Low income",21.248
+"UGA",2010,"Low income",18.7
+"UKR",2010,"Lower middle income",18.654
+"URY",2010,"High income",17.593
+"USA",2010,"High income",15.086
+"UZB",2010,"Lower middle income",37.267
+"VCT",2010,"Upper middle income",-1.591
+"VEN",2010,"Upper middle income",31.591
+"VNM",2010,"Lower middle income",31.902
+"VUT",2010,"Lower middle income",
+"WSM",2010,"Lower middle income",
+"YEM",2010,"Lower middle income",8.25
+"ZAF",2010,"Upper middle income",18.012
+"ZMB",2010,"Lower middle income",37.404
+"ZWE",2010,"Low income",16.109

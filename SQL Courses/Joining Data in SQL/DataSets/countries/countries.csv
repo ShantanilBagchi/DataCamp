@@ -1,0 +1,207 @@
+"code","country_name","continent","region","surface_area","indep_year","local_name","gov_form","capital","cap_long","cap_lat"
+"AFG","Afghanistan","Asia","Southern and Central Asia",652090,1919,"Afganistan/Afqanestan","Islamic Emirate","Kabul",69.1761,34.5228
+"NLD","Netherlands","Europe","Western Europe",41526,1581,"Nederland","Constitutional Monarchy","Amsterdam",4.89095,52.3738
+"ALB","Albania","Europe","Southern Europe",28748,1912,"Shqiperia","Republic","Tirane",19.8172,41.3317
+"DZA","Algeria","Africa","Northern Africa",2381740,1962,"Al-Jazair/Algerie","Republic","Algiers",3.05097,36.7397
+"ASM","American Samoa","Oceania","Polynesia",199,,"Amerika Samoa","US Territory","Pago Pago",-170.691,-14.2846
+"AND","Andorra","Europe","Southern Europe",468,1278,"Andorra","Parliamentary Coprincipality","Andorra la Vella",1.5218,42.5075
+"AGO","Angola","Africa","Central Africa",1246700,1975,"Angola","Republic","Luanda",13.242,-8.81155
+"ATG","Antigua and Barbuda","North America","Caribbean",442,1981,"Antigua and Barbuda","Constitutional Monarchy","Saint John's",-61.8456,17.1175
+"ARE","United Arab Emirates","Asia","Middle East",83600,1971,"Al-Imarat al-´Arabiya al-Muttahida","Emirate Federation","Abu Dhabi",54.3705,24.4764
+"ARG","Argentina","South America","South America",2780400,1816,"Argentina","Federal Republic","Buenos Aires",-58.4173,-34.6118
+"ARM","Armenia","Asia","Middle East",29800,1991,"Hajastan","Republic","Yerevan",44.509,40.1596
+"ABW","Aruba","North America","Caribbean",193,,"Aruba","Nonmetropolitan Territory of The Netherlands","Oranjestad",-70.0167,12.5167
+"AUS","Australia","Oceania","Australia and New Zealand",7741220,1901,"Australia","Constitutional Monarchy, Federation","Canberra",149.129,-35.282
+"AZE","Azerbaijan","Asia","Middle East",86600,1991,"Azarbaycan","Federal Republic","Baku",49.8932,40.3834
+"BHS","Bahamas","North America","Caribbean",13878,1973,"The Bahamas","Constitutional Monarchy","Nassau",-77.339,25.0661
+"BHR","Bahrain","Asia","Middle East",694,1971,"Al-Bahrayn","Monarchy (Emirate)","Manama",50.5354,26.1921
+"BGD","Bangladesh","Asia","Southern and Central Asia",143998,1971,"Bangladesh","Republic","Dhaka",90.4113,23.7055
+"BRB","Barbados","North America","Caribbean",430,1966,"Barbados","Constitutional Monarchy","Bridgetown",-59.6105,13.0935
+"BEL","Belgium","Europe","Western Europe",30518,1830,"Belgie/Belgique","Constitutional Monarchy, Federation","Brussels",4.36761,50.8371
+"BLZ","Belize","North America","Central America",22696,1981,"Belize","Constitutional Monarchy","Belmopan",-88.7713,17.2534
+"BEN","Benin","Africa","Western Africa",112622,1960,"Benin","Republic","Porto-Novo",2.6323,6.4779
+"BMU","Bermuda","North America","North America",53,,"Bermuda","Dependent Territory of the UK","Hamilton",-64.706,32.3293
+"BTN","Bhutan","Asia","Southern and Central Asia",47000,1910,"Druk-Yul","Monarchy","Thimphu",89.6177,27.5768
+"BOL","Bolivia","South America","South America",1098580,1825,"Bolivia","Republic","La Paz",-66.1936,-13.9908
+"BIH","Bosnia and Herzegovina","Europe","Southern Europe",51197,1992,"Bosna i Hercegovina","Federal Republic","Sarajevo",18.4214,43.8607
+"BWA","Botswana","Africa","Southern Africa",581730,1966,"Botswana","Republic","Gaborone",25.9201,-24.6544
+"BRA","Brazil","South America","South America",8547400,1822,"Brasil","Federal Republic","Brasilia",-47.9292,-15.7801
+"GBR","United Kingdom","Europe","British Islands",242900,1066,"United Kingdom","Constitutional Monarchy","London",-0.126236,51.5002
+"VGB","Virgin Islands, British","North America","Caribbean",151,,"British Virgin Islands","Dependent Territory of the UK","Road Town",-64.623056,18.431389
+"BRN","Brunei","Asia","Southeast Asia",5765,1984,"Brunei Darussalam","Monarchy (Sultanate)","Bandar Seri Begawan",114.946,4.94199
+"BGR","Bulgaria","Europe","Eastern Europe",110994,1908,"Balgarija","Republic","Sofia",23.3238,42.7105
+"BFA","Burkina Faso","Africa","Western Africa",274000,1960,"Burkina Faso","Republic","Ouagadougou",-1.53395,12.3605
+"BDI","Burundi","Africa","Eastern Africa",27834,1962,"Burundi/Uburundi","Republic","Bujumbura",29.3639,-3.3784
+"CYM","Cayman Islands","North America","Caribbean",264,,"Cayman Islands","Dependent Territory of the UK","George Town",-81.3857,19.3022
+"CHL","Chile","South America","South America",756626,1810,"Chile","Republic","Santiago",-70.6475,-33.475
+"CRI","Costa Rica","North America","Central America",51100,1821,"Costa Rica","Republic","San Jose",-84.0089,9.63701
+"DJI","Djibouti","Africa","Eastern Africa",23200,1977,"Djibouti/Jibuti","Republic","Djibouti",43.1425,11.5806
+"DMA","Dominica","North America","Caribbean",751,1978,"Dominica","Republic","Roseau",-61.39,15.2976
+"DOM","Dominican Republic","North America","Caribbean",48511,1844,"Republica Dominicana","Republic","Santo Domingo",-69.8908,18.479
+"ECU","Ecuador","South America","South America",283561,1822,"Ecuador","Republic","Quito",-78.5243,-0.229498
+"EGY","Egypt","Africa","Northern Africa",1001450,1922,"Misr","Republic","Cairo",31.2461,30.0982
+"SLV","El Salvador","North America","Central America",21041,1841,"El Salvador","Republic","San Salvador",-89.2073,13.7034
+"ERI","Eritrea","Africa","Eastern Africa",117600,1993,"Ertra","Republic","Asmara",38.9183,15.3315
+"ESP","Spain","Europe","Southern Europe",505992,1492,"Espana","Constitutional Monarchy","Madrid",-3.70327,40.4167
+"ZAF","South Africa","Africa","Southern Africa",1221040,1910,"South Africa","Republic","Pretoria",28.1871,-25.746
+"ETH","Ethiopia","Africa","Eastern Africa",1104300,-1000,"YeItyop´iya","Republic","Addis Ababa",38.7468,9.02274
+"FJI","Fiji Islands","Oceania","Melanesia",18274,1970,"Fiji Islands","Republic","Suva",178.399,-18.1149
+"PHL","Philippines","Asia","Southeast Asia",300000,1946,"Pilipinas","Republic","Manila",121.035,14.5515
+"FRO","Faroe Islands","Europe","Nordic Countries",1399,,"Foroyar","Part of Denmark","Torshavn",-6.91181,61.8926
+"GAB","Gabon","Africa","Central Africa",267668,1960,"Le Gabon","Republic","Libreville",9.45162,0.38832
+"GMB","Gambia","Africa","Western Africa",11295,1965,"The Gambia","Republic","Banjul",-16.5885,13.4495
+"GEO","Georgia","Asia","Middle East",69700,1991,"Sakartvelo","Republic","Tbilisi",44.793,41.71
+"GHA","Ghana","Africa","Western Africa",238533,1957,"Ghana","Republic","Accra",-0.20795,5.57045
+"GIB","Gibraltar","Europe","Southern Europe",6,,"Gibraltar","Dependent Territory of the UK",,,
+"GRD","Grenada","North America","Caribbean",344,1974,"Grenada","Constitutional Monarchy","Saint George's",-61.7449,12.0653
+"GRL","Greenland","North America","North America",2166090,,"Kalaallit Nunaat/Gronland","Part of Denmark","Nuuk",-51.7214,64.1836
+"GUM","Guam","Oceania","Micronesia",549,,"Guam","US Territory","Agana",144.794,13.4443
+"GTM","Guatemala","North America","Central America",108889,1821,"Guatemala","Republic","Guatemala City",-90.5328,14.6248
+"GIN","Guinea","Africa","Western Africa",245857,1958,"Guinee","Republic","Conakry",-13.7,9.51667
+"GNB","Guinea-Bissau","Africa","Western Africa",36125,1974,"Guine-Bissau","Republic","Bissau",-15.1804,11.8037
+"GUY","Guyana","South America","South America",214969,1966,"Guyana","Republic","Georgetown",-58.1548,6.80461
+"HTI","Haiti","North America","Caribbean",27750,1804,"Haiti/Dayti","Republic","Port-au-Prince",-72.3288,18.5392
+"HND","Honduras","North America","Central America",112088,1838,"Honduras","Republic","Tegucigalpa",-87.4667,15.1333
+"HKG","Hong Kong","Asia","Eastern Asia",1075,,"Xianggang/Hong Kong","Special Administrative Region of China",,114.109,22.3964
+"IDN","Indonesia","Asia","Southeast Asia",1904570,1945,"Indonesia","Republic","Jakarta",106.83,-6.19752
+"IND","India","Asia","Southern and Central Asia",3287260,1947,"Bharat/India","Federal Republic","New Delhi",77.225,28.6353
+"IRQ","Iraq","Asia","Middle East",438317,1932,"Al-´Iraq","Republic","Baghdad",44.394,33.3302
+"IRN","Iran","Asia","Southern and Central Asia",1648200,1906,"Iran","Islamic Republic","Tehran",51.4447,35.6878
+"IRL","Ireland","Europe","British Islands",70273,1921,"Ireland/Eire","Republic","Dublin",-6.26749,53.3441
+"ISL","Iceland","Europe","Nordic Countries",103000,1944,"Island","Republic","Reykjavik",-21.8952,64.1353
+"ISR","Israel","Asia","Middle East",21056,1948,"Yisrael/Israil","Republic",,35.2035,31.7717
+"ITA","Italy","Europe","Southern Europe",301316,1861,"Italia","Republic","Rome",12.4823,41.8955
+"AUT","Austria","Europe","Western Europe",83859,1918,"Osterreich","Federal Republic","Vienna",16.3798,48.2201
+"JAM","Jamaica","North America","Caribbean",10990,1962,"Jamaica","Constitutional Monarchy","Kingston",-76.792,17.9927
+"JPN","Japan","Asia","Eastern Asia",377829,-660,"Nihon/Nippon","Constitutional Monarchy","Tokyo",139.77,35.67
+"YEM","Yemen","Asia","Middle East",527968,1918,"Al-Yaman","Republic","Sana'a",44.2075,15.352
+"JOR","Jordan","Asia","Middle East",88946,1946,"Al-Urdunn","Constitutional Monarchy","Amman",35.9263,31.9497
+"KHM","Cambodia","Asia","Southeast Asia",181035,1953,"Kampuchea","Constitutional Monarchy","Phnom Penh",104.874,11.5556
+"CMR","Cameroon","Africa","Central Africa",475442,1960,"Cameroun/Cameroon","Republic","Yaounde",11.5174,3.8721
+"CAN","Canada","North America","North America",9970610,1867,"Canada","Constitutional Monarchy, Federation","Ottawa",-75.6919,45.4215
+"CPV","Cape Verde","Africa","Western Africa",4033,1975,"Cabo Verde","Republic","Praia",-23.5087,14.9218
+"KAZ","Kazakhstan","Asia","Southern and Central Asia",2724900,1991,"Qazaqstan","Republic","Astana",71.4382,51.1879
+"KEN","Kenya","Africa","Eastern Africa",580367,1963,"Kenya","Republic","Nairobi",36.8126,-1.27975
+"CAF","Central African Republic","Africa","Central Africa",622984,1960,"Centrafrique/Be-Afrika","Republic","Bangui",21.6407,5.63056
+"CHN","China","Asia","Eastern Asia",9572900,-1523,"Zhongquo","People'sRepublic","Beijing",116.286,40.0495
+"KGZ","Kyrgyzstan","Asia","Southern and Central Asia",199900,1991,"Kyrgyzstan","Republic","Bishkek",74.6057,42.8851
+"KIR","Kiribati","Oceania","Micronesia",726,1979,"Kiribati","Republic","Tarawa",172.979,1.32905
+"COL","Colombia","South America","South America",1138910,1810,"Colombia","Republic","Bogota",-74.082,4.60987
+"COM","Comoros","Africa","Eastern Africa",1862,1975,"Komori/Comores","Republic","Moroni",43.2418,-11.6986
+"COG","Congo","Africa","Central Africa",342000,1960,"Congo","Republic","Brazzaville",15.2662,-4.2767
+"COD","Congo, The Democratic Republic of the","Africa","Central Africa",2344860,1960,"Republique Democratique du Congo","Republic","Kinshasa",15.3222,-4.325
+"PRK","North Korea","Asia","Eastern Asia",120538,1948,"Choson Minjujuui In´min Konghwaguk (Bukhan)","Socialistic Republic","Pyongyang",125.754,39.0319
+"KOR","South Korea","Asia","Eastern Asia",99434,1948,"Taehan Minguk (Namhan)","Republic","Seoul",126.957,37.5323
+"GRC","Greece","Europe","Southern Europe",131626,1830,"Ellada","Republic","Athens",23.7166,37.9792
+"HRV","Croatia","Europe","Southern Europe",56538,1991,"Hrvatska","Republic","Zagreb",15.9614,45.8069
+"CUB","Cuba","North America","Caribbean",110861,1902,"Cuba","Socialistic Republic","Havana",-82.3667,23.1333
+"KWT","Kuwait","Asia","Middle East",17818,1961,"Al-Kuwayt","Constitutional Monarchy (Emirate)","Kuwait City",47.9824,29.3721
+"CYP","Cyprus","Asia","Middle East",9251,1960,"Kypros/Kibris","Republic","Nicosia",33.3736,35.1676
+"LAO","Laos","Asia","Southeast Asia",236800,1953,"Lao","Republic","Vientiane",102.177,18.5826
+"LVA","Latvia","Europe","Baltic Countries",64589,1991,"Latvija","Republic","Riga",24.1048,56.9465
+"LSO","Lesotho","Africa","Southern Africa",30355,1966,"Lesotho","Constitutional Monarchy","Maseru",27.7167,-29.5208
+"LBN","Lebanon","Asia","Middle East",10400,1941,"Lubnan","Republic","Beirut",35.5134,33.8872
+"LBR","Liberia","Africa","Western Africa",111369,1847,"Liberia","Republic","Monrovia",-10.7957,6.30039
+"LBY","Libya","Africa","Northern Africa",1759540,1951,"Libiya","Socialistic State","Tripoli",13.1072,32.8578
+"LIE","Liechtenstein","Europe","Western Europe",160,1806,"Liechtenstein","Constitutional Monarchy","Vaduz",9.52148,47.1411
+"LTU","Lithuania","Europe","Baltic Countries",65301,1991,"Lietuva","Republic","Vilnius",25.2799,54.6896
+"LUX","Luxembourg","Europe","Western Europe",2586,1867,"Luxembourg/Letzebuerg","Constitutional Monarchy","Luxembourg",6.1296,49.61
+"MAC","Macao","Asia","Eastern Asia",18,,"Macau/Aomen","Special Administrative Region of China",,113.55,22.1667
+"MDG","Madagascar","Africa","Eastern Africa",587041,1960,"Madagasikara/Madagascar","Federal Republic","Antananarivo",45.7167,-20.4667
+"MKD","Macedonia","Europe","Southern Europe",25713,1991,"Makedonija","Republic","Skopje",21.4361,42.0024
+"MWI","Malawi","Africa","Eastern Africa",118484,1964,"Malawi","Republic","Lilongwe",33.7703,-13.9899
+"MDV","Maldives","Asia","Southern and Central Asia",298,1965,"Dhivehi Raajje/Maldives","Republic","Male",73.5109,4.1742
+"MYS","Malaysia","Asia","Southeast Asia",329758,1957,"Malaysia","Constitutional Monarchy, Federation","Kuala Lumpur",101.684,3.12433
+"MLI","Mali","Africa","Western Africa",1240190,1960,"Mali","Republic","Bamako",-7.50034,13.5667
+"MLT","Malta","Europe","Southern Europe",316,1964,"Malta","Republic","Valletta",14.5189,35.9042
+"MAR","Morocco","Africa","Northern Africa",446550,1956,"Al-Maghrib","Constitutional Monarchy","Rabat",-6.8704,33.9905
+"MHL","Marshall Islands","Oceania","Micronesia",181,1990,"Marshall Islands/Majol","Republic","Majuro",171.135,7.11046
+"MRT","Mauritania","Africa","Western Africa",1025520,1960,"Muritaniya/Mauritanie","Republic","Nouakchott",-15.9824,18.2367
+"MUS","Mauritius","Africa","Eastern Africa",2040,1968,"Mauritius","Republic","Port Louis",57.4977,-20.1605
+"MEX","Mexico","North America","Central America",1958200,1810,"Mexico","Federal Republic","Mexico City",-99.1276,19.427
+"FSM","Micronesia, Federated States of","Oceania","Micronesia",702,1990,"Micronesia","Federal Republic","Palikir",158.185,6.91771
+"MDA","Moldova","Europe","Eastern Europe",33851,1991,"Moldova","Republic","Chisinau",28.8497,47.0167
+"MCO","Monaco","Europe","Western Europe",1.5,1861,"Monaco","Constitutional Monarchy","Monaco",7.41891,43.7325
+"MNG","Mongolia","Asia","Eastern Asia",1566500,1921,"Mongol Uls","Republic","Ulaanbaatar",106.937,47.9129
+"MOZ","Mozambique","Africa","Eastern Africa",801590,1975,"Mocambique","Republic","Maputo",32.5713,-25.9664
+"MMR","Myanmar","Asia","Southeast Asia",676578,1948,"Myanma Pye","Republic","Naypyidaw",95.9562,21.914
+"NAM","Namibia","Africa","Southern Africa",824292,1990,"Namibia","Republic","Windhoek",17.0931,-22.5648
+"NRU","Nauru","Oceania","Micronesia",21,1968,"Naoero/Nauru","Republic","Yaren District",166.920867,-0.5477
+"NPL","Nepal","Asia","Southern and Central Asia",147181,1769,"Nepal","Constitutional Monarchy","Kathmandu",85.3157,27.6939
+"NIC","Nicaragua","North America","Central America",130000,1838,"Nicaragua","Republic","Managua",-86.2734,12.1475
+"NER","Niger","Africa","Western Africa",1267000,1960,"Niger","Republic","Niamey",2.1073,13.514
+"NGA","Nigeria","Africa","Western Africa",923768,1960,"Nigeria","Federal Republic","Abuja",7.48906,9.05804
+"NOR","Norway","Europe","Nordic Countries",323877,1905,"Norge","Constitutional Monarchy","Oslo",10.7387,59.9138
+"CIV","Cote d'Ivoire","Africa","Western Africa",322463,1960,"Cote dIvoire","Republic","Yamoussoukro",-4.0305,5.332
+"OMN","Oman","Asia","Middle East",309500,1951,"´Uman","Monarchy (Sultanate)","Muscat",58.5874,23.6105
+"PAK","Pakistan","Asia","Southern and Central Asia",796095,1947,"Pakistan","Republic","Islamabad",72.8,30.5167
+"PLW","Palau","Oceania","Micronesia",459,1994,"Belau/Palau","Republic","Koror",134.479,7.34194
+"PAN","Panama","North America","Central America",75517,1903,"Panama","Republic","Panama City",-79.5188,8.99427
+"PNG","Papua New Guinea","Oceania","Melanesia",462840,1975,"Papua New Guinea/Papua Niugini","Constitutional Monarchy","Port Moresby",147.194,-9.47357
+"PRY","Paraguay","South America","South America",406752,1811,"Paraguay","Republic","Asuncion",-57.6362,-25.3005
+"PER","Peru","South America","South America",1285220,1821,"Peru/Piruw","Republic","Lima",-77.0465,-12.0931
+"MNP","Northern Mariana Islands","Oceania","Micronesia",464,,"Northern Mariana Islands","Commonwealth of the US","Saipan",145.765,15.1935
+"PRT","Portugal","Europe","Southern Europe",91982,1143,"Portugal","Republic","Lisbon",-9.13552,38.7072
+"PRI","Puerto Rico","North America","Caribbean",8875,,"Puerto Rico","Commonwealth of the US","San Juan",-66,18.23
+"POL","Poland","Europe","Eastern Europe",323250,1918,"Polska","Republic","Warsaw",21.02,52.26
+"GNQ","Equatorial Guinea","Africa","Central Africa",28051,1968,"Guinea Ecuatorial","Republic","Malabo",8.7741,3.7523
+"QAT","Qatar","Asia","Middle East",11000,1971,"Qatar","Monarchy","Doha",51.5082,25.2948
+"FRA","France","Europe","Western Europe",551500,843,"France","Republic","Paris",2.35097,48.8566
+"PYF","French Polynesia","Oceania","Polynesia",4000,,"Polynesie francaise","Nonmetropolitan Territory of France","Papeete",-149.57,-17.535
+"RWA","Rwanda","Africa","Eastern Africa",26338,1962,"Rwanda/Urwanda","Republic","Kigali",30.0587,-1.95325
+"SWE","Sweden","Europe","Nordic Countries",449964,836,"Sverige","Constitutional Monarchy","Stockholm",18.0645,59.3327
+"KNA","Saint Kitts and Nevis","North America","Caribbean",261,1983,"Saint Kitts and Nevis","Constitutional Monarchy","Basseterre",-62.7309,17.3
+"LCA","Saint Lucia","North America","Caribbean",622,1979,"Saint Lucia","Constitutional Monarchy","Castries",-60.9832,14
+"VCT","Saint Vincent and the Grenadines","North America","Caribbean",388,1979,"Saint Vincent and the Grenadines","Constitutional Monarchy","Kingstown",-61.2653,13.2035
+"DEU","Germany","Europe","Western Europe",357022,1955,"Deutschland","Federal Republic","Berlin",13.4115,52.5235
+"SLB","Solomon Islands","Oceania","Melanesia",28896,1978,"Solomon Islands","Constitutional Monarchy","Honiara",159.949,-9.42676
+"ZMB","Zambia","Africa","Eastern Africa",752618,1964,"Zambia","Republic","Lusaka",28.2937,-15.3982
+"WSM","Samoa","Oceania","Polynesia",2831,1962,"Samoa","Parlementary Monarchy","Apia",-171.752,-13.8314
+"SMR","San Marino","Europe","Southern Europe",61,885,"San Marino","Republic","San Marino",12.4486,43.9322
+"STP","Sao Tome and Principe","Africa","Central Africa",964,1975,"Sao Tome e Principe","Republic","Sao Tome",6.6071,0.20618
+"SAU","Saudi Arabia","Asia","Middle East",2149690,1932,"Al-´Arabiya as-Sa´udiya","Monarchy","Riyadh",46.6977,24.6748
+"SEN","Senegal","Africa","Western Africa",196722,1960,"Senegal/Sounougal","Republic","Dakar",-17.4734,14.7247
+"SYC","Seychelles","Africa","Eastern Africa",455,1976,"Sesel/Seychelles","Republic","Victoria",55.4466,-4.6309
+"SLE","Sierra Leone","Africa","Western Africa",71740,1961,"Sierra Leone","Republic","Freetown",-13.2134,8.4821
+"SGP","Singapore","Asia","Southeast Asia",618,1965,"Singapore/Singapura/Xinjiapo/Singapur","Republic","Singapore",103.85,1.28941
+"SVK","Slovakia","Europe","Eastern Europe",49012,1993,"Slovensko","Republic","Bratislava",17.1073,48.1484
+"SVN","Slovenia","Europe","Southern Europe",20256,1991,"Slovenija","Republic","Ljubljana",14.5044,46.0546
+"SOM","Somalia","Africa","Eastern Africa",637657,1960,"Soomaaliya","Republic","Mogadishu",45.3254,2.07515
+"LKA","Sri Lanka","Asia","Southern and Central Asia",65610,1948,"Sri Lanka/Ilankai","Republic","Colombo",79.8528,6.92148
+"SDN","Sudan","Africa","Northern Africa",2505810,1956,"As-Sudan","Islamic Republic","Khartoum",32.5363,15.5932
+"FIN","Finland","Europe","Nordic Countries",338145,1917,"Suomi","Republic","Helsinki",24.9525,60.1608
+"SUR","Suriname","South America","South America",163265,1975,"Suriname","Republic","Paramaribo",-55.1679,5.8232
+"SWZ","Swaziland","Africa","Southern Africa",17364,1968,"kaNgwane","Monarchy","Mbabane",31.4659,-26.5225
+"CHE","Switzerland","Europe","Western Europe",41284,1499,"Schweiz/Suisse/Svizzera/Svizra","Federation","Bern",7.44821,46.948
+"SYR","Syria","Asia","Middle East",185180,1941,"Suriya","Republic","Damascus",36.3119,33.5146
+"TJK","Tajikistan","Asia","Southern and Central Asia",143100,1991,"Tocikiston","Republic","Dushanbe",68.7864,38.5878
+"TZA","Tanzania","Africa","Eastern Africa",883749,1961,"Tanzania","Republic","Dodoma",35.7382,-6.17486
+"DNK","Denmark","Europe","Nordic Countries",43094,800,"Danmark","Constitutional Monarchy","Copenhagen",12.5681,55.6763
+"THA","Thailand","Asia","Southeast Asia",513115,1350,"Prathet Thai","Constitutional Monarchy","Bangkok",100.521,13.7308
+"TGO","Togo","Africa","Western Africa",56785,1960,"Togo","Republic","Lome",1.2255,6.1228
+"TON","Tonga","Oceania","Polynesia",650,1970,"Tonga","Monarchy","Nuku'alofa",-175.216,-21.136
+"TTO","Trinidad and Tobago","North America","Caribbean",5130,1962,"Trinidad and Tobago","Republic","Port-of-Spain",-61.4789,10.6596
+"TCD","Chad","Africa","Central Africa",1284000,1960,"Tchad/Tshad","Republic","N'Djamena",15.0445,12.1048
+"CZE","Czech Republic","Europe","Eastern Europe",78866,1993,"¸esko","Republic","Prague",14.4205,50.0878
+"TUN","Tunisia","Africa","Northern Africa",163610,1956,"Tunis/Tunisie","Republic","Tunis",10.21,36.7899
+"TUR","Turkey","Asia","Middle East",774815,1923,"Turkiye","Republic","Ankara",32.3606,39.7153
+"TKM","Turkmenistan","Asia","Southern and Central Asia",488100,1991,"Turkmenostan","Republic","Ashgabat",58.3794,37.9509
+"TCA","Turks and Caicos Islands","North America","Caribbean",430,,"The Turks and Caicos Islands","Dependent Territory of the UK","Grand Turk",-71.141389,21.4602778
+"TUV","Tuvalu","Oceania","Polynesia",26,1978,"Tuvalu","Constitutional Monarchy","Funafuti",179.089567,-8.6314877
+"UGA","Uganda","Africa","Eastern Africa",241038,1962,"Uganda","Republic","Kampala",32.5729,0.314269
+"UKR","Ukraine","Europe","Eastern Europe",603700,1991,"Ukrajina","Republic","Kiev",30.5038,50.4536
+"HUN","Hungary","Europe","Eastern Europe",93030,1918,"Magyarorszag","Republic","Budapest",19.0408,47.4984
+"URY","Uruguay","South America","South America",175016,1828,"Uruguay","Republic","Montevideo",-56.0675,-34.8941
+"NCL","New Caledonia","Oceania","Melanesia",18575,,"Nouvelle-Caledonie","Nonmetropolitan Territory of France","Noum'ea",166.464,-22.2677
+"NZL","New Zealand","Oceania","Australia and New Zealand",270534,1907,"New Zealand/Aotearoa","Constitutional Monarchy","Wellington",174.776,-41.2865
+"UZB","Uzbekistan","Asia","Southern and Central Asia",447400,1991,"Uzbekiston","Republic","Tashkent",69.269,41.3052
+"BLR","Belarus","Europe","Eastern Europe",207600,1991,"Belarus","Republic","Minsk",27.5766,53.9678
+"VUT","Vanuatu","Oceania","Melanesia",12189,1980,"Vanuatu","Republic","Port-Vila",168.321,-17.7404
+"VEN","Venezuela","South America","South America",912050,1811,"Venezuela","Federal Republic","Caracas",-69.8371,9.08165
+"RUS","Russian Federation","Europe","Eastern Europe",17075400,1991,"Rossija","Federal Republic","Moscow",37.6176,55.7558
+"VNM","Vietnam","Asia","Southeast Asia",331689,1945,"Viet Nam","Socialistic Republic","Hanoi",105.825,21.0069
+"EST","Estonia","Europe","Baltic Countries",45227,1991,"Eesti","Republic","Tallinn",24.7586,59.4392
+"USA","United States","North America","North America",9363520,1776,"United States","Federal Republic","Washington D.C.",-77.032,38.8895
+"VIR","Virgin Islands, U.S.","North America","Caribbean",347,,"Virgin Islands of the United States","US Territory","Charlotte Amalie",-64.8963,18.3358
+"ZWE","Zimbabwe","Africa","Eastern Africa",390757,1980,"Zimbabwe","Republic","Harare",31.0672,-17.8312
+"PSE","Palestine","Asia","Middle East",6257,,"Filastin","Autonomous Area",,,
