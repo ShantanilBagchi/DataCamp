@@ -14,4 +14,4 @@
 # Data Scientist with Python
 | Course | Slides | Dataset | Notes| Solutions |
 | ------------- |:-------------:| :-----:| :-----:| :-----:|
-| Introduction | - | - | - | - |
+| Introduction | - | - | - | [link](./data_science_tools/blob_datapane.ipynb)|
