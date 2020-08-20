@@ -6,6 +6,7 @@
 2. [Data Analyst with Python](#data-analyst-with-python)
 3. [Data Analyst with SQL Server](#data-analyst-with-sql-server)
 4. [Data Science for Everyone](#data-science-for-everyone)
+4. [Machine Learning Scientist with Python](#machine-learning-scientist-with-python)
 
 ## Skill Tracks
 
@@ -112,8 +113,38 @@
 | Introduction to Deep Learning in Python | - | - | - | - |
 | Introduction to Network Analysis in Python | - | - | - | - |
 
-
-
+# Machine Learning Scientist with Python
+| Course | Slides | Dataset | Notes| Solutions |
+| ------------- |:-------------:| :-----:| :-----:| :-----:|
+| Machine Learning for Everyone | - | - | - | - |
+| Introduction to Python | - | - | - | - |
+| Intermediate Python | - | - | - | - |
+| Python Data Science Toolbox (Part 1) | - | - | - | - |
+| Python Data Science Toolbox (Part 2) | - | - | - | - |
+| Statistical Thinking in Python (Part 1) | - | - | - | - |
+| Supervised Learning with scikit-learn | - | - | - | - |
+| Unsupervised Learning in Python | - | - | - | - |
+| Linear Classifiers in Python | - | - | - | - |
+| Machine Learning with Tree-Based Models in Python | - | - | - | - |
+| Extreme Gradient Boosting with XGBoost | - | - | - | - |
+| Cluster Analysis in Python | - | - | - | - |
+| Dimensionality Reduction in Python | - | - | - | - |
+| Preprocessing for Machine Learning in Python | - | - | - | - |
+| Machine Learning for Time Series Data in Python | - | - | - | - |
+| Feature Engineering for Machine Learning in Python | - | - | - | - |
+| Model Validation in Python | - | - | - | - |
+| Introduction to Natural Language Processing in Python | - | - | - | - |
+| Feature Engineering for NLP in Python | - | - | - | - |
+| Introduction to TensorFlow in Python | - | - | - | - |
+| Introduction to Deep Learning in Python | - | - | - | - |
+| Introduction to Deep Learning with Keras | - | - | - | - |
+| Advanced Deep Learning with Keras | - | - | - | - |
+| Image Processing in Python | - | - | - | - |
+| Image Processing with Keras in Python | - | - | - | - |
+| Hyperparameter Tuning in Python | - | - | - | - |
+| Introduction to PySpark | - | - | - | - |
+| Machine Learning with PySpark | - | - | - | - |
+| Winning a Kaggle Competition in Python | - | - | - | - |
 
 
 
