@@ -1,4 +1,5 @@
 # DataCamp
+Thank you for viewing the repository. I am still in the process of updating it. It will take me some time but if you also want to contribute to create a complete repository, please feel free to do so. 
 
 # Contents
 ## Career Tracks 
