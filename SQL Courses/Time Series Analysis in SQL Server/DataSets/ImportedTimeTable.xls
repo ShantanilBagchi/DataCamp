@@ -1,0 +1,8 @@
+EventDate,TimeZone,IsValidDate
+20190408 8:00,Cen. Australia Standard Time,1
+20190408 08:00:00,US Eastern Standard Time,1
+2019-04-08 08:00:00,China Standard Time,1
+2019-04-08 8:00,Morocco Standard Time,1
+NOT VALID,Morocco Standard Time,0
+-49,,0
+20190401 17:00,Made Up Time Zone,1

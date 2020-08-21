@@ -1,0 +1,6 @@
+IncidentTypeID,IncidentType
+1,Left computer unlocked
+2,Forgot key card
+3,Installed unapproved software
+4,Clicked malicious link
+5,Ransomware installed

@@ -1,0 +1,1765 @@
+﻿company,bean_origin,cocoa_percent,company_location,rating,bean_type,broad_bean_origin
+Amedei,Toscano Black,0.7,Italy,2.75,Blend,Unknown
+Amedei,Toscano Black,0.66,Italy,2.75,Blend,Unknown
+Bonnat,Trinite,0.75,France,2.75,Trinitario,Carribean
+Bonnat,Ocumare- Puerto Cabello,0.75,France,2.75,Unknown,Venezuela
+Bonnat,Maracaibo- El Rosario,0.75,France,3,Criollo,Venezuela
+Bonnat,Madagascar,0.75,France,3,Trinitario,Madagascar
+Bonnat,One Hundred,1,France,3,Unknown,Unknown
+Bonnat,Ceylan,0.75,France,3.25,Unknown,Sri Lanka
+Bonnat,Chuao,0.75,France,3.25,Trinitario,Venezuela
+Cote d' Or (Kraft),Sensations Intense,0.7,Belgium,3.25,Unknown,Unknown
+Dolfin (Belcolade),Noir,0.7,Belgium,3.5,Unknown,Unknown
+Domori,Sur del Lago Classificado,0.7,Italy,3.5,Trinitario,Venezuela
+Domori,Apurimac,0.7,Italy,3.5,Trinitario,Peru
+Domori,Carenero Superior,0.7,Italy,3.5,Trinitario,Venezuela
+El Rey,Carenero Superior- Gran Saman,0.7,Venezuela,3.5,Criollo,Venezuela
+Felchlin,Supremo- SF,0.62,Switzerland,3.5,Unknown,Unknown
+Felchlin,Elvesia P.,0.74,Switzerland,3.75,Trinitario- Criollo,Dominican Republic
+Felchlin,Madagascar- Grand Cru,0.64,Switzerland,3.75,Criollo,Madagascar
+Felchlin,Maracaibo Clasificado,0.65,Switzerland,3.75,Criollo,Venezuela
+Felchlin,Arriba,0.72,Switzerland,3.75,Forastero (Arriba),Ecuador
+Felchlin,Alto Beni- Cru Savage,0.68,Switzerland,4,Criollo (Wild),Bolivia
+Green & Black's (ICAM),Dark,0.7,U.K.,4,Unknown,Unknown
+Guittard,Chucuri,0.65,U.S.A.,4,Trinitario,Colombia
+Guittard,Sur del Lago,0.65,U.S.A.,3.75,Trinitario- Criollo,Venezuela
+Guittard,Sambirano- Ambanja,0.65,U.S.A.,3.75,Criollo- +,Madagascar
+Guittard,Los Rios- Quevedo,0.65,U.S.A.,2.75,Forastero (Arriba),Ecuador
+Guittard,Tsaranta,0.61,U.S.A.,3.25,Blend,Unknown
+Guittard,Semisweet,0.61,U.S.A.,3.5,Blend,Unknown
+Jacque Torres,Trinatario Treasure,0.71,U.S.A.,3.5,Trinitario,Ghana
+Michel Cluizel,Carre Amer,0.6,France,2.75,Unknown,Unknown
+Michel Cluizel,Carre Grand Noir,0.85,France,3,Unknown,Unknown
+Michel Cluizel,Tamarina,0.7,France,3,Forastero,Sao Tome
+Michel Cluizel,Los Ancones P.,0.67,France,2.75,Unknown,Dominican Republic
+Michel Cluizel,Mangaro P.,0.65,France,2.75,Trinitario,Madagascar
+Michel Cluizel,Maralumi P.,0.64,France,3.75,Unknown,Papua New Guinea
+Michel Cluizel,Noir Infini,0.99,France,2.5,Unknown,Unknown
+Neuhaus (Callebaut),West Africa,0.73,Belgium,2.5,Forastero,West Africa
+Neuhaus (Callebaut),Sao Tome,0.75,Belgium,2.75,Forastero,Sao Tome
+Neuhaus (Callebaut),Ocumare,0.71,Belgium,2.75,Criollo,Venezuela
+Original Hawaiin Chocolate Factory,Hawai'i- Kona Estate Grown,0.6,U.S.A.,3,Unknown,Hawaii
+Pierre Marcolini,Porcelana- Tabasco- Limited Ed.,0.72,Belgium,3.5,Criollo,Mexico
+Pierre Marcolini,Kendem Lembu- Java,0.72,Belgium,3.5,Criollo,Indonesia
+Pierre Marcolini,Ocumare- Puerto Cabello- Venezuela,0.72,Belgium,3.5,Criollo,Venezuela
+Pralus,Monte Alegre (Itacare)- Brazil,0.75,France,3.5,Forastero,Brazil
+Pralus,Tanzania,0.75,France,2.5,Criollo,Tanzania
+Pralus,Sao Tome & Principe,0.75,France,2.5,Forastero,Sao Tome & Principe
+Pralus,Trinidad,0.75,France,2.5,Trinitario,Trinidad
+Pralus,Madagascar- Nosy Be Isle.,0.75,France,2.75,Criollo,Madagascar
+Pralus,Java- Indonesie,0.75,France,2.75,Criollo,Indonesia
+Pralus,Barlovento- Venezuela,0.75,France,3,Trinitario,Venezuela
+Pralus,Jamaique,0.75,France,3,Trinitario,Jamaica
+Pralus,Equateur,0.75,France,3,Trinitario,Ecuador
+Pralus,Vanuatu,0.75,France,3.25,Trinitario,Vanuatu
+Pralus,Ghana,0.75,France,3.25,Forastero,Ghana
+Pralus,Colombie,0.75,France,2.75,Trinitario,Colombia
+Pralus,Fortissima,0.8,France,3,Criollo- Trinitario,Ecuador
+Pralus,Cuba,0.75,France,3,Trinitario,Cuba
+Pralus,Caracas- Venezuela and Ghana,0.75,France,3,Trinitario- Forastero,Venezuela- Ghana
+Pralus,Djakarta- Java and Ghana,0.75,France,3.5,Criollo- Forastero,Indonesia- Ghana
+Santander (Compania Nacional),Colombian Semi Dark,0.53,Colombia,3.75,Forastero (Nacional),Colombia
+Santander (Compania Nacional),Colombian,0.65,Colombia,3.75,Forastero (Nacional),Colombia
+Santander (Compania Nacional),Colombian Dark,0.7,Colombia,4,Forastero (Nacional),Colombia
+Scharffen Berger,Extra Dark,0.82,U.S.A.,4,Unknown,Unknown
+Scharffen Berger,Bittersweet,0.7,U.S.A.,2.75,Blend,Unknown
+Scharffen Berger,Kumasi Sambirano,0.68,U.S.A.,2.75,Blend,Ghana & Madagascar
+Scharffen Berger,Jamaica a l'ancienne,0.7,U.S.A.,3,Trinitario,Jamaica
+Scharffen Berger,Semisweet,0.62,U.S.A.,3,Blend,Unknown
+Valrhona,Caraibe,0.66,France,3.25,Trinitario,Carribean
+Valrhona,Guanaja,0.7,France,3.5,Criollo- Trinitario,South America
+Valrhona,Gran Couva 2005 P.,0.64,France,3,Trinitario,Trinidad
+Valrhona,Porcelana- Maracaibo- Palmira P. 2005,0.64,France,3.25,Criollo (Porcelana),Venezuela
+Valrhona,Sambirano- Ampamakia 2005- Millot P.,0.64,France,3.25,Trinitario,Madagascar
+Amano,Madagascar,0.7,U.S.A.,3.25,Trinitario,Madagascar
+Amano,Cuyagua,0.7,U.S.A.,3.25,Unknown,Venezuela
+Amano,Ocumare,0.7,U.S.A.,3.5,Criollo,Venezuela
+Amedei,Porcelana,0.7,Italy,3,Criollo (Porcelana),Venezuela
+Amedei,Nine,0.75,Italy,3,Blend,Unknown
+Amedei,Chuao,0.7,Italy,3.5,Trinitario,Venezuela
+Amedei,Ecuador,0.7,Italy,3.5,Trinitario,Ecuador
+Amedei,Jamaica,0.7,Italy,3.5,Trinitario,Jamaica
+Amedei,Grenada,0.7,Italy,3.75,Trinitario,Grenada
+Amedei,Venezuela,0.7,Italy,3.75,Trinitario (85% Criollo),Venezuela
+Amedei,Madagascar,0.7,Italy,4,Trinitario (85% Criollo),Madagascar
+Amedei,Trinidad,0.7,Italy,4,Trinitario,Trinidad
+Amedei,Toscano Black,0.63,Italy,4,Blend,Unknown
+Askinosie,Xoconusco,0.75,U.S.A.,4,Trinitario,Mexico
+Askinosie,San Jose del Tambo,0.7,U.S.A.,5,Forastero (Arriba),Ecuador
+Bonnat,Equateur,0.75,France,5,Forastero (Arriba),Ecuador
+Cacao Barry,Venezuela,0.72,France,2.75,Unknown,Venezuela
+Cacao Barry,Mexico,0.66,France,3.25,Unknown,Mexico
+Callebaut,Baking,0.7,Belgium,3.75,Unknown,Ecuador
+Chocovic,Bolivar- Guaranda,0.71,Spain,3.75,Forastero (Arriba),Ecuador
+Chocovic,Guyave,0.71,Spain,4,Trinitario,Grenada
+Chocovic,Maragda,0.7,Spain,3,Blend,Unknown
+Coppeneur,Sambirano- Menava P.,0.72,Germany,3.5,Trinitario,Madagascar
+Dean and Deluca (Belcolade),Madagascar,0.66,U.S.A.,2.5,Trinitario,Madagascar
+Dean and Deluca (Belcolade),Costa Rica,0.64,U.S.A.,2.75,Unknown,Costa Rica
+Dean and Deluca (Belcolade),Ecuador,0.71,U.S.A.,3,Unknown,Ecuador
+Dean and Deluca (Belcolade),Ghana,0.6,U.S.A.,3,Forastero,Ghana
+Dean and Deluca (Belcolade),Papua New Guinea,0.64,U.S.A.,2.75,Unknown,Papua New Guinea
+Dean and Deluca (Belcolade),Peru,0.64,U.S.A.,3.25,Unknown,Peru
+DeVries,Costa Rica,0.77,U.S.A.,3.25,Trinitario,Costa Rica
+DeVries,Dominican Republic,0.77,U.S.A.,3.25,Unknown,Dominican Republic
+Domori,Porcelana,0.7,Italy,3.25,Criollo (Porcelana),Venezuela
+Domori,Ocumare 61- Puertomar,0.75,Italy,3.25,Criollo (Ocumare 61),Venezuela
+Domori,Granella,0.6,Italy,3.5,Trinitario,Venezuela
+Domori,Madagascar,0.7,Italy,3.5,Trinitario,Madagascar
+Domori,Madagared,0.7,Italy,3.5,Criollo,Madagascar
+Domori,Java- Javablond,0.7,Italy,3.5,Criollo,Indonesia
+Domori,Ecuador,0.7,Italy,3.5,Forastero (Arriba),Ecuador
+Domori,Ocumare 67- Puertofino,0.7,Italy,3.5,Criollo (Ocumare 67),Venezuela
+Guittard,Quetzalcoatl,0.72,U.S.A.,3.5,Blend,Unknown
+Hachez,Arriba,0.77,Germany,3.5,Forastero (Arriba),Ecuador
+Lindt & Sprungli,Excellence (US Version),0.85,Switzerland,3.75,Unknown,Unknown
+Malagasy (Chocolaterie Robert),Sambirano 2006,0.75,Madagascar,3.75,Trinitario,Madagascar
+Malagasy (Chocolaterie Robert),Mora Mora 2006,0.73,Madagascar,3.75,Trinitario,Madagascar
+Michel Cluizel,Carenero Superior- Concepcion,0.66,France,3.75,Trinitario,Venezuela
+Michel Cluizel,Vila Gracinda,0.67,France,3.75,Forastero,Sao Tome
+Neuhaus (Callebaut),Dark,0.73,Belgium,4,Unknown,Unknown
+Patric,Madagascar,0.7,U.S.A.,4,Trinitario,Madagascar
+Pierre Marcolini,Cabosse,0.7,Belgium,4,Blend,Venezuela- Java
+Pierre Marcolini,Los Rios- Puerto Romero- Equateur,0.72,Belgium,1.75,Forastero (Nacional),Ecuador
+Pierre Marcolini,Sambirano- Ambanja- Madagascar,0.72,Belgium,1.75,Trinitario,Madagascar
+Pierre Marcolini,Fleur de Cacao,0.85,Belgium,2.5,Blend,Venezuela/ Ghana
+Pralus,Claudio Corallo w/ nibs,0.75,France,2.75,Forastero,Sao Tome
+Republica del Cacao (aka Confecta),Manabi,0.75,Ecuador,2.75,Forastero (Arriba),Ecuador
+Republica del Cacao (aka Confecta),El Oro,0.67,Ecuador,3,Forastero (Arriba),Ecuador
+Republica del Cacao (aka Confecta),Los Rios,0.75,Ecuador,3,Forastero (Arriba),Ecuador
+Scharffen Berger,Las Islas,0.72,U.S.A.,3.25,Blend,Carribean(DR/Jam/Tri)
+Scharffen Berger,Nibby,0.62,U.S.A.,3.25,Unknown,Unknown
+Scharffen Berger,Cuyagua,0.75,U.S.A.,3.25,Unknown,Venezuela
+Scharffen Berger,Antilles (Trin/Gren/DR/Ven),0.75,U.S.A.,3.25,Blend,Carribean
+Taza,Dark- Stone Ground,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Theo,Madagascar,0.65,U.S.A.,3.75,Trinitario,Madagascar
+Theo,Ivory Coast,0.75,U.S.A.,3.75,Unknown,Ivory Coast
+Theo,Ghana- Kumasi,0.84,U.S.A.,3.75,Forastero,Ghana
+Theo,Ghana- Panama- Ecuador,0.75,U.S.A.,4,Blend,Ghana- Panama- Ecuador
+Valrhona,Araguani,0.72,France,2.75,Blend,Venezuela- Carribean
+Valrhona,Chuao 2002 P.,0.65,France,2.5,Trinitario,Venezuela
+Valrhona,Manjari,0.64,France,3,Criollo- Trinitario,Madagascar
+Valrhona,Le Noir Extra Amer,0.85,France,3.75,Unknown,Unknown
+Valrhona,Abinao,0.85,France,3.75,Forastero,West Africa
+Valrhona,Le Noir Amer,0.71,France,3.75,Forastero,West Africa
+Valrhona,Porcelana- Maracaibo- Palmira P. 2006,0.64,France,3.75,Criollo (Porcelana),Venezuela
+Vintage Plantations (Tulicorp),Los Rios- Rancho Grande 2004/2007,1,U.S.A.,2.5,Forastero (Arriba),Ecuador
+Vintage Plantations (Tulicorp),Los Rios- Rancho Grande 2004/2007,0.9,U.S.A.,2.5,Forastero (Arriba),Ecuador
+Vintage Plantations (Tulicorp),Los Rios- Rancho Grande 2004/2007,0.75,U.S.A.,3,Forastero (Arriba),Ecuador
+Vintage Plantations (Tulicorp),Los Rios- Rancho Grande 2007,0.65,U.S.A.,3.25,Forastero (Arriba),Ecuador
+Amano,Bali- Jembrana,0.7,U.S.A.,3.5,Unknown,Indonesia
+Artisan du Chocolat,Congo,0.72,U.K.,2.75,Forastero,Congo
+Bittersweet Origins,Sambirano,0.71,U.S.A.,3.5,Trinitario,Madagascar
+Bittersweet Origins,Bocas del Toro,0.75,U.S.A.,3.25,Unknown,Panama
+Bittersweet Origins,Puerto Plata,0.68,U.S.A.,3.5,Unknown,Dominican Republic
+Bittersweet Origins,Ankasa,0.7,U.S.A.,3.5,Forastero,Ghana
+Black Mountain,La Red,0.7,U.S.A.,3.75,Unknown,Dominican Republic
+Black Mountain,Carenero Superior,0.7,U.S.A.,4,Trinitario,Venezuela
+Black Mountain,Matiguas,0.7,U.S.A.,2.75,Unknown,Nicaragua
+Bonnat,Porcelana- Venezuela,0.75,France,3.25,Criollo (Porcelana),Venezuela
+Cacao Barry,Tanzania,0.75,France,3.5,Unknown,Tanzania
+Cacaoyere (Ecuatoriana),Amazonia,0.63,Ecuador,3.75,Forastero (Arriba),Ecuador
+Cacaoyere (Ecuatoriana),Esmeraldas,0.71,Ecuador,3,Forastero (Arriba),Ecuador
+Cacaoyere (Ecuatoriana),Bolivar,0.82,Ecuador,3.25,Forastero (Arriba),Ecuador
+Cacaoyere (Ecuatoriana),Pichincha,0.91,Ecuador,2.75,Forastero (Arriba),Ecuador
+Callebaut,Grenade,0.6,Belgium,2.75,Trinitario,Grenada
+Caoni (Tulicorp),Esmeraldas,0.77,Ecuador,2.75,Forastero (Arriba),Ecuador
+Caoni (Tulicorp),Manabi,0.77,Ecuador,2.75,Forastero (Arriba),Ecuador
+Caoni (Tulicorp),Los Rios,0.77,Ecuador,2.75,Forastero (Arriba),Ecuador
+Caoni (Tulicorp),Manabi,0.55,Ecuador,2.75,Forastero (Arriba),Ecuador
+Caoni (Tulicorp),Los Rios,0.55,Ecuador,2.75,Forastero (Arriba),Ecuador
+Caoni (Tulicorp),Esmeraldas,0.55,Ecuador,3.5,Forastero (Arriba),Ecuador
+Chchukululu (Tulicorp),Los Rios,0.75,Ecuador,3.25,Forastero (Arriba),Ecuador
+Chocovic,Ocumare,0.71,Spain,3.5,Criollo,Venezuela
+Claudio Corallo,Terreiro Velho P. w/ sugar crystals,0.8,Sao Tome,3.5,Forastero,Sao Tome & Principe
+Claudio Corallo,Terreiro Velho P.,0.75,Sao Tome,2.75,Forastero,Sao Tome & Principe
+Claudio Corallo,Principe,1,Sao Tome,3,Forastero,Sao Tome & Principe
+Compania de Chocolate (Salgado),Carenero Superior,0.8,Argentina,3.5,Trinitario,Venezuela
+Compania de Chocolate (Salgado),Moxos,0.72,Argentina,3.5,Unknown,Bolivia
+Compania de Chocolate (Salgado),Ocumare,0.7,Argentina,3.5,Criollo,Venezuela
+Compania de Chocolate (Salgado),Esmeraldas,0.88,Argentina,3.5,Forastero (Nacional),Ecuador
+Coppeneur,Porcelana- Tabasco- Mexico,0.72,Germany,3.75,Criollo,Mexico
+Coppeneur,Porcelana- Venezuela,0.72,Germany,4,Criollo (Porcelana),Venezuela
+Debauve & Gallais (Michel Cluizel),Venezuela,0.66,France,4,Unknown,Venezuela
+DeVries,Bolivian,0.8,U.S.A.,2.75,Unknown,Bolivia
+Dolfin (Belcolade),Africa,0.88,Belgium,3,Forastero,West Africa
+Domori,Carupano- H. San Jose,0.7,Italy,3,Trinitario,Venezuela
+Domori,Teyuna,0.7,Italy,3.25,Unknown,Colombia
+Domori,Blend No. 1,0.78,Italy,3.25,Blend,Unknown
+Domori,Ilblend,0.7,Italy,3.5,Blend,Unknown
+El Ceibo,Alto Beni,0.71,Bolivia,3.5,Unknown,Bolivia
+El Rey,Carenero Superior- Apamate,0.74,Venezuela,3.5,Criollo,Venezuela
+El Rey,Carenero Superior- Bucare,0.58,Venezuela,4,Criollo,Venezuela
+El Rey,Carenero Superior- Mijao,0.61,Venezuela,2.5,Criollo,Venezuela
+Escazu,Ocumare,0.72,U.S.A.,2.5,Criollo,Venezuela
+Grenada Chocolate Co.,Grenada,0.71,Grenada,2.5,Trinitario,Grenada
+Guittard,Machu Pichu,0.65,U.S.A.,3.25,Unknown,Peru
+Guittard,Special Maker Reserve,0.64,U.S.A.,2.75,Unknown,Unknown
+Guittard,Ocumare,0.65,U.S.A.,3,Unknown,Venezuela
+Hotel Chocolat (Coppeneur),St. Lucia,0.72,U.K.,3,Unknown,St. Lucia
+Hotel Chocolat (Coppeneur),Uganda,0.8,U.K.,3,Forastero,Uganda
+Hotel Chocolat (Coppeneur),Tanzania,0.75,U.K.,3,Unknown,Tanzania
+Hotel Chocolat (Coppeneur),Uba Budo,0.72,U.K.,3,Forastero,Sao Tome
+Kallari (Ecuatoriana),Sisa 36hr/ W. F. blend prototype,0.7,Ecuador,3.25,Unknown,Ecuador
+Kallari (Ecuatoriana),Sisa's Secret/ original micro,0.7,Ecuador,3.25,Unknown,Ecuador
+Kallari (Ecuatoriana),Roberto,0.75,Ecuador,3.5,Unknown,Ecuador
+Kallari (Ecuatoriana),Diego/ original micro,0.85,Ecuador,3.5,Unknown,Ecuador
+Kallari (Ecuatoriana),Diego 48hr/ W.F. blend prototype,0.85,Ecuador,3.5,Unknown,Ecuador
+Kallari (Ecuatoriana),Diego 60hr/ W.F. blend prototype,0.85,Ecuador,3.5,Unknown,Ecuador
+Kallari (Ecuatoriana),Cacao Nacional W.F.,0.75,Ecuador,3.75,Unknown,Ecuador
+Kallari (Ecuatoriana),Cacao Nacional W.F.,0.85,Ecuador,3.75,Unknown,Ecuador
+La Maison du Chocolat (Valrhona),Cuana- 2008,0.74,France,2.75,Blend,Ven.- Indonesia- Ecuad.
+Madecasse (Cinagra),Madagascar,0.67,Madagascar,2.75,Trinitario,Madagascar
+Madecasse (Cinagra),Madagascar,0.7,Madagascar,3,Trinitario,Madagascar
+Madecasse (Cinagra),Madagascar,0.63,Madagascar,2.75,Trinitario,Madagascar
+Madecasse (Cinagra),Madagascar,0.75,Madagascar,2.75,Trinitario,Madagascar
+Maglio,Africa,0.75,Italy,3.5,Unknown,Tanzania
+Maglio,Ecuador,0.7,Italy,2.75,Forastero (Nacional),Ecuador
+Maglio,Cuba,0.7,Italy,3,Criollo,Cuba
+Maglio,Santo Domingo,0.7,Italy,3.5,Blend-Forastero-Criollo,Dominican Republic
+Neuhaus (Callebaut),Manickchand Estate,0.67,Belgium,3.5,Trinitario,Trinidad
+Pacari,Esmeraldas,0.6,Ecuador,3.5,Forastero (Arriba),Ecuador
+Pacari,Manabi,0.65,Ecuador,3.75,Forastero (Arriba),Ecuador
+Pacari,Los Rios,0.72,Ecuador,1.5,Forastero (Arriba),Ecuador
+Pacari,Raw,1,Ecuador,2.5,Forastero (Arriba),Ecuador
+Pacari,Raw,0.7,Ecuador,2.75,Forastero (Arriba),Ecuador
+Pralus,Papouasie,0.75,France,3,Trinitario,Papua New Guinea
+Pralus,Sambirano Valley- Le 100%,1,France,3,Criollo,Madagascar
+Pralus,Dominican Republic-Organic,0.75,France,3,Unknown,Dominican Republic
+Pralus,Monte Alegre- Diego Badero,0.75,France,3,Unknown,Brazil
+Rogue,Hispaniola- 2008,0.7,U.S.A.,3.25,Unknown,Dominican Republic
+Rogue,Jamaica,0.7,U.S.A.,3.25,Trinitario,Jamaica
+Rogue,Sambirano- 2008,0.7,U.S.A.,3.25,Trinitario,Madagascar
+Rogue,Trinidad,0.7,U.S.A.,3.5,Trinitario,Trinidad
+Salgado,Bahia Superior,0.7,Argentina,3.5,Forastero,Brazil
+Salgado,Esmeraldas,0.7,Argentina,3.5,Forastero (Nacional),Ecuador
+Salgado,Carenero Superior,0.7,Argentina,3.5,Trinitario,Venezuela
+Salgado,Rio Arriba,0.7,Argentina,3.5,Forastero (Arriba) ASSS,Ecuador
+Scharffen Berger,Finisterra,0.72,U.S.A.,3.5,Blend,Ven.- Trinidad- Mad.
+TCHO,Chocolatey-beta,0.7,U.S.A.,3.75,Forastero,Ghana
+TCHO,Fruity-beta,0.7,U.S.A.,3.75,Unknown,Peru
+TCHO,Citrus-beta,0.7,U.S.A.,3.75,Unknown,Madagascar
+TCHO,Nutty-beta,0.7,U.S.A.,4,Unknown,Peru
+Aequare (Gianduja),Los Rios- Quevedo- Arriba,0.55,Ecuador,4,Forastero (Arriba),Ecuador
+Aequare (Gianduja),Los Rios- Quevedo- Arriba,0.7,Ecuador,4,Forastero (Arriba),Ecuador
+Ah Cacao,Tabasco,0.7,Mexico,4,Criollo,Mexico
+Amano,Montanya,0.7,U.S.A.,4,Unknown,Venezuela
+Amatller (Simon Coll),Ghana,0.7,Spain,4,Forastero,Ghana
+Amatller (Simon Coll),Ecuador,0.7,Spain,4,Unknown,Ecuador
+Amatller (Simon Coll),Ecuador,0.85,Spain,4,Unknown,Ecuador
+Amatller (Simon Coll),Ghana,0.85,Spain,1.5,Forastero,Ghana
+Artisan du Chocolat,Ocumare- Venezuela,0.75,U.K.,3.25,Criollo- Trinitario,Venezuela
+Artisan du Chocolat,Java,0.72,U.K.,2.75,Trinitario,Indonesia
+Artisan du Chocolat,Brazil Rio Doce,0.72,U.K.,2.75,Unknown,Brazil
+Artisan du Chocolat,Madagascar,0.8,U.K.,3,Criollo- Trinitario,Madagascar
+Artisan du Chocolat,Peru,0.75,U.K.,3.25,Criollo,Peru
+Artisan du Chocolat,Dominican Republic,0.72,U.K.,3.5,Trinitario,Dominican Republic
+Askinosie,Davao,0.77,U.S.A.,3.5,Trinitario,Philippines
+Bittersweet Origins,Puerto Plata,0.75,U.S.A.,3.5,Unknown,Dominican Republic
+Bittersweet Origins,Puerto Plata,0.65,U.S.A.,3.75,Unknown,Dominican Republic
+Bittersweet Origins,Sambirano,0.75,U.S.A.,3.75,Trinitario,Madagascar
+Bittersweet Origins,Sambirano,0.65,U.S.A.,3.75,Trinitario,Madagascar
+Blanxart,Organic Dark,0.72,Spain,4,Unknown,Unknown
+Bonnat,Ivory Coast,0.75,France,2.75,Unknown,Ivory Coast
+Bonnat,Porcelana- Apotequil,0.75,France,3,Criollo,Peru
+Bonnat,Porcelana- Tabasco- Marfil de Blanco,0.75,France,3.25,Criollo,Mexico
+Bonnat,Xoconusco- cacao Real,0.75,France,3.25,Criollo,Mexico
+Bouga Cacao (Tulicorp),El Oro- Hacienda de Oro,0.77,Ecuador,3.25,Forastero (Arriba),Ecuador
+Bouga Cacao (Tulicorp),El Oro- Hacienda de Oro,1,Ecuador,3.5,Forastero (Arriba),Ecuador
+Cacao Sampaka,Porcelana- Tabasco- La Joya,0.7,Spain,3,Criollo,Mexico
+Cacao Sampaka,Xoconusco- Chiapas,0.7,Spain,2.75,Criollo,Mexico
+Cemoi,Equateur,0.72,France,3,Unknown,Ecuador
+Chocovic,Kendari,0.6,Spain,3.5,Unknown,Unknown
+Chocovic,Tarakan,0.75,Spain,3.5,Unknown,Unknown
+Choklat,Ocumare,0.8,Canada,3.25,Criollo,Venezuela
+Choklat,Porcelana- Tabasco,0.7,Canada,2.75,Criollo,Mexico
+Choklat,Brazilian,0.7,Canada,2.5,Unknown,Brazil
+Choklat,Brazilian,0.8,Canada,3.25,Unknown,Brazil
+Choklat,Ocumare,0.7,Canada,3.25,Criollo,Venezuela
+Chuao Chocolatier,Choroni,0.61,U.S.A.,3.25,Criollo,Venezuela
+Coppeneur,Porcelana- Apotequil,0.72,Germany,3.5,Criollo,Peru
+Coppeneur,Porcelana- Apotequil,0.62,Germany,2.5,Criollo,Peru
+Coppeneur,Chuao 100hr,0.7,Germany,2.25,Criollo- Trinitario,Venezuela
+Coppeneur,Chuao 70hr,0.7,Germany,2.5,Criollo- Trinitario,Venezuela
+Danta,Las Acacias E.,0.75,Guatemala,2.5,Criollo,Guatemala
+Danta,Las Acacias E.,0.6,Guatemala,2.75,Criollo,Guatemala
+Debauve & Gallais (Michel Cluizel),Papua New Guinea,0.64,France,2,Unknown,Papua New Guinea
+Dole (Guittard),O'ahu- N. Shore- Waialua Estate,0.7,U.S.A.,2,Unknown,Hawaii
+El Rey,Rio Caribe- Cariaco,0.65,Venezuela,3,Trinitario,Venezuela
+El Rey,Rio Caribe- Macuro,0.7,Venezuela,3,Trinitario,Venezuela
+Escazu,Guapiles,0.65,U.S.A.,3.5,Unknown,Costa Rica
+Escazu,Carenero Superior,0.81,U.S.A.,3.25,Criollo,Venezuela
+Escazu,Carenero- Guapiles- Ocumare blend,0.74,U.S.A.,3.5,Unknown,Cost Rica- Ven
+Fresco,Jamaica- #204- DR- SC,0.8,U.S.A.,3.5,Trinitario,Jamaica
+Fresco,Jamaica- #206- DR- LC,0.7,U.S.A.,3.75,Trinitario,Jamaica
+Fresco,Jamaica- #205- DR- MC,0.7,U.S.A.,3.25,Trinitario,Jamaica
+Fresco,Carenero Superior- #203- MR- SC,0.65,U.S.A.,2.75,Criollo,Venezuela
+Grenada Chocolate Co.,Grenada,0.6,Grenada,3.25,Trinitario,Grenada
+Guido Castagna,Arriba,0.64,Italy,3.5,Forastero (Arriba) ASS,Ecuador
+Guido Castagna,Ghana,0.64,Italy,3.5,Forastero,Ghana
+Guido Castagna,Trinidad & Tobago,0.64,Italy,3.75,Unknown,Trinidad- Tobago
+Guido Castagna,Lacri Blend,0.76,Italy,3.75,Unknown,Venezuela
+Guido Castagna,Blend,0.64,Italy,3.75,Unknown,Ven- Trinidad- Ecuador
+Guittard,O'ahu- N. Shore- Waialua E.- Kakoleka,0.55,U.S.A.,3.5,Unknown,Hawaii
+Guittard,Nocturne,0.91,U.S.A.,3,Unknown,Unknown
+Guittard,Complexite,0.7,U.S.A.,3.25,Blend,Unknown
+Hoja Verde (Tulicorp),Arriba,0.8,Ecuador,3.75,Forastero (Arriba) ASS,Ecuador
+Hoja Verde (Tulicorp),Manabi,0.8,Ecuador,3.75,Forastero (Arriba) ASS,Ecuador
+Hoja Verde (Tulicorp),Arriba,0.72,Ecuador,3.25,Forastero (Arriba) ASS,Ecuador
+Hoja Verde (Tulicorp),Arriba,0.58,Ecuador,3.5,Forastero (Arriba) ASS,Ecuador
+Hoja Verde (Tulicorp),Manabi,0.58,Ecuador,3.5,Forastero (Arriba) ASS,Ecuador
+Holy Cacao,Ivory Coast,0.7,Israel,3.5,Unknown,Ivory Coast
+Holy Cacao,Hispaniola,0.7,Israel,3.5,Unknown,Dominican Republic
+Holy Cacao,San Martin,0.7,Israel,3.75,Unknown,Peru
+Holy Cacao,Hispaniola w/ nibs,0.75,Israel,4,Unknown,Dominican Republic
+Kakao,Vanuatu,0.65,Germany,4,Trinitario,Vanuatu
+Kaoka (Cemoi),Noir,0.7,France,4,Unknown,Unknown
+Kaoka (Cemoi),Ecuador,0.8,France,3,Unknown,Ecuador
+Ki' Xocolatl,Dark,0.72,Mexico,3.25,Unknown,Mexico
+L.A. Burdick (Felchlin),Madagascar,0.64,U.S.A.,3.5,Trinitario,Madagascar
+L.A. Burdick (Felchlin),Bolivian,0.68,U.S.A.,3.25,Unknown,Bolivia
+La Maison du Chocolat (Valrhona),Akosombo,0.68,France,1.5,Forastero,Ghana
+La Maison du Chocolat (Valrhona),Porcelana- Pariguan,0.69,France,2.5,Criollo (Porcelana),Venezuela
+La Maison du Chocolat (Valrhona),Kuruba,0.6,France,3.5,Unknown,Unknown
+La Maison du Chocolat (Valrhona),Orinoco,0.6,France,3.5,Unknown,Unknown
+Lake Champlain (Callebaut),Tanzania,0.75,U.S.A.,1,Unknown,Tanzania
+Malie Kai (Guittard),O'ahu- N. Shore- Waialua Estate,0.55,U.S.A.,2.75,Blend,Hawaii
+Olive and Sinclair,Dark 67,0.67,U.S.A.,2.25,Unknown,Ghana- Domin. Rep
+Olive and Sinclair,Dark 75,0.75,U.S.A.,2.5,Unknown,Ghana- Domin. Rep
+Original Beans (Felchlin),D.R. Congo- Cru Virunga,0.7,Switzerland,2.5,Forastero,Congo
+Original Beans (Felchlin),Piura- Apotequil- Porcelana 72hr c.,0.75,Switzerland,3,Criollo,Peru
+Original Beans (Felchlin),Alto Beni- Wild Harvest- Itenez R.- 60hr c.,0.68,Switzerland,3,Unknown,Bolivia
+Original Hawaiin Chocolate Factory,Hawai'i- Kona Grand Cru E.,0.6,U.S.A.,3.5,Criollo,Hawaii
+Patric,Madagascar,0.75,U.S.A.,3.5,Trinitario,Madagascar
+Patric,Madagascar,0.67,U.S.A.,2.5,Trinitario,Madagascar
+Patric,Rio Caribe- Paria Penninsula,0.7,U.S.A.,2.75,Trinitario,Venezuela
+Pierre Marcolini,Bahia Brazil- Fazenda Sao Pedro,0.72,Belgium,3,Forastero,Brazil
+Pierre Marcolini,Porcelana- Tabasco- Finca La Joya,0.72,Belgium,3,Criollo,Mexico
+Pralus,Cuyagua,0.75,France,3.25,Unknown,Venezuela
+Republica del Cacao (aka Confecta),Los Rios- Vinces,0.75,Ecuador,2,Forastero (Arriba),Ecuador
+Rogue,Rio Caribe,0.7,U.S.A.,2.5,Trinitario,Venezuela
+Santander (Compania Nacional),Colombian 2008,0.75,Colombia,2.75,Forastero (Nacional),Colombia
+Santander (Compania Nacional),Colombian w/ nibs,0.7,Colombia,3,Forastero (Nacional),Colombia
+Scharffen Berger,Tome Acu,0.68,U.S.A.,3.25,Unknown,Brazil
+Scharffen Berger,Asante,0.65,U.S.A.,3.5,Forastero,Ghana
+Scharffen Berger,Ben Tre,0.72,U.S.A.,3.5,Trinitario,Vietnam
+Soma,Hispaniola,0.7,Canada,3.75,Forastero,Dominican Republic
+Soma,Africa,0.7,Canada,2.75,Forastero,Ghana
+Soma,Conacado,0.7,Canada,3,Trinitario,Dominican Republic
+Soma,Papua New Guinea,0.7,Canada,3.25,Trinitario,Papua New Guinea
+Soma,Madagascar,0.7,Canada,3.5,Criollo,Madagascar
+Soma,Ocumare,0.7,Canada,3.5,Criollo,Venezuela
+Taza,Chiapan,0.75,U.S.A.,3,Unknown,Mexico
+TCHO,TCHOPro 60.5,0.6,U.S.A.,3.25,Unknown,Unknown
+TCHO,TCHOPro 68,0.68,U.S.A.,3.25,Unknown,Unknown
+Valrhona,Tainori,0.64,France,3.5,Unknown,Dominican Republic
+Valrhona,Alpaco,0.66,France,3.5,Unknown,Ecuador
+Valrhona,Nyangbo,0.68,France,2.5,Forastero,Ghana
+Vao Vao (Chocolaterie Robert),Madagascar,0.72,Madagascar,2.75,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,0.76,Madagascar,2.75,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,0.8,Madagascar,3,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,0.7,Madagascar,3,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar w/ nibs,0.68,Madagascar,3.25,Trinitario,Madagascar
+Vao Vao (Chocolaterie Robert),Madagascar,0.64,Madagascar,3.25,Trinitario,Madagascar
+Willie's Cacao,San Martin,0.7,U.K.,3.5,Unknown,Peru
+Willie's Cacao,Rio Caribe,0.72,U.K.,3.5,Trinitario,Venezuela
+Akesson's (Pralus),Madagascar- Ambolikapiky P.,0.75,Switzerland,3.5,Criollo,Madagascar
+Akesson's (Pralus),Monte Alegre- D. Badero,0.75,Switzerland,3.5,Forastero,Brazil
+Amano,Dos Rios,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Amano,Guayas,0.7,U.S.A.,3.75,Unknown,Ecuador
+Amano,Chuao,0.7,U.S.A.,4,Trinitario,Venezuela
+AMMA,Monte Alegre- 3 diff. plantations,0.85,Brazil,2.5,Forastero (Parazinho),Brazil
+AMMA,Monte Alegre- 3 diff. plantations,0.5,Brazil,2.75,Forastero (Parazinho),Brazil
+AMMA,Monte Alegre- 3 diff. plantations,0.75,Brazil,2.75,Forastero (Parazinho),Brazil
+AMMA,Monte Alegre- 3 diff. plantations,0.6,Brazil,3,Forastero (Parazinho),Brazil
+Artisan du Chocolat,Venezuela,1,U.K.,2.75,Unknown,Venezuela
+Artisan du Chocolat,Jamaica,0.72,U.K.,2.75,Trinitario,Jamaica
+Artisan du Chocolat,Costa Rica,0.72,U.K.,3.25,Unknown,Costa Rica
+Artisan du Chocolat,Ba Ria Vung Tau Province,0.72,U.K.,2.75,Trinitario,Vietnam
+Artisan du Chocolat,Bali,0.72,U.K.,3,Unknown,Indonesia
+Belcolade,Costa Rica,0.64,Belgium,3.5,Unknown,Costa Rica
+Belcolade,Papua New Guinea,0.64,Belgium,3.5,Unknown,Papua New Guinea
+Belcolade,Peru,0.64,Belgium,3.25,Unknown,Peru
+Belcolade,Ecuador,0.71,Belgium,3,Unknown,Ecuador
+Beschle (Felchlin),Carenero S.- Barlovento- Grand Cru,0.7,Switzerland,3.25,Trinitario,Venezuela
+Beschle (Felchlin),Porcelana- Premier Cru- Quizas No. 1,0.74,Switzerland,2.75,Criollo (Porcelana),Venezuela
+Beschle (Felchlin),Java- Grand Cru,0.64,Switzerland,3.5,Unknown,Indonesia
+Beschle (Felchlin),Ocumare- Premier Cru- Quizas No. 2,0.72,Switzerland,2.5,Unknown,Venezuela
+Bittersweet Origins,Bali- Singaraja,0.75,U.S.A.,2.5,Unknown,Indonesia
+Bittersweet Origins,2009 Hapa Nibby,0.7,U.S.A.,2.75,Blend,Dominican Rep.- Bali
+Bittersweet Origins,Bali- Singaraja,0.65,U.S.A.,3.75,Unknown,Indonesia
+Bittersweet Origins,Sambirano- 2009,0.7,U.S.A.,3.75,Trinitario,Madagascar
+Bittersweet Origins,Ocumare- prototype,0.78,U.S.A.,2.5,Criollo,Venezuela
+Cacao Atlanta,Dominican Republic- Love Bar,0.75,U.S.A.,2.5,Unknown,Dominican Republic
+Cacao Atlanta,Dominican Republic w/ nibs,0.75,U.S.A.,2.5,Unknown,Dominican Republic
+Cacao Atlanta,Patanemo,0.75,U.S.A.,2.75,Unknown,Venezuela
+Cacao Barry,Santo Domingo,0.7,France,2.75,Unknown,Dominican Republic
+Cacao Sampaka,Madagascar,0.71,Spain,3,Trinitario,Madagascar
+Cacao Sampaka,Ecuador,0.71,Spain,3,Unknown,Ecuador
+Cacao Sampaka,Papua,0.71,Spain,3,Unknown,Papua New Guinea
+Cacao Sampaka,Grenada,0.71,Spain,3.25,Trinitario,Grenada
+Cacao Sampaka,Venezuela,0.71,Spain,2.75,Unknown,Venezuela
+Cacao Sampaka,Venezuela,0.77,Spain,3.25,Unknown,Venezuela
+Chchukululu (Tulicorp),Arriba,0.55,Ecuador,3.5,Forastero (Arriba),Ecuador
+Chocovic,Xoconusco,0.71,Spain,3.75,Criollo,Mexico
+Chocovic,Sambirano,0.71,Spain,2.5,Trinitario,Madagascar
+Chuao Chocolatier (Pralus),Chuao,0.77,U.S.A.,3,Trinitario,Venezuela
+Claudio Corallo,Terreiro Velho P.,0.73,Sao Tome,3.25,Forastero,Sao Tome & Principe
+Compania de Chocolate (Salgado),Sur del Lago,0.7,Argentina,2.5,Unknown,Venezuela
+Coppeneur,Grenada,0.72,Germany,2.5,Trinitario,Grenada
+Coppeneur,Chuao,0.7,Germany,3,Trinitario,Venezuela
+Coppeneur,Los Rios- H. Iara,0.72,Germany,3.25,Nacional,Ecuador
+Coppeneur,Trinidad,0.72,Germany,3.25,Trinitario,Trinidad
+Coppeneur,Jamaica,0.72,Germany,3.25,Trinitario,Jamaica
+Coppeneur,Ocumare 61,0.72,Germany,3.5,Criollo (Ocumare 61),Venezuela
+Domori,Chuao- Hacienda San Jose,0.7,Italy,3.5,Trinitario,Venezuela
+Duffy's,Panama,0.7,U.K.,2.5,Unknown,Panama
+Duffy's,Corazon del Ecuador- Calceta beans,0.72,U.K.,2.5,Unknown,Ecuador
+Duffy's,Star of Ecuador,0.7,U.K.,2.5,Unknown,Ecuador
+Duffy's,Star of Peru,0.7,U.K.,2.75,Unknown,Peru
+Enric Rovira (Claudio Corallo),Terreiro Velho P.,0.8,Spain,3,Forastero,Sao Tome & Principe
+Fearless (AMMA),Monte Alegre- D. Badaro- Raw- Organic,0.75,U.S.A.,3,Unknown,Brazil
+Felchlin,Grenada,0.58,Switzerland,3,Trinitario,Grenada
+Grenada Chocolate Co.,Grenada,0.82,Grenada,2.75,Trinitario,Grenada
+Guittard,Trinidad,0.65,U.S.A.,3.25,Trinitario,Trinidad
+Hotel Chocolat (Coppeneur),Ecuador,0.7,U.K.,3.75,Unknown,Ecuador
+Hotel Chocolat (Coppeneur),Santo Domingo,0.7,U.K.,3,Unknown,Dominican Republic
+Hotel Chocolat (Coppeneur),Chuao,0.7,U.K.,2.75,Trinitario,Venezuela
+L.A. Burdick (Felchlin),Grenada,0.75,U.S.A.,1,Trinitario,Grenada
+L.A. Burdick (Felchlin),Dominican Republic,0.74,U.S.A.,3,Unknown,Dominican Republic
+L.A. Burdick (Felchlin),Venzuela,0.71,U.S.A.,3.75,Unknown,Venezuela
+Luker,Selva,0.46,Colombia,4,Unknown,Colombia- Ecuador
+Luker,Macondo,0.6,Colombia,3.5,Unknown,Colombia- Ecuador
+Luker,Misterio,0.58,Colombia,3,Unknown,Colombia- Ecuador
+Luker,Santander,0.65,Colombia,2.75,Unknown,Colombia
+Machu Picchu Trading Co.,Peru,0.55,Peru,2.75,Unknown,Peru
+Madre,Chiapas- Triple Cacao,0.72,U.S.A.,3.25,Unknown,Mexico
+Majani,Ecuador,0.7,Italy,3.25,Unknown,Ecuador
+Malie Kai (Guittard),O'ahu- N. Shore- Waialua Estate w/ nibs,0.55,U.S.A.,3.75,Unknown,Hawaii
+Mars,Matina 1-6- prototype,0.65,U.S.A.,3.5,Unknown,Costa Rica
+Mars,Ivory Coast,0.65,U.S.A.,2.75,Unknown,Ivory Coast
+Mars,Nigeria,0.65,U.S.A.,1.5,Unknown,Nigeria
+Mars,Ghana- prototype,0.65,U.S.A.,2.5,Forastero,Ghana
+Mast Brothers,Patanemo,0.81,U.S.A.,3,Criollo,Venezuela
+Mast Brothers,Ocumare de la Costa,0.75,U.S.A.,3,Unknown,Venezuela
+Mast Brothers,Dominican Republic- Coop,0.7,U.S.A.,3,Unknown,Dominican Republic
+Mindo,Ecuador,0.67,U.S.A.,3,Unknown,Ecuador
+Mindo,Ecuador,0.77,U.S.A.,3,Unknown,Ecuador
+Moho,Umoho R.- Toledo District- San Felipe,0.67,U.S.A.,3,Trinitario,Belize
+Neuhaus (Callebaut),Papua New Guinea,0.7,Belgium,3.25,Criollo,Papua New Guinea
+Oakland Chocolate Co.,Jamaica,0.7,U.S.A.,3.25,Trinitario,Jamaica
+Olive and Sinclair,Dominican Republic prototype,0.72,U.S.A.,3.25,Unknown,Dominican Republic
+Olive and Sinclair,Ghana prototype,0.72,U.S.A.,3.25,Forastero,Ghana
+Pierre Marcolini,Chuao,0.75,Belgium,3.25,Criollo,Venezuela
+Pierre Marcolini,Trinite,0.75,Belgium,3.5,Trinitario,Trinidad
+Pierre Marcolini,Baracoa- Cuba,0.78,Belgium,3.5,Criollo- Forastero,Cuba
+Pierre Marcolini,Peru- Las Pampas P.,0.85,Belgium,3.5,Criollo,Peru
+Potomac,Upala- Batch 12,0.82,U.S.A.,3.75,Matina,Costa Rica
+Pralus,Chuao,0.75,France,3.75,Trinitario,Venezuela
+Rain Republic,Suchitepequez E.,0.7,Guatemala,1,Unknown,Guatemala
+Rancho San Jacinto,Ecuador,0.75,Eucador,2.5,Forastero(Arriba- CCN),Ecuador
+Republica del Cacao (aka Confecta),Esmeraldas,0.75,Ecuador,2.75,Unknown,Ecuador
+Rogue,Piura,0.75,U.S.A.,3.25,Unknown,Peru
+S.A.I.D.,Malgascio,0.64,Italy,3.25,Trinitario,Madagascar
+S.A.I.D.,100 percent,1,Italy,3.25,Unknown,Unknown
+S.A.I.D.,Samana,0.7,Italy,3.25,Unknown,Dominican Republic
+S.A.I.D.,Arawak,0.72,Italy,3.5,Unknown,Carribean
+S.A.I.D.,Latino,0.72,Italy,3.25,Unknown,Unknown
+Scharffen Berger,Camahogne,0.68,U.S.A.,3.75,Trinitario,Grenada
+Scharffen Berger,Amina,0.65,U.S.A.,2.75,Trinitario- Criollo,Madagascar
+Snake & Butterfly,Madagascar,0.68,U.S.A.,3.25,Trinitario,Madagascar
+Snake & Butterfly,Ecuador,0.68,U.S.A.,2.75,Unknown,Ecuador
+Soma,Black Science Blend 1,0.7,Canada,2.25,Trinitario- Nacional,DR- Ecuador- Peru
+Willie's Cacao,Sambirano,0.71,U.K.,2.75,Trinitario,Madagascar
+Willie's Cacao,Hacienda Las Trincheras,0.72,U.K.,3,Unknown,Venezuela
+Willie's Cacao,Java,0.69,U.K.,3.5,Unknown,Indonesia
+Zotter,Brazil- Mitzi Blue,0.65,Austria,2.75,Unknown,Brazil
+Adi,Vanua Levu,0.6,Fiji,2.75,Trinitario,Fiji
+Adi,Vanua Levu- Toto-A,0.8,Fiji,3,Trinitario,Fiji
+Adi,Vanua Levu,0.88,Fiji,3,Trinitario,Fiji
+Adi,Vanua Levu- Ami-Ami-CA,0.72,Fiji,3.25,Trinitario,Fiji
+Akesson's (Pralus),Bali (west)- Sukrama Family- Melaya area,0.75,Switzerland,3.25,Trinitario,Indonesia
+Amano,Morobe,0.7,U.S.A.,3.25,Unknown,Papua New Guinea
+Artisan du Chocolat,Haiti,0.72,U.K.,3.25,Unknown,Haiti
+Artisan du Chocolat,Panama,0.72,U.K.,3.25,Unknown,Panama
+Askinosie,Tenende- Uwate,0.72,U.S.A.,3.5,Trinitario,Tanzania
+Askinosie,Cortes,0.7,U.S.A.,3.5,Trinitario,Honduras
+Benoit Nihant,Bali- Sukrama Bros. Farm- Melaya- 62hr C,0.72,Belgium,3.5,Trinitario,Indonesia
+Benoit Nihant,Somia Plantation- Sambirano- 70hr C,0.72,Belgium,3.5,Trinitario,Madagascar
+Beschle (Felchlin),Madagascar,0.64,Switzerland,3.75,Trinitario,Madagascar
+Beschle (Felchlin),Maracaibo,0.88,Switzerland,3.75,Criollo,Venezuela
+Beschle (Felchlin),Indigena Amazonia- Grand Cru- Quizas,0.72,Switzerland,3.75,Unknown,Venezuela
+Beschle (Felchlin),Ecuador,0.72,Switzerland,3,Unknown,Ecuador
+Bonnat,Cuba,0.75,France,3,Trinitario,Cuba
+Bonnat,Cusco- Cacao Cusco,0.75,France,3.25,Unknown,Peru
+Bonnat,Piura Blanco,0.75,France,3.25,Forastero (Nacional),Peru
+Bonnat,Libanio,0.75,France,3.25,Unknown,Brazil
+Bonnat,Haiti,0.75,France,3.5,Unknown,Haiti
+Bonnat,Madagascar- 100% criollo,0.75,France,3.75,Criollo,Madagascar
+Bonnat,Juliana,0.75,France,3.75,Unknown,Brazil
+Bonnat,Jamaique,0.75,France,4,Trinitario,Jamaica
+Cacao Prieto,Dominican Republicm- rustic,0.72,U.S.A.,2.75,Unknown,Dominican Republic
+Cacao Prieto,Dominican Republic,0.66,U.S.A.,3,Unknown,Dominican Republic
+Cacao Prieto,Dominican Republic- rustic,0.65,U.S.A.,3.25,Unknown,Dominican Republic
+C-Amaro,Sao Tome,0.78,Italy,3,Forastero,Sao Tome
+C-Amaro,Trinidad,0.7,Italy,3,Trinitario,Trinidad
+Chloe Chocolat,Blend No. 1,0.7,France,3.25,Unknown,Unknown
+Chocola'te,Madagascar,0.7,U.S.A.,3.25,Trinitario,Madagascar
+Chocola'te,Venezuela,0.68,U.S.A.,3.25,Unknown,Venezuela
+Chocosol,Chiapas- Lacandon Jungle- Oaxacom Mtn,0.65,Canada,2.5,Unknown,Mexico
+Christopher Morel (Felchlin),Maranon Canyon- Fortunato No. 4,0.68,Canada,2.75,Forastero (Nacional),Peru
+Daintree,Daintree Estates- N. Queensland,0.7,Australia,2.75,Unknown,Australia
+Dandelion,Dominican Republic,0.7,U.S.A.,3.25,Unknown,Dominican Republic
+Dandelion,Madagascar,0.7,U.S.A.,3.5,Trinitario,Madagascar
+Dandelion,Tanzania,0.7,U.S.A.,3.5,Unknown,Tanzania
+Danta,Los Ujuxtes,0.6,Guatemala,2.5,Unknown,Guatemala
+Dick Taylor,Sambirano,0.8,U.S.A.,3,Trinitario,Madagascar
+Dick Taylor,Sambirano,0.72,U.S.A.,2.5,Trinitario,Madagascar
+Dick Taylor,Mantuano,0.75,U.S.A.,3,Criollo,Venezuela
+Dick Taylor,La Red,0.74,U.S.A.,3,Unknown,Dominican Republic
+Dick Taylor,Ecuador,0.7,U.S.A.,3,Unknown,Ecuador
+Domori,Canoabo- Hacienda San Jose,0.7,Italy,3,Criollo,Venezuela
+Duffy's,Indio Rojo- Xoco,0.72,U.K.,3,Criollo,Honduras
+Duffy's,Dominican Republic,0.65,U.K.,3,Unknown,Dominican Republic
+Duffy's,Bocas del Toro- Tierra Oscura,0.72,U.K.,3.75,Unknown,Panama
+Duffy's,Nicaliso- Xoco,0.71,U.K.,2.5,Criollo,Nicaragua
+Duffy's,Ocumare,0.71,U.K.,2.75,Unknown,Venezuela
+El Ceibo,Alto Beni- Covendo Region,0.75,Bolivia,3.5,Unknown,Bolivia
+Ethel's Artisan (Mars),Peru- Madagascar,0.55,U.S.A.,3.5,Unknown,Peru- Madagascar
+Ethel's Artisan (Mars),Trinidad,0.55,U.S.A.,2.75,Trinitario,Trinidad
+Ethel's Artisan (Mars),Porcelana,0.7,U.S.A.,2.75,Criollo (Porcelana),Venezuela
+Ethel's Artisan (Mars),Red Vanilla,0.62,U.S.A.,2.75,Unknown,Unknown
+Ethel's Artisan (Mars),Venezuela- Trinidad,0.62,U.S.A.,2.75,Unknown,Venezuela- Trinidad
+French Broad,Maranon Canyon- Fortunato No. 4,0.7,U.S.A.,3,Forastero (Nacional),Peru
+French Broad,La Red,0.65,U.S.A.,3,Unknown,Dominican Republic
+Fresco,Ghana- #211- MR- MC,0.74,U.S.A.,3.25,Forastero,Ghana
+Fresco,Jamaica- #209- DR- SC,0.7,U.S.A.,3.25,Trinitario,Jamaica
+Fresco,Conacado- #212- LR- SC,0.72,U.S.A.,3.5,Unknown,Dominican Republic
+Fresco,Jamaica- #210- DR- MC,0.7,U.S.A.,3.5,Trinitario,Jamaica
+Fresco,Sambirano Valley- #214- LR- MC,0.74,U.S.A.,3.5,Trinitario,Madagascar
+Fresco,Conacado- #213- DR- -C,0.72,U.S.A.,3.75,Unknown,Dominican Republic
+Fresco,Sambirano Valley- #215- MR- MC,0.74,U.S.A.,3.75,Trinitario,Madagascar
+Fresco,Chuao- #218- MR- MC,0.76,U.S.A.,3,Trinitario,Venezuela
+Fresco,Chuao- #217- DR- MC,0.7,U.S.A.,3.25,Trinitario,Venezuela
+Friis Holm (Bonnat),Johe- Xoco,0.7,Denmark,3.25,Criollo- Trinitario,Nicaragua
+Friis Holm (Bonnat),Chuno- Xoco,0.7,Denmark,3.5,Criollo- Trinitario,Nicaragua
+Friis Holm (Bonnat),Nicaliso- Xoco,0.7,Denmark,3.75,Criollo- Trinitario,Nicaragua
+Fruition,Signature Blend,0.66,U.S.A.,1.5,Trinitario,Costa Rica
+Fruition,Costa Rica,0.7,U.S.A.,3,Unknown,Costa Rica
+Grand Place,Ben Tre- Dong Nai,0.72,Vietnam,3,Trinitario,Vietnam
+Guittard,Coucher du Soleil,0.72,U.S.A.,3,Unknown,Unknown
+Guittard,Lever du Soleil,0.61,U.S.A.,3,Unknown,Unknown
+Guittard,Onyx,0.72,U.S.A.,3,Unknown,Unknown
+Haigh,South America and Africa,0.7,Australia,3,Unknown,South America- Africa
+Hotel Chocolat (Coppeneur),Los Rios- H. Iara- 96hr c.,0.8,U.K.,3.25,Forastero (Nacional),Ecuador
+Hotel Chocolat (Coppeneur),Island Growers- 120hr c.,0.65,U.K.,3.25,Trinitario,St. Lucia
+Hotel Chocolat (Coppeneur),Island Growers- 96hr c.,0.65,U.K.,3.25,Trinitario,St. Lucia
+Idilio (Felchlin),Coopertiva Amazona,0.72,Switzerland,3.5,Criollo,Venezuela
+Idilio (Felchlin),Sur del Lago- Amiari Meridena- Zulia- 48hr c.,0.72,Switzerland,3.5,Unknown,Venezuela
+Idilio (Felchlin),Choroni- Finca Torres- 48hr c.,0.72,Switzerland,3.5,Criollo,Venezuela
+Idilio (Felchlin),Ocumare- H. Cata- 48hr c.,0.72,Switzerland,3.5,Criollo,Venezuela
+Idilio (Felchlin),Porcelana- Zulia,0.74,Switzerland,3.5,Criollo,Venezuela
+Idilio (Felchlin),Ocumare- H. Cata- w/ nibs,0.72,Switzerland,3.5,Criollo,Venezuela
+Idilio (Felchlin),Carenero Superior- Urrutia- Barlovento,0.7,Switzerland,3.75,Trinitario,Venezuela
+Idilio (Felchlin),Coopertiva Amazona w/ nibs,0.72,Switzerland,3.75,Criollo,Venezuela
+Idilio (Felchlin),Sur del Lago- Amiari Meridena- Zulia- w/ nibs,0.72,Switzerland,3.75,Unknown,Venezuela
+L.A. Burdick (Felchlin),Quito,0.74,U.S.A.,3.75,Unknown,Ecuador
+La Maison du Chocolat (Valrhona),Grenada,0.68,France,3.75,Trinitario,Grenada
+La Oroquidea,Peruvian Amazon,0.72,Peru,4,Unknown,Peru
+La Pepa de Oro,Vinces,0.6,Ecuador,4,Unknown,Ecuador
+Machu Picchu Trading Co.,Peru,0.7,Peru,4,Unknown,Peru
+Madre,Dominican,0.7,U.S.A.,2.5,Unknown,Dominican Republic
+Madre,Upala,0.7,U.S.A.,2.75,Unknown,Costa Rica
+Mast Brothers,Brooklyn Blend,0.72,U.S.A.,2.75,Unknown,Unknown
+Mast Brothers,Chuao- Med. Roast,0.76,U.S.A.,2.75,Trinitario,Venezuela
+Mast Brothers,Chuao- Dark Roast,0.7,U.S.A.,2.5,Trinitario,Venezuela
+Mast Brothers,Chuao- Light Roast,0.81,U.S.A.,3,Trinitario,Venezuela
+Mast Brothers,Moho River,0.7,U.S.A.,3.25,Trinitario,Belize
+Mast Brothers,Papua New Guinea,0.71,U.S.A.,3.5,Unknown,Papua New Guinea
+Mast Brothers,San Martin,0.75,U.S.A.,3.5,Unknown,Peru
+Mast Brothers,Conacado,0.73,U.S.A.,3.5,Unknown,Dominican Republic
+Mast Brothers,La Red de Guanconejo- N. Highlands coop,0.74,U.S.A.,3.5,Unknown,Dominican Republic
+Momotombo,Matagalpa,0.7,Nicaragua,3.75,Unknown,Nicaragua
+Momotombo,Mombacho,0.7,Nicaragua,3.75,Unknown,Nicaragua
+Momotombo,Oscuro,0.7,Nicaragua,3.75,Unknown,Nicaragua
+Oialla by Bojessen (Malmo),Sylvestre- Oialla,0.7,Germany,3.75,Criollo,Bolivia
+Olivia,Carribean-Raw,0.76,Canada,3.75,Unknown,Carribean
+Olivia,Carribean,0.76,Canada,4,Unknown,Carribean
+Olivia,Carribean,0.85,Canada,3.25,Unknown,Carribean
+Olivia,Carribean-Raw,0.85,Canada,2.75,Unknown,Carribean
+Omanhene,Ghana,0.8,Ghana,3.25,Forastero,Ghana
+Original Beans (Felchlin),Alto Beni- Wild Harvest- Itenez R. 24hr c.,0.66,Switzerland,3.25,Unknown,Bolivia
+Pacari,Nube- prototype,0.7,Ecuador,3.5,Unknown,Ecuador
+Patric,Signature Blend,0.7,U.S.A.,3.5,Blend,Unknown
+Potomac,Upala w/ nibs,0.7,U.S.A.,4,Matina,Costa Rica
+Potomac,Upala- Batch 18,0.7,U.S.A.,3.25,Matina,Costa Rica
+Potomac,San Martin- Amazonian Highlands,0.7,U.S.A.,3.5,Unknown,Peru
+Potomac,Bahia,0.7,U.S.A.,3.75,Unknown,Brazil
+Pralus,Porcelana- S. of Lake Maracaibo,0.75,France,3.25,Criollo (Porcelana),Venezuela
+Raaka,La Red,0.85,U.S.A.,3.25,Unknown,Dominican Republic
+Ritual,Costa Rica,0.75,U.S.A.,2.75,Unknown,Costa Rica
+Rogue,Silvestre- Batch 1- 2011,0.75,U.S.A.,3,Criollo,Bolivia
+Rozsavolgyi,Carenero Superior,0.73,Hungary,2.75,Criollo,Venezuela
+Rozsavolgyi,Porcelana,0.71,Hungary,3.75,Unknown,Venezuela
+Rozsavolgyi,Aragua- Trincheras,0.7,Hungary,2.5,Unknown,Venezuela
+Rozsavolgyi,Principe,0.77,Hungary,2.5,Forastero,Principe
+Santome,Sao Tome,0.7,France,2.75,Forastero,Sao Tome
+Scharffen Berger,Markham Valley,0.68,U.S.A.,2.75,Unknown,Papua New Guinea
+Shark's,Hilo,0.73,U.S.A.,3,Unknown,Hawaii
+Shark's,Hilo- w/ added cocoa butter,0.73,U.S.A.,3,Unknown,Hawaii
+Shattell,Porcelana,0.75,Peru,3.75,Criollo,Peru
+Silvio Bessone,Maya Belize,0.67,Italy,2.75,Criollo,Belize
+Silvio Bessone,Trintade- Sao Tome,0.65,Italy,3.25,Forastero,Sao Tome
+Silvio Bessone,Bahia- Scavina,0.6,Italy,3,Trinitario,Brazil
+Silvio Bessone,Porcelana- Colombia- Amazonas,0.68,Italy,3.5,Criollo- Trinitario,Colombia
+Snake & Butterfly,Ghana,0.67,U.S.A.,3.25,Forastero,Ghana
+Soma,Grenada- Black Science,0.7,Canada,3.25,Trinitario,Grenada
+Soma,Alto Beni- Wild Bolivian,0.7,Canada,3,Nacional,Bolivia
+Soma,Peruvian,0.64,Canada,3.25,Unknown,Peru
+Soma,Three Amigos(Chuao- Wild Bolivia- D.R.),0.7,Canada,3.25,,Ven- Bolivia- D.R.
+Soma,Elvesia P.- Black Science,0.7,Canada,2,Forastero,Dominican Republic
+Soma,Chuao,0.7,Canada,2.75,Criollo,Venezuela
+Stella (aka Bernrain),India,0.72,Switzerland,2.75,Unknown,India
+Szanto Tibor,Crudo,0.7,Hungary,3,Unknown,Venezuela
+Taza,Alto Beni,0.87,U.S.A.,3.5,Unknown,Bolivia
+Tocoti,Venezuela,0.72,U.S.A.,2.5,Unknown,Venezuela
+Tocoti,Dominican Republic,0.74,U.S.A.,2.5,Unknown,Dominican Republic
+Tsara (Cinagra),Ambanja- Tsara Valley,0.72,Madagascar,2.5,Unknown,Madagascar
+twenty-four blackbirds,Dominican Republic,0.73,U.S.A.,2.5,Unknown,Dominican Republic
+Un Dimanche A Paris,Dominican Republic,0.63,France,2.75,Unknown,Dominican Republic
+Valrhona,Caraque,0.56,France,3,Unknown,Unknown
+Valrhona,Porcelana- Pedegral,0.64,France,3.5,Criollo,Venezuela
+Whittakers,Ghana,0.72,New Zealand,3.75,Forastero,Ghana
+Woodblock,Ocumare,0.7,U.S.A.,2.75,Unknown,Venezuela
+Woodblock,La Red,0.7,U.S.A.,2.5,Unknown,Dominican Republic
+Zokoko,Alto Beni,0.68,Australia,2.75,Unknown,Bolivia
+Zokoko,Tokiala,0.66,Australia,3,Trinitario,Papua New Guinea
+Zokoko,Tranquilidad- Baures,0.72,Australia,2,Unknown,Bolivia
+Zotter,Peru,0.7,Austria,3,Unknown,Peru
+Zotter,Congo,0.65,Austria,3,Forastero,Congo
+Zotter,Kerala State,0.65,Austria,3,Forastero,India
+Zotter,Kerala State,0.62,Austria,3.5,Unknown,India
+A. Morin,Bolivia,0.7,France,3.5,Unknown,Bolivia
+A. Morin,Peru,0.63,France,4,Unknown,Peru
+Amedei,Piura- Blanco de Criollo,0.7,Italy,2.25,Unknown,Peru
+Artisan du Chocolat,Colombia- Casa Luker,0.72,U.K.,2.5,Unknown,Colombia
+Bahen & Co.,Sambirano,0.7,Australia,3,Trinitario,Madagascar
+Bahen & Co.,Bahia,0.7,Australia,3.25,Unknown,Brazil
+Bahen & Co.,Houseblend,0.7,Australia,2.75,Blend,Unknown
+Bar Au Chocolat,Duarte Province,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Bar Au Chocolat,Chiapas,0.7,U.S.A.,2.75,Unknown,Mexico
+Bar Au Chocolat,Sambirano,0.7,U.S.A.,2.75,Trinitario,Madagascar
+Baravelli's,single estate,0.8,Wales,3.5,Unknown,Costa Rica
+Bernachon,Nature,0.55,France,3.75,Unknown,Unknown
+Bittersweet Origins,Ghana,0.72,U.S.A.,3.5,Forastero,Ghana
+Blue Bandana,Guatemala,0.7,U.S.A.,3.5,Unknown,Guatemala
+Blue Bandana,Madagascar,0.7,U.S.A.,3.75,Trinitario,Madagascar
+Cacao Prieto,Criollo- Dominican Republic,0.72,U.S.A.,3.75,Criollo,Dominican Republic
+C-Amaro,Venezuela,0.8,Italy,3,Unknown,Venezuela
+Caribeans,Costa Rica,0.72,Costa Rica,3.5,Forastero,Costa Rica
+Caribeans,Costa Rica,0.8,Costa Rica,3.5,Forastero,Costa Rica
+Coppeneur,Ghana Puristique,0.85,Germany,3.5,Forastero,Ghana
+Coppeneur,Ecuador Puristique,1,Germany,3.5,Unknown,Ecuador
+Coppeneur,Uba Budo,0.72,Germany,2,Forastero,Sao Tome & Principe
+Coppeneur,Madagascar,0.7,Germany,2.5,Trinitario,Madagascar
+Cravve,Tanzania- batch a1,0.75,Australia,3,Forastero,Tanzania
+Cravve,Bahia- batch a1213,0.65,Australia,3.25,Trinitario,Brazil
+Cravve,Namau Village- N. Taileva P.- batch a2812,0.67,Australia,3.5,Trinitario,Fiji
+Cravve,Vanuatu,0.64,Australia,3.5,Trinitario,Vanuatu
+Cravve,Djual Island,0.75,Australia,3.5,Forastero,Papua New Guinea
+Dandelion,Upala,0.7,U.S.A.,3.5,Unknown,Costa Rica
+Dandelion,Colombian,0.7,U.S.A.,3.5,Unknown,Colombia
+Dandelion,Elvesia- 2011,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Danta,Chuao,0.75,Guatemala,2.75,Trinitario,Venezuela
+Danta,Los Ujuxtes,0.7,Guatemala,2.75,Unknown,Guatemala
+Danta,Sambirano,0.7,Guatemala,2.75,Trinitario,Madagascar
+Danta,Las Acacias E.,0.7,Guatemala,3,Criollo,Guatemala
+Danta,Oscuro- Finca Chimelb,0.7,Guatemala,3,Unknown,Guatemala
+Davis,West Africa,0.58,U.S.A.,3,Forastero,West Africa
+Dick Taylor,Bolivia,0.75,U.S.A.,3,Unknown,Bolivia
+Dick Taylor,Belize,0.72,U.S.A.,3.25,Trinitario,Belize
+Domori,Morogoro,0.7,Italy,3.25,Unknown,Tanzania
+Domori,Guasare,0.7,Italy,3.25,Criollo,Venezuela
+Duffy's,Ocumare,0.72,U.K.,3.25,Unknown,Venezuela
+Durand,Madagascar,0.82,France,3.25,Trinitario,Madagascar
+Eclat (Felchlin),Maranon- Good & Evil- w/ nibs,0.72,U.S.A.,3.5,Forastero (Nacional),Peru
+Escazu,Rio Caribe,0.7,U.S.A.,3.5,Trinitario,Venezuela
+Franceschi,Canoabo,0.7,Venezuela,3.5,Unknown,Venezuela
+Franceschi,Sur del Lago,0.6,Venezuela,3.5,Unknown,Venezuela
+French Broad,Tumbes Coop,0.7,U.S.A.,3.5,Criollo,Peru
+French Broad,Palo Blanco- Chulucanas,0.61,U.S.A.,3.5,Unknown,Peru
+French Broad,Palo Blanco w/ panela- Chulucanas,0.81,U.S.A.,3.5,Unknown,Peru
+Fresco,Markham Valley- #219- LR- MC,0.69,U.S.A.,3.5,Unknown,Papua New Guinea
+Fresco,Markham Valley- #221- DR- MC,0.69,U.S.A.,3.75,Unknown,Papua New Guinea
+Fresco,Sambirano Valley- #216- MR- LC,0.74,U.S.A.,3.75,Trinitario,Madagascar
+Fresco,Markham Valley- #220- MR- MC,0.69,U.S.A.,4,Trinitario,Papua New Guinea
+Fresco,Markham Valley- #222- LR- 0C,0.69,U.S.A.,4,Trinitario,Papua New Guinea
+Friis Holm (Bonnat),Chuno- triple turned- Xoco,0.7,Denmark,4,Criollo- Trinitario,Nicaragua
+Friis Holm (Bonnat),Red Mayan- Xoco,0.7,Denmark,4,Criollo- Trinitario,Honduras
+Friis Holm (Bonnat),Chuno- double turned- Xoco,0.7,Denmark,3.5,Criollo- Trinitario,Nicaragua
+Friis Holm (Bonnat),Rugoso- Xoco,0.7,Denmark,3,Unknown,Nicaragua
+Fruition,Peru,0.7,U.S.A.,3.25,Unknown,Peru
+Hotel Chocolat (Coppeneur),Sambirano,0.66,U.K.,3.25,Trinitario- Criollo,Madagascar
+Indaphoria,La Red,0.7,U.S.A.,3.25,Unknown,Dominican Republic
+Indaphoria,Conacado- Manifesto,0.7,U.S.A.,3.25,Unknown,Dominican Republic
+iQ Chocolate,Satipo region- white label,0.72,Scotland,3.25,Criollo,Peru
+iQ Chocolate,black label,0.72,Scotland,3.25,Unknown,Peru
+Kakao,Peru,0.64,Germany,3.5,Unknown,Peru
+L.A. Burdick (Felchlin),Peru,0.74,U.S.A.,3.5,Unknown,Peru
+L.A. Burdick (Felchlin),Brazil,0.7,U.S.A.,3.5,Unknown,Brazil
+L.A. Burdick (Felchlin),Chuao,0.68,U.S.A.,3.5,Trinitario,Venezuela
+La Maison du Chocolat (Valrhona),Loma Sotavento,0.66,France,3.75,Unknown,Dominican Republic
+Lajedo do Ouro,Catongo,0.7,Brazil,2.5,Forastero (Catongo),Brazil
+L'Amourette,Carenero Superior,0.75,U.S.A.,3,Trinitario,Venezuela
+L'Amourette,Rio Caribe,0.75,U.S.A.,3,Trinitario,Venezuela
+L'Amourette,Blend,0.72,U.S.A.,3,Criollo,Peru- Ecuador- Venezuela
+Lillie Belle,Perfect Illusion,0.65,U.S.A.,3.25,Criollo,Peru
+Lillie Belle,Bolivia- Wild Thing,0.68,U.S.A.,3.75,Criollo,Bolivia
+Lillie Belle,La Selva,0.68,U.S.A.,3.75,Unknown,Peru
+Lillie Belle,Purple Haze,0.75,U.S.A.,3.75,Unknown,Venezuela- Dom. Rep.
+Lillie Belle,The Other One- Grand Cru,0.74,U.S.A.,4,Unknown,Dominican Republic
+Lillie Belle,Wild Thing,0.68,U.S.A.,2.5,Criollo,Bolivia
+Madre,Hamakua Coast- Kokoleka,0.7,U.S.A.,3.25,Unknown,Hawaii
+Madre,Criollo- Hawaii,0.7,U.S.A.,3.5,Criollo,Hawaii
+Madre,Kaua'i,0.7,U.S.A.,3.5,Unknown,Hawaii
+Mana,Conacado,0.74,U.S.A.,3.5,Unknown,Dominican Republic
+Manoa,Liberia- #174,0.72,U.S.A.,4,Unknown,Liberia
+Manoa,Hamakua- Hawaiian Crown- #176,0.72,U.S.A.,3,Unknown,Hawaii
+Manoa,Piura,0.72,U.S.A.,3.5,Unknown,Peru
+Manoa,Oahu- Winward- #151- Maunawili district,0.72,U.S.A.,2.75,Unknown,Hawaii
+Manufaktura Czekolady,Grand Cru Dominican Republic,0.7,Poland,3.25,Unknown,Dominican Republic
+Manufaktura Czekolady,Grand Cru Ghana,0.7,Poland,3.25,Forastero,Ghana
+Manufaktura Czekolady,Grand Cru Ecuador,0.7,Poland,3,Unknown,Ecuador
+Marou,Ba Ria,0.76,Vietnam,2.5,Trinitario,Vietnam
+Marou,Dong Nai,0.72,Vietnam,3.5,Trinitario,Vietnam
+Marou,Tien Giang- Gao Co-op,0.7,Vietnam,2.5,Trinitario,Vietnam
+Marou,Ben Tre,0.78,Vietnam,2.75,Trinitario,Vietnam
+Marou,Tien Giang,0.8,Vietnam,3.25,Trinitario,Vietnam
+Marou,Lam Dong,0.74,Vietnam,3,Trinitario,Vietnam
+Mast Brothers,Shake Shack,0.73,U.S.A.,3,Blend,Peru- Mad.- Dom. Rep.
+Mast Brothers,Madagascar,0.72,U.S.A.,3,Trinitario,
+Mast Brothers,Chuao,0.73,U.S.A.,3,Trinitario,Venezuela
+Menakao (aka Cinagra),Madagascar,0.8,Madagascar,3.25,Trinitario,Madagascar
+Menakao (aka Cinagra),Madagascar,0.72,Madagascar,2.5,Trinitario,Madagascar
+Michel Cluizel,Chiapas- Mokaya P.,0.66,France,2.75,Unknown,Mexico
+Middlebury,Houseblend,0.65,U.S.A.,2.75,Unknown,Unknown
+Middlebury,Alto Beni,0.75,U.S.A.,2.75,Criollo,Bolivia
+Middlebury,Balinese- Java,0.7,U.S.A.,3,Criollo,Indonesia
+Millcreek Cacao Roasters,Ecuador,0.7,U.S.A.,3,Unknown,Ecuador
+Mita,Tumaco,0.65,Colombia,3,Unknown,Colombia
+Naive,Grenada,0.71,Lithuania,3,Trinitario,Grenada
+Noir d' Ebine,Venezuela,0.7,U.S.A.,3,Unknown,Venezuela
+Noir d' Ebine,Ecuador,0.7,U.S.A.,3,Unknown,Ecuador
+Nova Monda,La Patriota- cacao Indio- purple label,0.7,Nicaragua,3,Unknown,Nicaragua
+Nova Monda,La Dalia- Matagalpa-cacao Bisesto-green label,0.75,Niacragua,3.25,Unknown,Nicaragua
+Nova Monda,Punta Galera- cacao Nacional- gold label,0.8,Nicaragua,3.25,Forastero (Nacional),Ecuador
+Orquidea,Peru,0.65,Peru,3.25,Unknown,Peru
+Orquidea,Peru,0.72,Peru,3.5,Unknown,Peru
+Pacari,Ecuador- raw,0.85,Ecuador,3.5,Unknown,Ecuador
+Pacari,Piura,0.7,Ecuador,3.5,Unknown,Peru
+Pomm (aka Dead Dog),La Red- 2011,0.76,U.S.A.,3.5,Unknown,Dominican Republic
+Pomm (aka Dead Dog),Peru,0.82,U.S.A.,3.5,Criollo,Peru
+Pura Delizia,Venezuela,0.73,Italy,3.5,Unknown,Venezuela
+Q Chocolate,Brazil,0.6,Brazil,3.5,Unknown,Brazil
+Q Chocolate,Brazil,0.65,Brazil,3.75,Unknown,Brazil
+Raaka,Madagascar,0.75,U.S.A.,2,Trinitario,Madagascar
+Raw Cocoa,Raw,0.7,Poland,2.75,Criollo,Unknown
+Ritual,Sambirano,0.75,U.S.A.,2.75,Trinitario,Madagascar
+Ritual,Camino Verde P.- 2012- Balao- Guayas,0.75,U.S.A.,2.75,Nacional (Arriba),Ecuador
+Ritual,Gran Couva,0.75,U.S.A.,3,Trinitario,Trinidad
+Rococo (Grenada Chocolate Co.),Gru Grococo- St. Andrews,0.66,U.K.,3,Trinitario,Grenada
+Rogue,Camino Verde P.- Balao- Guayas,0.75,U.S.A.,3.25,Nacional (Arriba),Ecuador
+Rozsavolgyi,Sur del Lago,0.84,Hungary,3.25,Unknown,Venezuela
+Rozsavolgyi,Rio Caribe Superior- Paria Penninsula,0.76,Hungary,3.5,Trinitario,Venezuela
+Rozsavolgyi,Sambirano- Akesson Estate,0.72,Hungary,2.5,Trinitario,Madagascar
+Sacred,Midnight,0.83,U.S.A.,2.75,Unknown,Central and S. America
+Sacred,Twilight,0.69,U.S.A.,3,Unknown,Central and S. America
+Scharffen Berger,San Juan de Cheni,0.78,U.S.A.,3,Unknown,Peru
+Sibu Sura,Peru,0.7,U.S.A.,3,Unknown,Peru
+Soma,Noula Coop,0.7,Canada,3.25,Unknown,Haiti
+Soma,O'ahu,0.7,Canada,3.5,Unknown,Hawaii
+Soma,Dual Origins- Sambirano- Elvesia,0.7,Canada,3.5,Blend,Dom. Rep.- Madagascar
+Soma,Dancing in Your Head- 5 bean blend,0.7,Canada,2.75,Blend,Gre.- PNG- Haw.- Haiti- Mad
+Soma,Cahabon Region,0.7,Canada,3.25,Trinitario,Guatemala
+Soma,Carenero Superior,0.7,Canada,3.5,Trinitario,Venezuela
+Soma,Eastern Promises,0.7,Canada,3,Blend,Mad.- Java- PNG
+Soma,Papua New Guinea,0.85,Canada,3.5,Trinitario,Papua New Guinea
+Spagnvola,AgroCriso Plantation,0.7,U.S.A.,3.75,Unknown,Dominican Republic
+Spagnvola,AgroCriso Plantation,0.8,U.S.A.,3.75,Unknown,Dominican Republic
+Spagnvola,AgroCriso Plantation,0.75,U.S.A.,3.5,Unknown,Dominican Republic
+Stella (aka Bernrain),Bahia- Agri-Forestal Plantation- 2010,0.68,Switzerland,3.5,Trinitario,Brazil
+StRita Supreme,Samar- East Visayas region,0.65,U.S.A.,3.5,Unknown,Philippines
+StRita Supreme,Samar- East Visayas region,0.7,U.S.A.,3.75,Unknown,Philippines
+StRita Supreme,Samar- East Visayas region,0.75,U.S.A.,4,Unknown,Philippines
+Szanto Tibor,Santo Domingo,0.7,Hungary,2.75,Unknown,Dominican Republic
+Szanto Tibor,Millot Plantation,0.7,Hungary,3.5,Unknown,Madagascar
+Szanto Tibor,Ayacucho- El Guinacho,0.7,Hungary,2.75,Unknown,Peru
+TCHO,Peru- Ecuador,0.99,U.S.A.,3,Unknown,Peru- Ecuador
+Tejas,Concepcion,0.7,U.S.A.,3,Unknown,Madagascar
+Tejas,Bayou Blend,0.7,U.S.A.,3.25,Blend,Ecuador- Mad.- PNG
+Tejas,Aranama,0.7,U.S.A.,3.25,Unknown,Papua New Guinea
+Tejas,Presidio,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Tejas,La Bahia- w/ cane juice,0.7,U.S.A.,2.75,Unknown,Ecuador
+Tejas,Capistrano,0.7,U.S.A.,3.25,Unknown,Peru
+Tejas,La Bahia- w/ cane sugar,0.7,U.S.A.,3.5,Unknown,Ecuador
+Tejas,San Jose,0.7,U.S.A.,2,Unknown,Bolivia
+Tejas,Capistrano*,0.7,U.S.A.,2.5,Unknown,Madagascar
+Tejas,Espada,0.7,U.S.A.,3,Unknown,Mexico
+Tejas,Espada,0.7,U.S.A.,3.25,Unknown,Brazil
+Tejas,Concepcion*,0.8,U.S.A.,3.5,Unknown,Venezuela
+Tejas,San Jose,0.67,U.S.A.,2.5,Unknown,Bolivia
+Tejas,Bahia- Floresta Azul-Good Friends Reserve#3,0.7,U.S.A.,2.75,Forastero (Parazinho),Brazil
+Theo,Congo w/ nibs,0.65,U.S.A.,2.75,Forastero,Congo
+Tobago Estate (Pralus),Roxborough- Tobago,0.7,France,3.5,Trinitario,Tobago
+Tocoti,Wild Bolivian- Jungle Love,0.77,U.S.A.,3.5,Criollo,Bolivia
+Valrhona,Otucan- Grand Cru,0.69,France,3.5,Unknown,Venezuela
+Vanleer (Barry Callebaut),Manhattan,0.72,U.S.A.,3.5,Forastero,Ghana
+Vanleer (Barry Callebaut),Napa,0.65,U.S.A.,3.5,Forastero,Ghana
+Videri,Classic,0.7,U.S.A.,3.75,Unknown,Central and S. America
+Vietcacao (A. Morin),Ben Tre- Mekong Delta- MoCay,0.7,France,2.5,Trinitario,Vietnam
+Woodblock,Ecuador,0.7,U.S.A.,1.75,Unknown,Ecuador
+Woodblock,Costa Rica,0.7,U.S.A.,2.75,Unknown,Costa Rica
+Woodblock,Sambirano,0.7,U.S.A.,4,Trinitario,Madagascar
+Zotter,Bocas del Toro- Cocabo Co-op,0.72,Austria,2.5,Unknown,Panama
+Zotter,Amazonas Frucht,0.65,Austria,2.5,Unknown,Unknown
+Zotter,Satipo Pangoa region- 16hr conche,0.7,Austria,2.75,Criollo (Amarru),Peru
+Zotter,Satipo Pangoa region- 20hr conche,0.7,Austria,2.75,Criollo (Amarru),Peru
+Zotter,Loma Los Pinos- Yacao region- D.R.,0.62,Austria,2.75,Unknown,Dominican Republic
+Zotter,El Oro,0.75,Austria,2.75,Forastero (Nacional),Ecuador
+Zotter,Huiwani Coop,0.75,Austria,2.75,Criollo- Trinitario,Papua New Guinea
+Zotter,El Ceibo Coop,0.9,Austria,3,Unknown,Bolivia
+Zotter,Santo Domingo,0.7,Austria,3,Unknown,Dominican Republic
+Zotter,Kongo- Highlands,0.68,Austria,3,Forastero,Congo
+Zotter,Indianer- Raw,0.58,Austria,3,Unknown,Unknown
+A. Morin,Panama,0.7,France,3,Unknown,Panama
+A. Morin,Madagascar,0.7,France,3,Criollo,Madagascar
+A. Morin,Brazil,0.7,France,3,Unknown,Brazil
+A. Morin,Equateur,0.7,France,3,Unknown,Ecuador
+A. Morin,Colombie,0.7,France,3.25,Unknown,Colombia
+A. Morin,Birmanie,0.7,France,3.5,Unknown,Burma
+A. Morin,Papua New Guinea,0.7,France,3.5,Unknown,Papua New Guinea
+A. Morin,Chuao,0.7,France,3.5,Trinitario,Venezuela
+A. Morin,Piura,0.7,France,3,Unknown,Peru
+A. Morin,Chanchamayo Province,0.7,France,3,Unknown,Peru
+A. Morin,Chanchamayo Province,0.63,France,3,Unknown,Peru
+Alain Ducasse,Chuao,0.75,France,3.25,Trinitario,Venezuela
+Alain Ducasse,Piura- Perou,0.75,France,3.5,Unknown,Peru
+Altus aka Cao Artisan,Sur del Lago,0.6,U.S.A.,3.5,Unknown,Venezuela
+Altus aka Cao Artisan,Conacado,0.6,U.S.A.,3.75,Trinitario,Dominican Republic
+Altus aka Cao Artisan,Bolivia,0.8,U.S.A.,3.75,Unknown,Bolivia
+Altus aka Cao Artisan,Bolivia,0.6,U.S.A.,3.25,Unknown,Bolivia
+Altus aka Cao Artisan,Peru,0.6,U.S.A.,3.5,Unknown,Peru
+Amazona,LamasdelChanka- San Martin- Oro Verde coop,0.72,Peru,3.75,Unknown,Peru
+Amazona,Bellavista Gran Pajeten- San Martin,0.73,Peru,3.75,Trinitario,Peru
+AMMA,Catongo,0.75,Brazil,3.75,Forastero (Catongo),Brazil
+Artisan du Chocolat,Trinidad- Heritage- Limited ed.,0.72,U.K.,3.75,Trinitario,Trinidad
+Artisan du Chocolat (Casa Luker),Orinoqua Region- Arauca,0.72,U.K.,4,Trinitario,Colombia
+Benoit Nihant,Baracoa,0.74,Belgium,4,Trinitario,Cuba
+Benoit Nihant,Chuao,0.74,Belgium,4,Criollo,Venezuela
+Benoit Nihant,Cuyagua Village,0.74,Belgium,4,Criollo,Venezuela
+Benoit Nihant,Rio Peripa H.,0.73,Belgium,2.5,Trinitario,Ecuador
+Blanxart,Congo- Grand Cru,0.82,Spain,2.75,Forastero,Congo
+Bonnat,Maragnam,0.75,France,3.25,Unknown,Brazil
+Bonnat,Gabon,0.75,France,3,Unknown,Gabon
+Brasstown aka It's Chocolate,Cooproagro,0.72,U.S.A.,2.75,Trinitario,Dominican Republic
+Brasstown aka It's Chocolate,Camino Verde- Guayas,0.7,U.S.A.,3,Unknown,Ecuador
+Brasstown aka It's Chocolate,Ghana,0.75,U.S.A.,2.25,Forastero,Ghana
+Brasstown aka It's Chocolate,Chuao- Mantuano blend,0.85,U.S.A.,3.25,Trinitario,Venezuela
+Breeze Mill,Jamaica,0.7,U.S.A.,3.25,Trinitario,Jamaica
+Bronx Grrl Chocolate,Dominican Republic,0.68,U.S.A.,3.5,Unknown,Dominican Republic
+Cacaosuyo (Theobroma Inversiones),Piura,0.7,Peru,2.75,Unknown,Peru
+C-Amaro,Ecuador,1,Italy,3.5,Unknown,Ecuador
+Castronovo,Bolivia,0.7,U.S.A.,2,Trinitario,Bolivia
+Castronovo,Conacado,0.73,U.S.A.,2.75,Trinitario,Dominican Republic
+Castronovo,San Martin,0.7,U.S.A.,3.5,Criollo,Peru
+Castronovo,Guaniamo- Amazonas,0.7,U.S.A.,3.5,Unknown,Venezuela
+Castronovo,Nicaragua,0.72,U.S.A.,4,Trinitario,Nicaragua
+Castronovo,Tumbes,0.7,U.S.A.,3,Criollo,Peru
+Castronovo,Guaniamo,0.72,U.S.A.,3.25,Unknown,Venezuela
+Chokolat Elot (Girard),Guadeloupe,0.42,Martinique,3.25,Unknown,Martinique
+Coppeneur,Ecuador- Puristique,0.65,Germany,3.5,Forastero (Nacional),Ecuador
+Dandelion,Cumboto- farmer Jose Lugo,0.7,U.S.A.,2.5,Unknown,Venezuela
+Dandelion,Patanemo,0.7,U.S.A.,3.75,Unknown,Venezuela
+Dandelion,Mantuano- 2012,0.7,U.S.A.,2.5,Unknown,Venezuela
+Dandelion,Papua New Guinea,0.7,U.S.A.,2.5,Unknown,Papua New Guinea
+Davis,Ghana,0.7,U.S.A.,2.75,Forastero,Ghana
+Davis,Rainforest,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Davis,Venezuela,0.7,U.S.A.,3,Unknown,Venezuela
+Dick Taylor,Ecuador- Choc. Garage Exclusive,0.7,U.S.A.,3,Unknown,Ecuador
+Dick Taylor,Camino Verde,0.76,U.S.A.,3,Unknown,Ecuador
+Domori,IL100- H. San Jose,1,Italy,3.5,Criollo,Venezuela
+Emerald Estate,Emerald Estate,0.6,St. Lucia,2.75,Unknown,St. Lucia
+Emerald Estate,Emerald Estate,0.7,St. Lucia,2.75,Unknown,St. Lucia
+French Broad,Palo Blanco- Chulucanas,0.66,U.S.A.,3.75,Unknown,Peru
+Fresco,Conacado- #223- MR- SC,0.72,U.S.A.,2,Unknown,Dominican Republic
+Fresco,Conacado- #224- MR- MC,0.72,U.S.A.,3,Unknown,Dominican Republic
+Fresco,San Martin- Bellavista Coop- #226- DR- MC,0.7,U.S.A.,2.5,Unknown,Peru
+Fresco,Bellavista Coop- #225- LR- MC- CG Exclusive,0.7,U.S.A.,2.75,Trinitario,Peru
+Friis Holm (Bonnat),Barba- Xoco,0.7,Denmark,3,Unknown,Nicaragua
+Friis Holm (Bonnat),Medagla- Xoco,0.7,Denmark,3.25,Unknown,Nicaragua
+Fruition,La Red,0.7,U.S.A.,3.25,Unknown,Dominican Republic
+Fruition,Camino Verde,0.75,U.S.A.,3.25,Unknown,Ecuador
+Guittard,Haiti,0.65,U.S.A.,3.25,Unknown,Haiti
+Guittard,Nicaragua,0.65,U.S.A.,2.75,Unknown,Nicaragua
+Guittard,Jamaica,0.65,U.S.A.,3.25,Trinitario,Jamaica
+Guittard,Ecuador,0.65,U.S.A.,3.75,Unknown,Ecuador
+Hotel Chocolat,Marcial- single Cote- 2012,0.7,U.K.,3.75,Trinitario,St. Lucia
+Hotel Chocolat,Island Growers- 2012- 120hr c.,1,U.K.,3,Trinitario,St. Lucia
+Hotel Chocolat (Coppeneur),Trinidad,0.75,U.K.,3,Trinitario,Trinidad
+Hotel Chocolat (Coppeneur),Mekong Delta & Dong Nai,0.8,U.K.,3.25,Trinitario,Vietnam
+Hotel Chocolat (Coppeneur),Los Rios- H. Iara,0.9,U.K.,3.25,Forastero (Nacional),Ecuador
+Hotel Chocolat (Coppeneur),Somia Plantation- Akesson- 2012,0.72,U.K.,3.5,Trinitario,Madagascar
+Hotel Chocolat (Coppeneur),Los Rios- H. Iara- 2012,0.82,U.K.,3.75,Forastero (Nacional),Ecuador
+Hotel Chocolat (Coppeneur),Chanchamayo- Pichanadi- 2012- 60hr c.,1,U.K.,3.75,Unknown,Peru
+Hotel Chocolat (Coppeneur),Los Rios- H. Iara- 2012- 120hr c.,1,U.K.,3.75,Forastero (Nacional),Ecuador
+Hotel Chocolat (Coppeneur),Conacado- 2012- 120hr c.,1,U.K.,4,Unknown,Dominican Republic
+Hummingbird,Ocumare- Cumboto,0.7,Canada,2.25,Trinitario- Criollo,Venezuela
+Hummingbird,Amazonas,0.7,Canada,2.5,Forastero,Venezuela
+Idilio (Felchlin),Chuao- Venezuela,0.72,Switzerland,3,Trinitario,Venezuela
+Kah Kow,Rizek Cacao- Cibao Valley- Domin. Rep.,0.7,Domincan Republic,3,Unknown,Dominican Republic
+Kah Kow,Rizek Cacao- Domin. Rep.,0.82,Domincan Republic,2.75,Unknown,Dominican Republic
+Kah Kow,Rizek Cacao- Domin. Rep.,0.55,Domincan Republic,3,Unknown,Dominican Republic
+Kah Kow,Rizek Cacao- Domin. Rep.,0.62,Domincan Republic,3.25,Unknown,Dominican Republic
+Kerchner,La Red- Project Reserva- Guaconejo,0.7,U.S.A.,3.25,Unknown,Dominican Republic
+La Maison du Chocolat (Valrhona),Cuana- 2013,0.74,France,3.25,Unknown,Africa- Carribean- C. Am.
+La Maison du Chocolat (Valrhona),Tobago,0.6,France,3.5,Unknown,Tobago
+La Maison du Chocolat (Valrhona),Acarigua- w/ nibs,0.56,France,3.5,Unknown,Ecuador
+Loiza,Puerto Rico,0.65,Puerto Rico,3.5,Unknown,Puerto Rico
+Lonohana,Opaeula Estate- O'ahu- Nene- CG Exclusive,0.71,U.S.A.,3.5,Unknown,Hawaii
+Lonohana,Opaeula Estate- O'ahu- Ele'ele,0.72,U.S.A.,3.75,Unknown,Hawaii
+Lonohana,Hawaiian Crown- Kona Vanilla,0.7,U.S.A.,2.5,Unknown,Hawaii
+Madre,Puerto Rico,0.7,U.S.A.,3.25,Unknown,Puerto Rico
+Madre,Brazil,0.7,U.S.A.,2.75,Unknown,Brazil
+Madre,Choobua- Kona,0.7,U.S.A.,2.75,Unknown,Hawaii
+Madre,Xocunusco- Chiapas- Pichucalco,0.7,U.S.A.,2.75,Unknown,Mexico
+Malagos,Davao- Mt. Talamo foothills,0.65,Philippines,2.75,Trinitario,Philippines
+Manoa,Waiahole- O'ahu,0.72,U.S.A.,3,Unknown,Hawaii
+Marou,Tan Phu Dong- Treasure Island,0.75,Vietnam,3,Trinitario,Vietnam
+Marsatta,Dominican Republic,0.74,U.S.A.,3.25,Unknown,Dominican Republic
+Marsatta,Dominican Republic,0.89,U.S.A.,3.25,Unknown,Dominican Republic
+Matale,Malekula P.- 2013,0.72,Australia,3.5,Trinitario,Vanuatu
+Matale,Somia- 2013,0.68,Australia,3.75,Trinitario,Madagascar
+Matale,Kulili P.- 2013,0.74,Australia,3.5,Trinitario,Papua New Guinea
+Matale,Blend,0.7,Australia,2.5,Trinitario,PNG- Vanuatu- Mad
+Middlebury,La Red,0.75,U.S.A.,3,Unknown,Dominican Republic
+Middlebury,Belize,0.8,U.S.A.,3,Trinitario,Belize
+Millcreek Cacao Roasters,Ecuador,0.7,U.S.A.,3,Forastero (Nacional),Ecuador
+Moho,Toledo District- w/ nibs,0.73,U.S.A.,3.5,Trinitario,Belize
+Moho,Toledo District,0.72,U.S.A.,3,Trinitario,Belize
+Nahua,Costa Rica- Oscuro,0.58,Costa Rica,3.25,Unknown,Costa Rica
+Nahua,Costa Rica- Oscuro,0.7,Costa Rica,3.25,Unknown,Costa Rica
+Naive,Trinidad & Tobago,0.7,Lithuania,3.25,Unknown,Trinidad- Tobago
+Naive,Maranon Canyon- Fortunato No. 4,0.78,Lithuania,3.25,Forastero (Nacional),Peru
+Nanea,Criollo Blend,0.85,U.S.A.,3.5,Unknown,Hawaii
+Night Owl,Peru,0.75,U.S.A.,3.5,Unknown,Peru
+Night Owl,Ecuador,0.75,U.S.A.,3.5,Unknown,Ecuador
+organicfair,Maya Mountain,0.74,Canada,3.5,Trinitario,Belize
+organicfair,La Red,0.72,Canada,3.5,Unknown,Dominican Republic
+organicfair,Nicaraqua,0.72,Canada,3,Trinitario,Nicaragua
+organicfair,Caribe,0.72,Canada,2.75,Unknown,Dominican Republic
+organicfair,Mindo,0.72,Canada,3,Trinitario,Ecuador
+Pascha,Peru,0.55,Peru,3.5,Unknown,Peru
+Pascha,Peru,0.7,Peru,3.5,Unknown,Peru
+Patric,Piura- Choc. Garage Exclusive,0.67,U.S.A.,3.5,Unknown,Peru
+Q Chocolate,Brazil,0.75,Brazil,3.75,Unknown,Brazil
+Q Chocolate,Brazil,0.85,Brazil,3,Unknown,Brazil
+Q Chocolate,Brazil,0.55,Brazil,2.5,Unknown,Brazil
+Q Chocolate,Brazil,0.8,Brazil,3,Unknown,Brazil
+Ritual,Toledo District- Maya,0.75,U.S.A.,3,Trinitario,Belize
+Ritual,Maranon- Cajamarca,0.75,U.S.A.,3.25,Forastero (Nacional),Peru
+Robert (aka Chocolaterie Robert),Madagascar,0.75,Madagascar,3.5,Trinitario,Madagascar
+Robert (aka Chocolaterie Robert),Madagascar w/ nibs,0.68,Madagascar,3.75,Trinitario,Madagascar
+Rogue,Akessons Estate- Sambirano- 2013,0.7,U.S.A.,2,Trinitario,Madagascar
+Rogue,Hispaniola- 2013,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Rogue,Silvestre- Batch 7- 2013,0.75,U.S.A.,3,Unknown,Bolivia
+Rogue,Bachelor's Hall E.- St. Thomas Parish,0.75,U.S.A.,3,Trinitario,Jamaica
+Solstice,Sambirano,0.7,U.S.A.,3.5,Trinitario,Madagascar
+Solstice,Amazonas,0.7,U.S.A.,1.5,Unknown,Venezuela
+Solstice,Bolivia,0.7,U.S.A.,2.25,Unknown,Bolivia
+Solstice,San Martin,0.7,U.S.A.,3.5,Unknown,Peru
+Solstice,Wasatch,0.7,U.S.A.,3.5,Blend,Unknown
+Soma,Rizek Cacao- Domin. Rep.,0.77,Canada,3.75,Trinitario,Dominican Republic
+Soma,Java,0.7,Canada,4,Criollo,Indonesia
+Soma,Apurimac- El Quinacho Co-op,0.7,Canada,2.5,Criollo,Peru
+Soma,Sangre Grande P.- Trinidad,0.7,Canada,2.75,Trinitario,Trinidad
+Soma,Chef's Blend,0.7,Canada,2.75,Unknown,Unknown
+Soma,Patanemo,0.7,Canada,2.75,Criollo,Venezuela
+Soma,Crazy 88,0.88,Canada,2.75,Unknown,Guat.- D.R.- Peru- Mad.- PNG
+Soma,Maracaibo- El Vigia,0.7,Canada,2.75,Criollo,Venezuela
+Soma,Equator,0.67,Canada,3.25,Unknown,Peru- Dom. Rep
+Soma,Orinoco,0.7,Canada,3.25,Forastero,Venezuela
+Soma,Bachelor's Hall E.- St. Thomas Parish,0.7,Canada,3.5,Trinitario,Jamaica
+Sprungli (Felchlin),Alto Beni,0.7,Switzerland,3.5,Criollo,Bolivia
+SRSLY,Dominican Republic,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+SRSLY,Dominican Republic,0.84,U.S.A.,2,Unknown,Dominican Republic
+Sublime Origins,Sambirano,0.67,U.S.A.,3,Trinitario,Madagascar
+Sublime Origins,Moho Valley,0.78,U.S.A.,3.25,Trinitario,Belize
+Szanto Tibor,Autumn- Primary Harvest- 2012,0.7,Hungary,3.75,Criollo,Madagascar
+Szanto Tibor,Spring- Secondary Harvest- 2012,0.7,Hungary,2,Criollo,Madagascar
+Szanto Tibor,Cacao Blanco,0.7,Hungary,2.75,Unknown,Nicaragua
+Tabal,Costa Rica,0.7,U.S.A.,3.5,Unknown,Costa Rica
+Tabal,Dominican Republic,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Tabal,Chiapas- Lacandon Jungle,0.7,U.S.A.,2.75,Unknown,Mexico
+Tabal,Peru,0.7,U.S.A.,3.5,Unknown,Peru
+twenty-four blackbirds,Dominican Republic,0.68,U.S.A.,3,Unknown,Dominican Republic
+twenty-four blackbirds,Palos Blancos,0.75,U.S.A.,2.5,Unknown,Bolivia
+Valrhona,Andoa- Grand Cru blend,0.7,France,2.5,Unknown,Unknown
+Valrhona,Loma Sotavento- 2013,0.64,France,2.75,Unknown,Dominican Republic
+Videri,Dark,0.9,U.S.A.,3.75,Unknown,Central and S. America
+Wilkie's Organic,Amazonas,0.75,Ireland,2.75,Criollo,Peru
+Wilkie's Organic,Amazonas,0.89,Ireland,2.75,Criollo,Peru
+Wilkie's Organic,Tumbes,0.75,Ireland,3,Criollo,Peru
+Wilkie's Organic,Amazonas w/ nibs,0.75,Ireland,3.25,Criollo,Peru
+Willie's Cacao,Java- Indonesian Black,1,U.K.,3.25,Unknown,Indonesia
+Woodblock,Camino Verde P.- Balao- Guayas,0.7,U.S.A.,3.5,Unknown,Ecuador
+Woodblock,Gran Couva,0.7,U.S.A.,3.75,Trinitario,Trinidad
+Xocolat,Hispaniola,0.66,Domincan Republic,3.75,Unknown,Dominican Republic
+A. Morin,Carenero,0.7,France,3.25,Criollo,Venezuela
+A. Morin,Cuba,0.7,France,3.25,Unknown,Cuba
+A. Morin,Sur del Lago,0.7,France,3.5,Criollo,Venezuela
+A. Morin,Puerto Cabello,0.7,France,3.5,Criollo,Venezuela
+A. Morin,Pablino,0.7,France,3.5,Unknown,Peru
+Alain Ducasse,Trinite,0.65,France,3.75,Trinitario,Trinidad
+Alain Ducasse,Vietnam,0.75,France,3.75,Trinitario,Vietnam
+Alain Ducasse,Madagascar,0.75,France,2.75,Trinitario,Madagascar
+Anahata,Elvesia,0.75,U.S.A.,2.75,Unknown,Dominican Republic
+Ara,Madagascar,0.75,France,3,Trinitario,Madagascar
+Ara,Chiapas,0.72,France,3.25,Unknown,Mexico
+Ara,Equateur,0.75,France,3.5,Unknown,Ecuador
+Ara,Trincheras,0.75,France,3.5,Unknown,Venezuela
+Bar Au Chocolat,Maranon Canyon,0.7,U.S.A.,3.5,Forastero (Nacional),Peru
+Black River (A. Morin),Blue Mountain Region,0.7,U.K.,3.5,Trinitario,Jamaica
+Bonnat,Kaori,0.75,France,3.5,Unknown,Brazil
+Bonnat,Los Colorados- Santo Domingo- Equateur,0.75,France,3.5,Unknown,Dominican Republic
+Bonnat,Surfin,0.65,France,2.75,Unknown,Venez-Africa-Brasil-Peru-Mex
+Bowler Man,Maya Mountain,0.7,U.S.A.,3,Trinitario,Belize
+Bowler Man,Conacado,0.7,U.S.A.,3,Unknown,Dominican Republic
+Brasstown aka It's Chocolate,Maya Mountain,0.7,U.S.A.,3.25,Trinitario,Belize
+Brasstown aka It's Chocolate,Chuao,0.7,U.S.A.,3,Trinitario,Venezuela
+Bright,Somia Plantation,0.72,Australia,3.25,Trinitario,Madagascar
+Bright,Marabel Farms,0.7,Australia,3.5,Unknown,Dominican Republic
+Bright,Camino Verde- Balao- Guayas,0.72,Australia,3.5,Unknown,Ecuador
+Bright,Gran Couva,0.68,Australia,3.5,Trinitario,Trinidad
+Burnt Fork Bend,Trinidad,0.72,U.S.A.,3.5,Trinitario,Trinidad
+Burnt Fork Bend,Mindo,0.72,U.S.A.,3.5,Unknown,Ecuador
+Burnt Fork Bend,Belize,0.72,U.S.A.,3.5,Trinitario,Belize
+Burnt Fork Bend,Blend,0.72,U.S.A.,3.5,Blend,Unknown
+Burnt Fork Bend,Ecuador- Bob Bar,0.6,U.S.A.,3.75,Unknown,Ecuador
+Cacao Atlanta,Tumbes,0.75,U.S.A.,3,Criollo,Peru
+Cacao de Origen,Chuao- Aragua region,0.75,Venezuela,3,Trinitario,Venezuela
+Cacao de Origen,Chuao- Aragua region,0.7,Venezuela,3.25,Trinitario,Venezuela
+Cacao Hunters,Sierra Nevada,0.64,Colombia,3.5,Unknown,Colombia
+Cacao Hunters,Tumaco,0.7,Colombia,2.25,Unknown,Colombia
+Cacao Hunters,Boyaca- Aprocampa Coop- Pauna,0.69,Colombia,2.5,Unknown,Colombia
+Cacao Hunters,Arauca,0.7,Colombia,2.75,Unknown,Colombia
+C-Amaro,Cuba,0.75,Italy,3,Unknown,Cuba
+C-Amaro,Dominican Republic,0.72,Italy,3.25,Unknown,Dominican Republic
+C-Amaro,Lago di Como- Blu,0.7,Italy,2.5,Blend,Unknown
+Captain Pembleton,Saidor Estate- Madang P.,0.7,New Zealand,2.75,Trinitario,Papua New Guinea
+Captain Pembleton,Kulili Estate,0.7,New Zealand,2.75,Unknown,Papua New Guinea
+Castronovo,Sierra Nevada,0.72,U.S.A.,2.75,Criollo- Trinitario,Colombia
+Castronovo,Arauca,0.76,U.S.A.,2.75,Criollo- Trinitario,Colombia
+Castronovo,Elvesia P.,0.7,U.S.A.,3,Trinitario,Dominican Republic
+Cello,Ecuador,0.7,U.S.A.,3,Unknown,Ecuador
+Cello,Peru,0.7,U.S.A.,3,Unknown,Peru
+Cello,Venezuela,0.7,U.S.A.,3,Unknown,Venezuela
+Cello,Bolivia,0.7,U.S.A.,3,Unknown,Bolivia
+Chaleur B,Uganda,0.7,Canada,3.25,Forastero,Uganda
+Chequessett,la Amistad,0.7,U.S.A.,3.25,Unknown,Costa Rica
+Choco Del Sol,Maya Mountain w/ nibs,0.75,Germany,3.25,Trinitario,Belize
+Choco Del Sol,Maya Mountain,0.82,Germany,3.5,Trinitario,Belize
+Chocolate Conspiracy,Peru,0.74,U.S.A.,3.5,Unknown,Peru
+Chocolats Privilege,Xoconusco,0.7,Canada,3.5,Criollo,Mexico
+Cravve,New Ireland,0.7,Australia,3.75,Forastero,Papua New Guinea
+Cravve,Vanuatu- batch 2410,0.83,Australia,3.75,Trinitario,Vanuatu
+Dandelion,Maya Mountain,0.7,U.S.A.,3.5,Trinitario,Belize
+Dandelion,Camino Verde P.- Balao- Guayas- 2013,0.7,U.S.A.,3.75,Unknown,Ecuador
+Dandelion,Buto,0.7,U.S.A.,4,Unknown,Liberia
+Dandelion,San Francisco de Macoris- Cibao region,0.7,U.S.A.,4,Unknown,Dominican Republic
+Danta,Los Ujuxtes,0.82,Guatemala,3.25,Unknown,Guatemala
+Dick Taylor,Elvesia,0.74,U.S.A.,3.25,Unknown,Dominican Republic
+Doble & Bignall,Panama- Raven,0.72,U.K.,3.25,Unknown,Panama
+Doble & Bignall,Puerto Cabello- Mantuano,0.72,U.K.,3.5,Trinitario,Venezuela
+Doble & Bignall,Johe,0.72,U.K.,3,Criollo- Trinitario,Nicaragua
+Duffy's,Chuno- Xoco,0.7,U.K.,2.5,Criollo,Nicaragua
+Duffy's,Rico Rugoso- Xoco,0.76,U.K.,2.75,Criollo,Nicaragua
+East Van Roasters,Peru,0.7,Canada,3,Unknown,Peru
+East Van Roasters,Madagascar,0.7,Canada,3,Trinitario,Madagascar
+East Van Roasters,Dominican Republic,0.7,Canada,3.5,Unknown,Dominican Republic
+Erithaj (A. Morin),Ben Tre,0.7,France,2.5,Trinitario,Vietnam
+Erithaj (A. Morin),Ham Luong,0.8,France,2.5,Trinitario,Vietnam
+Erithaj (A. Morin),Ba Lai,0.74,France,2.75,Trinitario,Vietnam
+Ethereal,Belize,0.8,U.S.A.,3,Trinitario,Belize
+Ethereal,Ecuador,0.8,U.S.A.,3.25,Unknown,Ecuador
+Ethereal,Dominican Republic,0.8,U.S.A.,3.25,Unknown,Dominican Republic
+Finca,Puerto Rico,0.65,U.S.A.,3.5,Unknown,Puerto Rico
+Finca,Dominican Republic,0.8,U.S.A.,3.5,Unknown,Dominican Republic
+Finca,Dominican Republic,0.7,U.S.A.,3,Unknown,Dominican Republic
+Finca,Dominican Republic,0.85,U.S.A.,3.5,Unknown,Dominican Republic
+Forever Cacao,Rio Eni,0.72,U.K.,3.5,Criollo,Peru
+Franceschi,Choroni,0.7,Venezuela,2,Unknown,Venezuela
+Franceschi,Ocumare,0.7,Venezuela,2,Unknown,Venezuela
+Frederic Blondeel,Ghana,0.6,Belgium,2,Forastero,Ghana
+Frederic Blondeel,Madagascar,0.65,Belgium,3,Trinitario,Madagascar
+French Broad,San Andres,0.8,U.S.A.,3.5,Unknown,Costa Rica
+French Broad,Matagalpa,0.68,U.S.A.,3.5,Unknown,Nicaragua
+Fresco,Maranon- #228- MR- SC,0.7,U.S.A.,3.75,Forastero (Nacional),Peru
+Fresco,Maranon- #227- LR- MC,0.7,U.S.A.,4,Forastero (Nacional),Peru
+Fresco,Maranon- #229- MR- LC,0.7,U.S.A.,4,Forastero (Nacional),Peru
+Fresco,Maranon- #230- DR- LC,0.7,U.S.A.,4,Forastero (Nacional),Peru
+Friis Holm (Bonnat),La Dalia,0.7,Denmark,1.5,Unknown,Nicaragua
+Fruition,Gran Couva,0.7,U.S.A.,2,Trinitario,Trinidad
+Fruition,Maranon,0.76,U.S.A.,2.5,Forastero (Nacional),Peru
+Garden Island,Kaua'I- Alea Estate +world,0.85,U.S.A.,2.5,Blend,Hawaii
+Habitual,Papua New Guinea,0.8,Canada,3.25,Unknown,Papua New Guinea
+Habitual,Campesino w/ nibs,0.74,Canada,3.25,Unknown,Unknown
+Habitual,Dominican Republic,0.75,Canada,3.5,Unknown,Dominican Republic
+Habitual,Trinitario,0.7,Canada,3.5,Trinitario,Unknown
+Habitual,Downtown London,0.65,Canada,3.5,Unknown,Unknown
+Habitual,Africa meets Latina,0.7,Canada,3.75,Unknown,Unknown
+Habitual,Amazonas,0.8,Canada,3.75,Unknown,Unknown
+Habitual,Sharkey,0.66,Canada,2.5,Unknown,Hawaii
+Habitual,one hundred,1,Canada,3.5,Unknown,Unknown
+Hacienda El Castillo,Don Homero- Cerecita Valley,0.55,Ecuador,2.75,Trinitario,Ecuador
+Hacienda El Castillo,Don Homero- Cerecita Valley,0.7,Ecuador,2.75,Trinitario,Ecuador
+Heirloom Cacao Preservation (Guittard),Alto Beni- Upper Rio Beni- 2014,0.67,U.S.A.,3.5,Amazon- ICS,Bolivia
+Heirloom Cacao Preservation (Guittard),Wild Beni- Lower Rio Beni- Tranquilidad- 2014,0.67,U.S.A.,3.5,Beniano,Bolivia
+Heirloom Cacao Preservation (Guittard),Los Rios- Hacienda Limon- Orecao- 2014,0.67,U.S.A.,3.75,EET,Ecuador
+Heirloom Cacao Preservation (Guittard),Maunawili- O'ahu- Agri Research C.- 2014,0.67,U.S.A.,2.5,Unknown,Hawaii
+Honest,Ecuador- w/ nibs,0.72,South Africa,2.75,Unknown,Ecuador
+Hummingbird,Bolivia,0.7,Canada,3,Criollo- Trinitario,Bolivia
+Hummingbird,Bolivia- Bo-nib-ia- w/ nibs,0.7,Canada,3.25,Criollo- Trinitario,Bolivia
+Hummingbird,Momotombo,0.7,Canada,2.75,Trinitario,Nicaragua
+Hummingbird,Hispaniola,0.7,Canada,3,Trinitario,Dominican Republic
+Hummingbird,Zorzal Reserva w/ Charles Kerchner,0.7,Canada,3.25,Unknown,Dominican Republic
+Indi,Honduras,0.77,U.S.A.,2.75,Unknown,Honduras
+Isidro,Madagascar,0.72,U.S.A.,2.75,Trinitario,Madagascar
+Isidro,Peru,0.72,U.S.A.,3.25,Unknown,Peru
+Isidro,Belize,0.72,U.S.A.,3.5,Trinitario,Belize
+Isidro,Dominican Republic,0.72,U.S.A.,3.25,Unknown,Dominican Republic
+Just Good Chocolate,Belize,0.7,U.S.A.,3.25,Trinitario,Belize
+Just Good Chocolate,Madagascar,0.7,U.S.A.,3.5,Trinitario,Madagascar
+Just Good Chocolate,Peru,0.7,U.S.A.,3.5,Unknown,Peru
+Kiskadee,La Red- Guanconjeco,0.6,U.S.A.,3.5,Trinitario,Dominican Republic
+Kto,San Martin,0.72,U.S.A.,3.5,Unknown,Peru
+Kto,Ocumare,0.72,U.S.A.,2.75,Unknown,Venezuela
+Kto,Belize,0.72,U.S.A.,2.75,Trinitario,Belize
+Kto,Sambirano Valley,0.72,U.S.A.,2.75,Trinitario,Madagascar
+Kto,Belize,0.9,U.S.A.,3,Trinitario,Belize
+Kto,Elvesia,0.72,U.S.A.,2.75,Unknown,Dominican Republic
+Kto,ROIG,0.72,U.S.A.,3,Unknown,Dominican Republic
+Laia aka Chat-Noir,Cuba,0.7,France,3.25,Unknown,Cuba
+Laia aka Chat-Noir,Trinidad-Tobago,0.68,France,2.5,Unknown,Trinidad-Tobago
+Letterpress,Maranura,0.7,U.S.A.,3,Forastero (Nacional),Peru
+Levy,Sambirano,0.71,Finland,2.5,Criollo,Madagascar
+Lonohana,Haleiwa E- O'ahu- 2014,0.65,U.S.A.,3.75,Unknown,Hawaii
+Lonohana,Haleiwa E- O'ahu- 2014,0.75,U.S.A.,3.75,Unknown,Hawaii
+Mana,Peru,0.74,U.S.A.,3.5,Unknown,Peru
+Mana,Venezuela,0.74,U.S.A.,2.25,Unknown,Venezuela
+Manifesto Cacao,Colombia,0.7,Colombia,2.5,Unknown,Colombia
+Manufaktura Czekolady,Porcelana,0.7,Poland,3.5,Criollo,Venezuela
+Manufaktura Czekolady,Kolumbia,0.85,Poland,1,Unknown,Colombia
+Mast Brothers,French Laundry 20th Anniversary,0.75,U.S.A.,2,Blend,Peru- Belize
+Maverick,Maya Mountain,0.7,U.S.A.,2.5,Trinitario,Belize
+Maverick,Elvesia,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Maverick,Tumbes,0.82,U.S.A.,3,Criollo,Peru
+Maverick,Morropon- Norandiono Coop- Piura,0.63,U.S.A.,3.75,Criollo,Peru
+Meadowlands,Bolivia,0.7,U.S.A.,2.25,Unknown,Bolivia
+Meadowlands,Venezuela,0.7,U.S.A.,2.75,Unknown,Venezuela
+Meadowlands,Belize,0.7,U.S.A.,3,Trinitario,Belize
+Meadowlands,Nicaragua- w/ inbs,0.7,U.S.A.,3,Unknown,Nicaragua
+Meadowlands,Dominican Republic,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Mesocacao,Honduras,0.8,Honduras,3.5,Unknown,Honduras
+Mesocacao,Honduras,0.7,Honduras,3,Unknown,Honduras
+Mesocacao,La Tronca- Matagalpa,0.7,Honduras,3,Unknown,Nicaragua
+Mesocacao,La Tronca- Matagalpa,0.8,Honduras,3.25,Unknown,Nicaragua
+Metiisto,Fazenda Sempre Firme P.- Bahia,0.7,Sweden,3,Unknown,Brazil
+Metiisto,Akesson Estate,0.72,Sweden,3,Trinitario,Madagascar
+Monsieur Truffe,Papaua New Guinea,0.7,Australia,2.75,Unknown,Papua New Guinea
+Na√¢‚Äì√§ve,Nicaragua,0.7,Lithuania,3,Criollo,Nicaragua
+Na√¢‚Äì√§ve,Chuao,0.75,Lithuania,3.25,Trinitario,Venezuela
+Na√¢‚Äì√§ve,Barinas,0.7,Lithuania,2.75,Unknown,Venezuela
+Nathan Miller,Peru,0.72,U.S.A.,3,Unknown,Peru
+Nathan Miller,Hispaniola,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Nathan Miller,Ghana,0.7,U.S.A.,3.75,Forastero,Ghana
+Noble Bean aka Jerjobo,Ghana,0.75,U.S.A.,3.75,Forastero,Ghana
+Noble Bean aka Jerjobo,Moho Valley,0.75,U.S.A.,3.5,Trinitario,Belize
+Noble Bean aka Jerjobo,Maranon Canyon,0.75,U.S.A.,2.5,Forastero (Nacional),Peru
+Ocho,PNG- Devotion,0.66,New Zealand,3.75,Unknown,Papua New Guinea
+Ocho,PNG- Revolution,0.7,New Zealand,3.75,Unknown,Papua New Guinea
+Ocho,PNG- Voodoo,0.88,New Zealand,3.75,Unknown,Papua New Guinea
+Ocho,PNG- Nib Bar,0.74,New Zealand,4,Unknown,Papua New Guinea
+Omnom,Papua New Guinea,0.7,Iceland,2.75,Unknown,Papua New Guinea
+Omnom,Madagascar,0.66,Iceland,2.75,Trinitario,Madagascar
+Original Beans (Felchlin),Papua Kerafat,0.68,Switzerland,3,Unknown,Papua New Guinea
+Original Beans (Felchlin),Grand Cru Blend No.1- 5 yr. Anniversary Ed,0.8,Switzerland,3.25,Blend,Unknown
+Pacari,Garaua,0.7,Ecuador,3.5,Unknown,Ecuador
+Pacari,Cumbia,0.7,Ecuador,3.5,Unknown,Ecuador
+Pacari,Montubia,0.7,Ecuador,2.75,Unknown,Ecuador
+Pacari,Tangara,0.7,Ecuador,3,Unknown,Ecuador
+Palette de Bine,Alto Beni- Palos Blancos,0.72,Canada,3.5,Unknown,Bolivia
+Palette de Bine,Sambirano,0.78,Canada,2.75,Trinitario,Madagascar
+Palette de Bine,Camino Verde P.- Balao- Guayas,0.75,Canada,3,Unknown,Ecuador
+Palette de Bine,Duo- Gran Couva & Camino Verde,0.75,Canada,3,Blend,Trinidad- Ecuador
+Palette de Bine,Gran Couva,0.7,Canada,3,Trinitario,Trinidad
+Park 75,South America,0.65,U.S.A.,2,Unknown,South America
+Parliament,Alto Beni,0.7,U.S.A.,2.75,Unknown,Bolivia
+Parliament,Oko Caribe,0.7,U.S.A.,2.75,Unknown,Dominican Republic
+Paul Young,Madagascar- w/ shell,0.73,U.K.,3,Trinitario,Madagascar
+Paul Young,Madagascar- w/ shell,0.64,U.K.,2.75,Trinitario,Madagascar
+Pitch Dark,Akesson Estate,0.73,U.S.A.,3,Trinitario,Madagascar
+Pitch Dark,Namau Village,0.73,U.S.A.,3.5,Trinitario,Fiji
+Pitch Dark,Camino Verde P.- Balao- Guayas- Fruity,0.73,U.S.A.,3.75,Unknown,Ecuador
+Pitch Dark,Camino Verde P.- Balao- Guayas- Floral,0.73,U.S.A.,2.75,Unknown,Ecuador
+Potomac,Cuyagua- 2013,0.7,U.S.A.,2.75,Unknown,Venezuela
+Pump Street Bakery,Patanemo Vil.- Carabobo State- Tisano family,0.75,U.K.,2.75,Trinitario,Venezuela
+Pump Street Bakery,Guantupi River,0.75,U.K.,3,Forastero (Nacional),Ecuador
+Pump Street Bakery,Akessons Estate- Sambirano- Ambanja,0.72,U.K.,3,Trinitario,Madagascar
+Pump Street Bakery,Guantupi River,0.85,U.K.,2.75,Forastero (Nacional),Ecuador
+Rogue,Porcelana,0.8,U.S.A.,3,Criollo,Venezuela
+Shark Mountain,Ecuador,0.75,U.S.A.,3,Trinitario,Ecuador
+Shark Mountain,Belize- 2013,0.72,U.S.A.,3.25,Criollo- Trinitario,Belize
+Sirene,Somia Plantation- 2012,0.67,Canada,3.25,Trinitario,Madagascar
+Sirene,Somia Plantation- 2012,0.73,Canada,3.75,Trinitario,Madagascar
+Sirene,Camino Verde P.- Balao- Guayas,0.73,Canada,3,Unknown,Ecuador
+Solstice,Bundibugyo,0.7,U.S.A.,3,Forastero- Trinitario,Uganda
+Soma,La Tronca- Matagalpa,0.7,Canada,3,Unknown,Nicaragua
+Soma,Maranon Canyon,0.7,Canada,3,Forastero (Nacional),Peru
+Soma,La Dalia,0.7,Canada,2,Trinitario,Nicaragua
+Soma,Camino Verde P.- Balao- Guayas,0.8,Canada,2.5,Forastero (Nacional),Ecuador
+Soma,Espiritu Santo- 'Smoke Monster',0.7,Canada,2.75,Forastero (Amelonado),Vanuatu
+Soma,Little Big Man,0.7,Canada,2.75,Blend,Madagascar & Ecuador
+Somerville,Nicaragua,0.7,U.S.A.,3,Unknown,Nicaragua
+Somerville,Hawaiian- Big Island,0.7,U.S.A.,3.25,Unknown,Hawaii
+Spencer,Malekula Island,0.72,Australia,3.5,Trinitario,Vanuatu
+Stone Grindz,Ecuador- Midnight Dark,0.84,U.S.A.,3.5,Unknown,Ecuador
+Stone Grindz,Ecuador- Twilght Dark,0.7,U.S.A.,3.5,Unknown,Ecuador
+Szanto Tibor,Porcelana,0.7,Hungary,3.75,Criollo,Venezuela
+Szanto Tibor,Baracoa,0.7,Hungary,4,Trinitario,Cuba
+Taza,Belize,0.68,U.S.A.,4,Trinitario,Belize
+Terroir,Ecuador,0.77,U.S.A.,4,Unknown,Ecuador
+Terroir,Madagascar,0.67,U.S.A.,2.75,Trinitario,Madagascar
+Terroir,Uganda,0.73,U.S.A.,2.75,Forastero,Uganda
+To'ak (Ecuatoriana),Manabi,0.81,Ecuador,2.75,Forastero (Nacional),Ecuador
+Treehouse,Conacado,0.72,U.S.A.,3,Unknown,Dominican Republic
+twenty-four blackbirds,Madagascar,0.75,U.S.A.,3.25,Trinitario,Madagascar
+Undone,Matagalpa,0.74,U.S.A.,3.25,Unknown,Nicaragua
+Undone,Nourish,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Urzi,Sur del Lago- Merida,0.65,Italy,3.5,Trinitario,Venezuela
+Videri,Dominican Republic,0.9,U.S.A.,3.75,Unknown,Dominican Republic
+Videri,Trinidad,0.75,U.S.A.,3.75,Trinitario,Trinidad
+Videri,Mindo,0.75,U.S.A.,3.75,Unknown,Ecuador
+Vintage Plantations,San Martin,0.75,U.S.A.,3,Unknown,Peru
+Willie's Cacao,Los Llanos,0.88,U.K.,3.5,Trinitario,Colombia
+Woodblock,Maranon- Cajamarca,0.7,U.S.A.,3,Forastero (Nacional),Peru
+Zotter,Raw,0.8,Austria,3.25,Unknown,Unknown
+A. Morin,Kpime,0.7,France,3.5,Unknown,Togo
+A. Morin,Atsane,0.7,France,3.5,Unknown,Togo
+A. Morin,Akata,0.7,France,2.5,Unknown,Togo
+A. Morin,Quilla,0.7,France,2.75,Unknown,Peru
+Acalli,Chulucanas- El Platanal,0.7,U.S.A.,3.5,Unknown,Peru
+Acalli,Tumbes- Norandino,0.7,U.S.A.,3.5,Criollo,Peru
+Ambrosia,Belize,0.64,Canada,3.75,Trinitario,Belize
+Ambrosia,Madagascar,0.66,Canada,4,Trinitario,Madagascar
+Ambrosia,Dominican Republic,0.75,Canada,4,Unknown,Dominican Republic
+Ambrosia,Papua New Guinea,0.63,Canada,4,Unknown,Papua New Guinea
+Ambrosia,Venezuela,0.7,Canada,2.25,Unknown,Venezuela
+Ambrosia,Peru,0.68,Canada,2.75,Unknown,Peru
+Arete,Fazenda Camboa,0.7,U.S.A.,3,Unknown,Brazil
+Arete,Nacional,0.68,U.S.A.,3,Forastero (Nacional),Peru
+Arete,Puerto Quito- heirloom,0.7,U.S.A.,3,Forastero (Nacional),Ecuador
+Arete,Oko Caribe,0.7,U.S.A.,3,Unknown,Domincan Republic
+Arete,Maya Mountain,0.7,U.S.A.,3,Trinitario,Belize
+Arete,Chuno,0.7,U.S.A.,3,Criollo- Trinitario,Nicaragua
+Arete,Fazenda Camboa,0.75,U.S.A.,3.25,Unknown,Brazil
+Arete,Guatemala,0.7,U.S.A.,3.25,Unknown,Guatemala
+Arete,Camino Verde,0.75,U.S.A.,3.5,Unknown,Ecuador
+Bahen & Co.,Houseblend,0.8,Australia,3.75,Unknown,Unknown
+Bahen & Co.,Papua New Guinea,0.7,Australia,3.75,Unknown,Papua New Guinea
+Bakau,Bambamarca- 2015,0.7,Peru,4,Unknown,Peru
+Bakau,Huallabamba- 2015,0.7,Peru,4,Unknown,Peru
+Bar Au Chocolat,Bahia,0.7,U.S.A.,4,Unknown,Brazil
+Bisou,Nicaragua- American style,0.76,U.S.A.,4,Unknown,Nicaragua
+Bisou,San Andres- American style,0.76,U.S.A.,2.5,Unknown,Costa Rica
+Bisou,San Andres- silk,0.78,U.S.A.,2.5,Unknown,Costa Rica
+Bisou,Belize,0.86,U.S.A.,2.5,Trinitario,Belize
+Brasstown aka It's Chocolate,Conacado,0.68,U.S.A.,2.75,Unknown,Dominican Republic
+Brazen,Elvesia P.,0.6,U.S.A.,2.75,Unknown,Dominican Republic
+Brazen,Elvesia P.,0.8,U.S.A.,2.75,Unknown,Dominican Republic
+Brazen,Alta Verapaz- 2014,0.7,U.S.A.,3.25,Unknown,Guatemala
+Brazen,Ambolikapiky P.,0.8,U.S.A.,3.25,Unknown,Madagascar
+Brazen,Maya Mountain,0.8,U.S.A.,3.25,Trinitario,Belize
+Brazen,Ambolikapkly P.,0.6,U.S.A.,3.5,Unknown,Madagascar
+Britarev,Ecuador,0.7,Russia,2.5,Unknown,Ecuador
+Cacao Arabuco,Puerto Rico,0.7,Puerto Rico,2.75,Unknown,Puerto Rico
+Cacao de Origen,Chuao,0.77,Venezuela,2.75,Trinitario,Venezuela
+Cacao de Origen,Rio Caribe,0.75,Venezuela,3,Trinitario,Venezuela
+Cacao de Origin,Hacienda la Trinidad,0.74,Venezuela,3.5,Unknown,Venezuela
+Cacao Hunters,Arhuacos,0.72,Colombia,3.5,Unknown,Colombia
+Cacao Store,Madagascar,0.7,Japan,3.75,Trinitario,Madagascar
+Cacao Store,Peru,0.7,Japan,3.75,Unknown,Peru
+Cacao Store,Vietnam,0.7,Japan,3.75,Trinitario,Vietnam
+Caribeans,Antigua- Special Reserve,0.72,Costa Rica,2,Unknown,Guatemala
+Caribeans,Talamanca- Raul-Kekoldo community,0.72,Costa Rica,2,Unknown,Costa Rica
+Caribeans,Anselmo Paraiso Estate,0.72,Costa Rica,3,Unknown,Costa Rica
+Castronovo,the lost city- gracias a dias- batch 362,0.72,U.S.A.,3,Trinitario,Honduras
+Castronovo,Duarte- Batch 360,0.7,U.S.A.,3,Criollo- Trinitario,Domincan Republic
+Castronovo,Piaroa- Amazonas- Batch 350,0.72,U.S.A.,3,Unknown,Venezuela
+Chocablog,Ecuador,0.7,U.K.,3,Unknown,Ecuador
+Choco Dong,Mekong Delta- early 2014 Harvest,0.7,South Korea,3,Trinitario,Vietnam
+Choco Dong,Tawau- Oct. 2015 Harvest,0.7,South Korea,3,Trinitario,Malaysia
+Chocolarder,Peru,0.65,U.K.,3.25,Criollo,Peru
+Chocolarder,Peru + nibs,0.65,U.K.,3.25,Criollo,Peru
+Chocolarder,Dominican Republic,0.8,U.K.,3.25,Unknown,Dominican Republic
+Chocolate Makers,Tres Hombres,0.75,Amsterdam,3.5,Trinitario,Dominican Republic
+Chocolate Makers,Congo- Gorilla bar,0.68,Amsterdam,3.5,Forastero,Congo
+Chocolate Makers,Peru- Awagum bar,0.8,Amsterdam,3.5,Criollo,Peru
+ChocoReko,Patanemo,0.77,Japan,3.5,Criollo,Venezuela
+Chocovivo,Tabasco,0.65,U.S.A.,3.5,Trinitario,Mexico
+Chocovivo,Tabasco,0.75,U.S.A.,3.5,Trinitario,Mexico
+Cloudforest,Camino Verde P.- Balao- Guayas- 2014,0.73,U.S.A.,3.5,Unknown,Ecuador
+Coleman & Davis,Sambirano,0.75,U.S.A.,3.5,Trinitario,Madagascar
+Condor,Camino Verde,0.76,U.S.A.,3.5,Unknown,Ecuador
+Daintree,Goodman Estate,0.7,Australia,3.75,Unknown,Australia
+Damson,Robson Estate,0.7,U.K.,4,Trinitario,Trinidad
+Damson,Los Rios,0.7,U.K.,4,Unknown,Ecuador
+Damson,Crayfish Bay aka Non Pariel Estate,0.7,U.K.,4,Unknown,Grenada
+Damson,O'Payo,0.7,U.K.,2.75,Unknown,Nicaragua
+Dandelion,Maya Mtn.- Break Bar- Snark,0.7,U.S.A.,2.75,Trinitario,Belize
+Dark Forest,Madagascar,0.7,U.S.A.,2.75,Trinitario,Madagascar
+Dark Forest,Ocumare,0.7,U.S.A.,3,Unknown,Venezuela
+Dark Forest,Tanzania,0.7,U.S.A.,3.25,Unknown,Tanzania
+Dark Forest,Ecuador,0.7,U.S.A.,3.5,Unknown,Ecuador
+De Mendes,Nativo- Varzea,0.72,Brazil,3.5,Unknown,Brazil
+De Mendes,Selvagem- Jari,0.65,Brazil,3.5,Unknown,Brazil
+Dick Taylor,Alto Beni- Wild Harvest- Limited Ed.,0.7,U.S.A.,2.75,Unknown,Bolivia
+Doble & Bignall,Puerto Cabello,0.85,U.K.,2.75,Unknown,Venezuela
+Domori,Hacienda Victoria,0.7,Italy,3,Unknown,Ecuador
+Domori,Ocumare 77,0.7,Italy,3.25,Criollo (Ocumare 77),Venezuela
+Dormouse,Rio Caribe- Batch 7,0.7,U.K.,3.25,Trinitario,Venezuela
+Dormouse,Colombia- Batch 9,0.8,U.K.,3.25,Criollo- Trinitario,Colombia
+Dormouse,Madagascar- Batch 8,0.77,U.K.,3.5,Criollo- Trinitario,Madagascar
+Duffy's,Rio Dulce- Xoco,0.7,U.K.,2.75,Criollo,Guatemala
+Dulcinea,Dominican Republic,0.7,U.S.A.,3,Unknown,Dominican Republic
+Durci,Maranon- Joya Rara,0.7,U.S.A.,2.75,Forastero (Nacional),Peru
+Durci,Rio Caribe- Tepui Treasure,0.7,U.S.A.,3,Trinitario,Venezuela
+Durci,Taino Secret,0.7,U.S.A.,3.25,Unknown,Domincan Republic
+Durci,Carenero- Empyrean Sabor,0.7,U.S.A.,3.5,Trinitario,Venezuela
+Durci,Corona Arriba,0.7,U.S.A.,2.75,Unknown,Ecuador
+El Rey,San Joaquin,0.7,Venezuela,3,Unknown,Venezuela
+Emily's,Patanemo,0.79,Japan,2.5,Unknown,Venezuela
+Emily's,Peru,0.78,Japan,3.25,Criollo,Peru
+Frederic Blondeel,Costa Rica,0.7,Belgium,3.5,Unknown,Costa Rica
+Frederic Blondeel,Peru Brutus,0.75,Belgium,3.25,Unknown,Peru
+Frederic Blondeel,Vietnam,0.8,Belgium,2.5,Trinitario,Vietnam
+French Broad,Guatemala,0.73,U.S.A.,2.5,Unknown,Guatemala
+Friis Holm (Bonnat),La Dalia,0.6,Denmark,3,Unknown,Nicaragua
+Friis Holm (Bonnat),La Dalia,0.85,Denmark,3.25,Unknown,Nicaragua
+Georgia Ramon,Akesson P.,0.65,Germany,3.5,Trinitario,Madagascar
+Georgia Ramon,ABOCFA Coop,0.7,Germany,3.75,Forastero,Ghana
+Georgia Ramon,Conacado Coop,0.7,Germany,3,Trinitario,Domincan Republic
+Georgia Ramon,Conacado Coop,0.8,Germany,3.25,Trinitario,Domincan Republic
+Georgia Ramon,Akesson P.,0.75,Germany,3.5,Trinitario,Madagascar
+Glennmade,Bahia,0.66,U.S.A.,3.5,Trinitario- Forastero,Brazil
+Guittard,Epique- Blend No. 49,0.7,U.S.A.,3.5,Unknown,Unknown
+Harper Macaw,Brazil Blend,0.67,U.S.A.,3.5,Unknown,Brazil
+Harper Macaw,Tome Acu E.- Amazon Rainforest,0.77,U.S.A.,3.75,Unknown,Brazil
+Harper Macaw,Vale do Juliana E.- Atlantic Forest,0.74,U.S.A.,3.75,Unknown,Brazil
+hello cocoa,Uganda,0.57,U.S.A.,4,Forastero,Uganda
+hello cocoa,Venezuela,0.74,U.S.A.,3.25,Criollo,Venezuela
+hexx,Tanzania,0.7,U.S.A.,3.25,Unknown,Tanzania
+hexx,Madagascar,0.74,U.S.A.,3.25,Trinitario,Madagascar
+hexx,Venezuela,0.7,U.S.A.,3.25,Unknown,Venezuela
+hexx,Ecuador,0.73,U.S.A.,3.25,Unknown,Ecuador
+hexx,Peru,0.7,U.S.A.,3.5,Unknown,Peru
+Holy Cacao,Camino Verde P.- Balao- Guayas,0.7,Israel,2.75,Unknown,Ecuador
+Holy Cacao,Sambirano,0.7,Israel,2.75,Trinitario,Madagascar
+Holy Cacao,Gran Couva,0.7,Israel,2.75,Trinitario,Trinidad
+Holy Cacao,Mara,0.7,Israel,3,Unknown,Venezuela
+Hotel Chocolat,Pepiniere- single Cote,0.7,U.K.,3,Unknown,St. Lucia
+Hummingbird,Lam Dong,0.7,Canada,3.25,Trinitario,Vietnam
+Izard,Maya Mountain- Toledo- Batch 29,0.7,U.S.A.,3.5,Trinitario,Belize
+Izard,Elvesia P.- Batch 32,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Jordis,Madagascar,0.63,Czech Republic,3.5,Trinitario,Madagascar
+Laia aka Chat-Noir,Madagascar- Batch 59/100,0.75,France,3.75,Trinitario,Madagascar
+Laia aka Chat-Noir,Vietnam- Batch 50/100,0.75,France,3.75,Trinitario,Vietnam
+Laia aka Chat-Noir,Cuba- Batch 59/100,0.75,France,3.75,Unknown,Cuba
+Laia aka Chat-Noir,Peru- Batch 51/100,0.75,France,3.75,Unknown,Peru
+Laia aka Chat-Noir,Ivory Coast- Batch 56/100,0.75,France,3.75,Unknown,Ivory Coast
+Laia aka Chat-Noir,Sao Tome- Batch 151,0.75,France,3.75,Forastero,Sao Tome
+Laia aka Chat-Noir,Bahia- Batch 148,0.75,France,4,Unknown,Brazil
+Laia aka Chat-Noir,Lam Dong- Batch 153,0.75,France,2.25,Trinitario,Vietnam
+Letterpress,Beniamo,0.7,U.S.A.,2.5,Unknown,Bolivia
+Letterpress,San Juan Estate- Gran Couva,0.7,U.S.A.,2.5,Trinitario,Trinidad
+Letterpress,San Andres,0.7,U.S.A.,2.5,Unknown,Costa Rica
+Letterpress,La Red- Guaconejo,0.7,U.S.A.,2.75,Unknown,Domincan Republic
+Letterpress,Kokoa Kamili,0.7,U.S.A.,3.5,Unknown,Tanzania
+Love Bar,Nicaragua,0.75,U.S.A.,3.5,Unknown,Nicaragua
+Mana,Ecuador,0.74,U.S.A.,1.5,Unknown,Ecuador
+Manoa,Markham Valley,0.72,U.S.A.,3,Unknown,Papua New Guinea
+Manoa,Coto Brus,0.72,U.S.A.,3.5,Unknown,Costa Rica
+Map Chocolate,ROIG- 2014,0.7,U.S.A.,3.5,Criollo- Trinitario,Dominican Republic
+Map Chocolate,Maranon- 2014,0.62,U.S.A.,3.5,Forastero (Nacional),Peru
+Map Chocolate,Ecuador,0.7,U.S.A.,2.75,Trinitario,Ecuador
+Map Chocolate,San Juan Estate- Cherry Blossoms at Night,0.7,U.S.A.,3.25,Trinitario,Trinidad
+Map Chocolate,A case of the Xerces Blues- triple roast,0.7,U.S.A.,3.5,Unknown,Nicaragua
+Map Chocolate,Tumbes- Dear Mr. Finley- 2014,0.68,U.S.A.,3.5,Criollo,Peru
+Map Chocolate,Colombia,0.75,U.S.A.,3.5,Unknown,Colombia
+Map Chocolate,Kakoa Kamili- Both Man & Bird & Beast,0.72,U.S.A.,3.5,Unknown,Tanzania
+Map Chocolate,Le Chocolat Chaud,0.78,U.S.A.,2,Unknown,Honduras
+Marou,Tan Phu Dong Island- Heart of Darkness,0.85,Vietnam,2.75,Trinitario,Vietnam
+Marou,Ben Tre,0.68,Vietnam,3,Trinitario,Vietnam
+Marou,Dak Lak- Batch 2451,0.7,Vietnam,3,Trinitario,Vietnam
+Mast Brothers,Guatemala,0.76,U.S.A.,4,Unknown,Guatemala
+Mast Brothers,Tanzania,0.74,U.S.A.,2.75,Unknown,Tanzania
+Mesocacao,El Salvador,0.8,Honduras,2,Unknown,El Salvador
+Mesocacao,El Salvador,0.7,Honduras,2,Unknown,El Salvador
+Metropolitan,South America,0.7,Amsterdam,2,Trinitario,South America
+Middlebury,Maya Mountain,0.8,U.S.A.,3,Trinitario,Belize
+Middlebury,San Juan Estate,0.7,U.S.A.,3,Trinitario,Trinidad
+Middlebury,Oko Caribe,0.75,U.S.A.,3,Unknown,Dominican Republic
+Middlebury,Patanemo- Epoch- Donaldo,0.75,U.S.A.,3,Unknown,Venezuela
+Middlebury,Kokoa Kamili,0.75,U.S.A.,3,Unknown,Tanzania
+Middlebury,Matagalpa- Cacao Bisiesto,0.7,U.S.A.,3.5,Unknown,Nicaragua
+Mission,Bahia- Fazenda Venturosa,0.7,Brazil,3.5,Forastero (Parazinho),Brazil
+Molucca,La Red,0.7,U.S.A.,3.75,Unknown,Domincan Republic
+Molucca,Indonesia,0.7,U.S.A.,3.75,Unknown,Indonesia
+Molucca,Peru,0.7,U.S.A.,3.75,Unknown,Peru
+Montecristi,Manabi,0.7,Ecuador,3.75,Unknown,Ecuador
+Montecristi,Manabi,0.63,Ecuador,3.75,Unknown,Ecuador
+Montecristi,Manabi,0.85,Ecuador,4,Unknown,Ecuador
+Muchomas (Mesocacao),Nicaragua,0.7,U.S.A.,4,Unknown,Nicaragua
+Muchomas (Mesocacao),Nicaragua,0.8,U.S.A.,2.75,Unknown,Nicaragua
+Nibble,Patanemo,0.72,U.S.A.,2.75,Criollo,Venezuela
+Nibble,Elvesia P.,0.72,U.S.A.,2.75,Trinitario,Dominican Republic
+Nibble,Ambanja- Sambirano Valley,0.72,U.S.A.,3,Trinitario,Madagascar
+Nibble,Tumbes,0.72,U.S.A.,3.25,Criollo,Peru
+Nuance,Ghana- 2013,0.7,U.S.A.,3.25,Forastero,Ghana
+Nuance,Ecuador- 2013,0.7,U.S.A.,3.5,Trinitario,Ecuador
+Nuance,Canoabo- 2013,0.7,U.S.A.,3.5,Criollo,Venezuela
+Nuance,Sambirano Valley- 2012,0.7,U.S.A.,2,Trinitario,Madagascar
+Nuance,La Red,0.7,U.S.A.,2.5,Unknown,Dominican Republic
+Obolo,Pangoa,0.7,Chile,3.25,Criollo,Peru
+Obolo,Pangoa- w/ nibs,0.7,Chile,3.5,Criollo,Peru
+Ocelot,Virunga,0.7,Scotland,3.25,Forastero,Congo
+Ocelot,Piura,0.75,Scotland,3.5,Criollo,Peru
+Ohiyo,San Juan Estate- Gran Couva,0.7,U.S.A.,2.5,Trinitario,Trinidad
+Ohiyo,Tanzania,0.7,U.S.A.,3,Unknown,Tanzania
+Palette de Bine,Silvestre- La Paz- Beni,0.7,Canada,3,Unknown,Bolivia
+Palette de Bine,San Juan Estate- Gran Couva,0.7,Canada,3.25,Trinitario,Trinidad
+Palette de Bine,Kokoa Kamili,0.72,Canada,3.25,Unknown,Tanzania
+Palette de Bine,Lam Dong,0.72,Canada,3,Trinitario,Vietnam
+Parliament,Lachua- Q'egchi families,0.7,U.S.A.,3,Unknown,Guatemala
+Peppalo,Dominican Republic,0.82,U.S.A.,3,Unknown,Dominican Republic
+Pierre Marcolini,Haut Penja- w/ nibs,0.7,Belgium,3.25,Forastero,Cameroon
+Pitch Dark,Tenor,0.62,U.S.A.,3.25,Unknown,Nicaragua
+Pitch Dark,Johe,0.8,U.S.A.,3.5,Unknown,Nicaragua
+Pitch Dark,Chuno,0.8,U.S.A.,3.5,Criollo- Trinitario,Nicaragua
+Pitch Dark,Nicalizo,0.8,U.S.A.,3.75,Trinitario,Nicaragua
+Pitch Dark,Rugoso,0.8,U.S.A.,3.75,Unknown,Nicaragua
+Pralus,Peru,0.75,France,3.75,Unknown,Peru
+Pump Street Bakery,Crayfish Bay Estate- 2014,0.7,U.K.,3.75,Trinitario,Grenada
+Pump Street Bakery,Akesson's- batch 4411,0.74,U.K.,2.75,Criollo,Madagascar
+Pump Street Bakery,Honduras,0.8,U.K.,3,Unknown,Honduras
+Raaka,Virunga,0.75,U.S.A.,1.5,Forastero,Congo
+Ranger,San Martin- Batch 2,0.7,U.S.A.,3,Unknown,Peru
+Ranger,Chulucanas- Batch 1,0.8,U.S.A.,3.25,Unknown,Peru
+Ranger,Tumbes- Batch 2,0.73,U.S.A.,3,Criollo,Peru
+Ritual,Camino Verde P.- Balao- Guayas- 2014,0.85,U.S.A.,3.5,Unknown,Ecuador
+Ritual,Mid Mountain- 2014,0.7,U.S.A.,2.75,Blend,Unknown
+Rogue,Caranero- Choc. Garage Exclusive,0.7,U.S.A.,2.75,Unknown,Venezuela
+Rogue,Tranquilidad- Batch 1,0.75,U.S.A.,3.25,Unknown,Bolivia
+Seaforth,Dominican Republic,0.7,U.K.,3.25,Unknown,Domincan Republic
+Seaforth,Grenada,0.7,U.K.,3,Unknown,Grenada
+Shark Mountain,Jamaica,0.72,U.S.A.,3,Trinitario,Jamaica
+Shark Mountain,Papua New Guinea,0.73,U.S.A.,3,Forastero,Papua New Guinea
+Shark Mountain,Cuyagua,0.77,U.S.A.,3.25,Criollo,Venezuela
+Shark Mountain,ROIG,0.74,U.S.A.,3.25,Criollo- Trinitario,Dominican Republic
+Sibu,Oro,0.82,Costa Rica,3.5,Unknown,Costa Rica
+Sibu,Oscuro,0.7,Costa Rica,2.75,Unknown,Costa Rica
+Sirene,Somia Plantation- 2012,1,Canada,2.75,Trinitario,Madagascar
+Sirene,Camino Verde P.- Balao- Guayas- 2012,1,Canada,3,Unknown,Ecuador
+Sirene,Lachua w/ cane sugar,0.73,Canada,3,Unknown,Guatemala
+Sirene,Lachua w/ maple sugar- batch 5,0.73,Canada,3.25,Unknown,Guatemala
+Sirene,Pisa,0.73,Canada,3.25,Unknown,Haiti
+Sjolinds,Ghana,0.7,U.S.A.,3.25,Forastero,Ghana
+Sjolinds,Nicaragua,0.72,U.S.A.,3.25,Unknown,Nicaragua
+Sol Cacao,Madagascar,0.72,U.S.A.,3.25,Trinitario,Madagascar
+Soma,CSB Chama,0.7,Canada,3.25,Criollo,Venezuela
+Soma,Porcelana,0.75,Canada,3.25,Unknown,Venezuela
+Starchild,Bolivar- Arriba,0.7,U.S.A.,3.5,Forastero (Nacional),Ecuador
+Starchild,Hispaniola,0.7,U.S.A.,3.5,Unknown,Domincan Republic
+Starchild,Cacao Verapaz,0.7,U.S.A.,3.5,Unknown,Guatemala
+Starchild,Rio Tuma,0.7,U.S.A.,3.5,Trinitario (Amelonado),Nicaragua
+Starchild,Sambirano Valley,0.7,U.S.A.,3.5,Trinitario,Madagascar
+Svenska Kakaobolaget,Sri Lanka,0.7,Sweden,3.5,Criollo- Trinitario,Sri Lanka
+Szanto Tibor,Nacional,0.7,Hungary,3.5,Unknown,Ecuador
+Szanto Tibor,Baracoa,0.88,Hungary,3.5,Trinitario,Cuba
+Szanto Tibor,Ambolikapiky,0.7,Hungary,3.5,Trinitario,Madagascar
+Szanto Tibor,Winak- Sumaco,0.7,Hungary,3.5,Forastero (Nacional),Ecuador
+Szanto Tibor,Ben Tre- Mekong Delta,0.7,Hungary,3.5,Trinitario,Vietnam
+Szanto Tibor,Fazenda Sempre Firme- Bahia,0.7,Hungary,3.5,Forastero (Parazinho),Brazil
+Tablette (aka Vanillabeans),Colombia,0.7,Japan,3.5,Unknown,Colombia
+Tablette (aka Vanillabeans),Papua,0.62,Japan,3.75,Unknown,Papua New Guinea
+Tablette (aka Vanillabeans),Vietnam,0.6,Japan,3.75,Trinitario,Vietnam
+Tablette (aka Vanillabeans),Trinidad,0.77,Japan,3.75,Trinitario,Trinidad
+Terroir,Peru,0.7,U.S.A.,3.75,Unknown,Peru
+Terroir,Belize,0.7,U.S.A.,3.75,Trinitario,Belize
+Terroir,Madagascar,0.7,U.S.A.,3.75,Trinitario,Madagascar
+Terroir,Ecuador,0.7,U.S.A.,3.75,Unknown,Ecuador
+Terroir,Oko Caribe,0.7,U.S.A.,3.75,Unknown,Domincan Republic
+Terroir,Guatemala,0.7,U.S.A.,3.75,Trinitario,Guatemala
+The Barn,Peru,0.7,Sweden,3.75,Unknown,Peru
+Theobroma,Piura Select- Cacao Blanc,0.7,Japan,3.75,Unknown,Peru
+twenty-four blackbirds,Oko Caribe,0.75,U.S.A.,3.75,Unknown,Domincan Republic
+twenty-four blackbirds,Cedeno- lot 271,0.75,U.S.A.,3.75,Unknown,Ecuador
+Valrhona,Piura- Illanka- Quemazon,0.63,France,4,Unknown,Peru
+Vicuna,Palos Blancos,0.7,U.S.A.,4,Unknown,Bolivia
+Vicuna,Palos Blancos + nibs,0.7,U.S.A.,4,Unknown,Bolivia
+Violet Sky,Sambirano Valley,0.77,U.S.A.,4,Trinitario,Madagascar
+Violet Sky,Moho River Valley,0.77,U.S.A.,4,Criollo- Trinitario,Belize
+Violet Sky,Cuyagua,0.77,U.S.A.,4,Criollo,Venezuela
+Violet Sky,Peru,0.77,U.S.A.,4,Criollo- Trinitario,Peru
+Violet Sky,Cahabon,0.77,U.S.A.,4,Trinitario,Guatemala
+Zak's,Papua New Guinea- Batch 2,0.7,U.S.A.,4,Unknown,Papua New Guinea
+Zak's,Dominican Republic- Batch D2,0.7,U.S.A.,4,Unknown,Domincan Republic
+Zak's,Madagascar- Batch 2,0.7,U.S.A.,3.25,Trinitario,Madagascar
+Zak's,Peru- Batch 1,0.7,U.S.A.,3.5,Unknown,Peru
+Zak's,Belize- Batch 2,0.7,U.S.A.,3.25,Trinitario,Belize
+Zak's,House Blend- Batch 2,0.6,U.S.A.,3.25,Unknown,Unknown
+A. Morin,Agua Grande,0.63,France,3.25,Unknown,Sao Tome
+Altus aka Cao Artisan,Momotombo,0.6,U.S.A.,3.5,Unknown,Nicaragua
+Altus aka Cao Artisan,Acopagro,0.6,U.S.A.,3.5,Unknown,Peru
+Altus aka Cao Artisan,CIAAB Coop,0.6,U.S.A.,3.5,Unknown,Bolivia
+Altus aka Cao Artisan,Villa Andina,0.6,U.S.A.,3,Unknown,Peru
+Altus aka Cao Artisan,Gruppo Salinas,0.6,U.S.A.,3,Unknown,Ecuador
+Animas,Alto Beni,0.75,U.S.A.,3.25,Unknown,Bolivia
+Arete,San Juan,0.7,U.S.A.,2.75,Trinitario,Trinidad
+Arete,Kokoa Kamili,0.7,U.S.A.,2.75,Unknown,Tanzania
+Arete,Tien Giang,0.73,U.S.A.,3.5,Trinitario,Vietnam
+Arete,Hacienda Victoria,0.7,U.S.A.,3.5,Unknown,Ecuador
+Arete,Costa Esmeraldas,0.7,U.S.A.,3.75,Unknown,Ecuador
+Arete,Lachua,0.7,U.S.A.,3.75,Unknown,Guatemala
+Arete,Rugoso,0.7,U.S.A.,3.75,Unknown,Nicaragua
+Arete,La Masica- FHIA,0.7,U.S.A.,3,Unknown,Honduras
+Arete,Coto Brus- Terciopelo,0.7,U.S.A.,2.25,Unknown,Costa Rica
+Arete,Phantom,0.7,U.S.A.,3,Forastero (Nacional),Peru
+Arete,Elvesia,0.7,U.S.A.,3,Unknown,Dominican Republic
+Arete,Matasawalevu,0.7,U.S.A.,3,Unknown,Fiji
+Arete,Lam Dong,0.73,U.S.A.,3,Unknown,Vietnam
+Askinosie,Mababa,0.68,U.S.A.,3,Trinitario,Tanzania
+Batch,Dominican Republic- Batch 3,0.65,U.S.A.,3,Unknown,Domincan Republic
+Batch,Brazil,0.7,U.S.A.,2.75,Unknown,Brazil
+Batch,Ecuador,0.65,U.S.A.,3.25,Unknown,Ecuador
+Beehive,Brazil- Batch 20316,0.8,U.S.A.,3.5,Unknown,Brazil
+Beehive,Dominican Republic- Batch 31616,0.7,U.S.A.,3.5,Unknown,Domincan Republic
+Beehive,Ecuador- Batch 31516,0.7,U.S.A.,2.5,Unknown,Ecuador
+Beehive,Ecuador,0.9,U.S.A.,2.5,Unknown,Ecuador
+Bellflower,Kakao Kamili- Kilombero Valley,0.7,U.S.A.,2.75,Criollo- Trinitario,Tanzania
+Bellflower,Alto Beni- Palos Blanco,0.7,U.S.A.,2.75,Unknown,Bolivia
+Bellflower,Oko Caribe- Duarte P.,0.7,U.S.A.,3.25,Unknown,Domincan Republic
+Belyzium,Belize south- low fermentation,0.83,Germany,2.5,Trinitario,Belize
+Belyzium,Belize south,0.78,Germany,3,Trinitario,Belize
+Belyzium,Belize south,0.83,Germany,2.75,Trinitario,Belize
+Blue Bandana,Akesson's E.- Sambirano V.,0.82,U.S.A.,3,Trinitario,Madagascar
+Blue Bandana,Lachua,0.75,U.S.A.,2.75,Unknown,Guatemala
+Blue Bandana,Kokoa Kamili,0.75,U.S.A.,3,Unknown,Tanzania
+Blue Bandana,Zorzal Reserva,0.75,U.S.A.,3.25,Unknown,Dominican Republic
+Bonnat,Selva Maya,0.75,France,3.25,Unknown,Mexico
+Brasstown aka It's Chocolate,Guasare- Zulia Prov.,0.7,U.S.A.,3.25,Criollo,Venezuela
+Brasstown aka It's Chocolate,O'payo- Waslala,0.7,U.S.A.,3.25,Unknown,Nicaragua
+Cacao Barry,Grand 'Anse,0.65,France,3.25,Trinitario- Criollo,Haiti
+Cacao Hunters,Macondo,0.71,Colombia,3.25,Unknown,Colombia
+Cacao Hunters,Perla Negra,0.74,Colombia,3.25,Unknown,Colombia
+Cacao Market,Jutiapa- lot 050916D,0.7,U.S.A.,3.5,Trinitario,Honduras
+Cacao Sampaka,Mahali- Kasai,0.7,Spain,3.5,Criollo,Congo
+Cao,Porcelana,0.75,U.S.A.,3.5,Criollo,Venezuela
+Cao,Tanzania,0.73,U.S.A.,3.5,Unknown,Tanzania
+Cao,Porcelana- Batch 5163,0.7,U.S.A.,3.75,Criollo,Venezuela
+Cao,Bolivia,0.75,U.S.A.,3.75,Unknown,Bolivia
+Cao,Brazil,0.7,U.S.A.,3.75,Trinitario,Brazil
+Carlotta Chocolat,Arauca,0.65,Colombia,2.5,Trinitario,Colombia
+Carlotta Chocolat,Tumaco,0.65,Colombia,2.75,Trinitario,Colombia
+Carlotta Chocolat,Cordoba,0.65,Colombia,2.75,Trinitario,Colombia
+Carlotta Chocolat,Huila,0.65,Colombia,3,Trinitario,Colombia
+Carlotta Chocolat,Cesar,0.65,Colombia,2.75,CCN51,Colombia
+Castronovo,Maya Mtn- Batch 454- Heirloom,0.72,U.S.A.,3,Trinitario,Belize
+Charm School,Maya Mtn,0.7,U.S.A.,3.25,Unknown,Belize
+Chocolate Alchemist-Philly,Tumbes- Zarumilla,0.9,U.S.A.,3.25,Unknown,Peru
+Chocolate Alchemist-Philly,Philly Blend- 5 plantations,0.8,U.S.A.,3.25,Unknown,Unknown
+Chocolate Con Amor,Wild Bolivian,0.7,U.S.A.,2.75,Unknown,Bolivia
+Chocolate Con Amor,Uganda,0.7,U.S.A.,3,Unknown,Uganda
+Chocolate Con Amor,Dominican Republic,0.6,U.S.A.,3,Unknown,Dominican Republic
+Chocolate Con Amor,Dominican Republic,0.75,U.S.A.,3.25,Unknown,Dominican Republic
+Chocolate Con Amor,Ocumare,0.8,U.S.A.,2,Criollo (Ocumare),Venezuela
+Chocolate Con Amor,Ecuador,0.7,U.S.A.,2.5,Unknown,Ecuador
+Chocolate Con Amor,Nicaragua,0.8,U.S.A.,2.5,Unknown,Nicaragua
+Choocsol,Chiapas- Lacandon Jungle- Oaxacom Mtn,0.75,Canada,2.5,Unknown,Mexico
+Confluence,Tien Giang- 2015- batch 10-2-16,0.78,U.S.A.,2.75,Trinitario,Vietnam
+Creo,heirloom- Arriba Nacional,0.85,U.S.A.,2.75,Forastero (Nacional),Ecuador
+Creo,heirloom- Arriba Nacional,0.73,U.S.A.,3,Forastero (Nacional),Ecuador
+Dandelion,Zorzal Reserva- 2015 H.- Kerchner,0.7,U.S.A.,3.25,Unknown,Unknown
+DAR,Venezuela- batch 122,0.72,U.S.A.,2,Unknown,Venezuela
+DAR,Vietnam,0.72,U.S.A.,2.75,Trinitario,Vietnam
+DAR,DUO- batch 002,0.7,U.S.A.,2.75,Unknown,Ecuador- Costa Rica
+Dark Forest,Bolivia,0.75,U.S.A.,2.75,Unknown,Bolivia
+De Villiers,Bundibugyo District,0.7,South Africa,3,Forastero,Uganda
+De Villiers,Sambirano Valley- batch 2477,0.7,South Africa,3,Unknown,Madagascar
+Desbarres,Kilombero- batch 41,0.72,Canada,3,Unknown,Tanzania
+Dick Taylor,Tien Giang,0.78,U.S.A.,3,Trinitario,Vietnam
+Dormouse,Non Pariel Estate,0.75,U.K.,3.25,Trinitario,Grenada
+Eau de Rose,Tumaco,0.7,Canada,3.25,Unknown,Colombia
+Eau de Rose,Arauca,0.7,Canada,3.25,Unknown,Colombia
+Edelmond,Porcelana,0.68,Germany,3.25,Criollo,Venezuela
+ENNA,Wampusirpi- batch 007,0.75,U.S.A.,3.5,Unknown,Honduras
+Feitoria Cacao,Blue Mountain,0.76,Portugal,3.5,Unknown,Jamaica
+Feitoria Cacao,Cuyagua,0.76,Portugal,2.75,Unknown,Venezuela
+Feitoria Cacao,Maya Mountain,0.76,Portugal,3.25,Trinitario,Belize
+Forteza (Cortes),Dominican Republic,0.7,Puerto Rico,3.25,Unknown,Domincan Republic
+Forteza (Cortes),Puerto Rico,0.8,Puerto Rico,3.5,Unknown,Domincan Republic
+Fossa,Akesson's E.- Sambirano V.,0.7,Singapore,3.75,Unknown,Madagascar
+Fossa,Camino Verde P.- Balao- Guayas,0.75,Singapore,3.75,Unknown,Ecuador
+Fossa,Kokoa Kamili Coop- Kilombero,0.67,Singapore,3.75,Trinitario,Tanzania
+Friis Holm,Rugoso- Bad Fermentation,0.7,Denmark,3.75,Unknown,Nicaragua
+Fruition,Wild Bolivian- Batch 2,0.74,U.S.A.,3.75,Beniano,Bolivia
+Fruition,Coto Brus- Heirloom- Batch 1,0.74,U.S.A.,3,Amazon mix,Costa Rica
+Glennmade,Toledo District- 2015 Harvest,0.7,U.S.A.,2.5,Unknown,Belize
+Goodnow Farms,Almendra Blanca- batch 1004,0.77,U.S.A.,3,Unknown,Mexico
+Goodnow Farms,El Carmen- batch 1003,0.77,U.S.A.,3,Unknown,Nicaragua
+Goodnow Farms,Asochivite- batch 1005,0.77,U.S.A.,3.25,Unknown,Guatemala
+Green Bean to Bar,Madagascar,0.7,Japan,3.5,Unknown,Madagascar
+Harper Macaw,Vale do Juliana- w/ nibs,0.85,U.S.A.,3.25,Unknown,Brazil
+Heilemann,Peru,0.64,Germany,3.75,Unknown,Peru
+Heirloom Cacao Preservation (Brasstown),Maya Mtn- Moho R.- Toledo D.- 2015,0.7,U.S.A.,3.25,Amazon,Belize
+Heirloom Cacao Preservation (Fruition),Cota Brus- Terciopelo- 2015,0.74,U.S.A.,4,Amazon mix,Costa Rica
+Heirloom Cacao Preservation (Manoa),Maunawili- O'ahu- Agri Research C.- 2015,0.72,U.S.A.,2.75,Unknown,Hawaii
+Heirloom Cacao Preservation (Millcreek),Los Rios- Hacienda Limon- Orecao- 2015,0.7,U.S.A.,3,EET,Ecuador
+Heirloom Cacao Preservation (Mindo),Pinchincha- Mindo- Coop Nueva Esper.- 2015,0.77,U.S.A.,3,EET,Ecuador
+Heirloom Cacao Preservation (Zokoko),Alto Beni- Upper Rio Beni- 2015,0.68,U.S.A.,3,Amazon- ICS,Bolivia
+Heirloom Cacao Preservation (Zokoko),Wild Beni- Lower Rio Beni- Tranquilidad- 2015,0.72,U.S.A.,3.5,Beniano,Bolivia
+Hogarth,Akesson's Estate,0.7,New Zealand,2.5,Trinitario,Madagascar
+Hogarth,Carenero Superior,0.72,New Zealand,2.75,Trinitario,Venezuela
+Hogarth,Conacado,0.75,New Zealand,2.75,Trinitario,Domincan Republic
+Hogarth,Gran Blanco,0.66,New Zealand,3.25,Criollo,Peru
+Holy Cacao,Maranon,0.7,Israel,3.5,Unknown,Peru
+Indah,India (south),0.61,India,3.5,Unknown,India
+K'ul,Kafupbo- Petit Bourg- De Borgnes,0.7,U.S.A.,3,Unknown,Haiti
+K'ul,Maranon- Fortunato No. 4,0.7,U.S.A.,3.75,Forastero (Nacional),Peru
+K'ul,Los Rios- Hacienda Limon- Heirloom,0.7,U.S.A.,2.75,Unknown,Ecuador
+K'ul,Bahia- Fazenda Camboa,0.7,U.S.A.,3,Forastero,Brazil
+La Chocolaterie Nanairo,Lumas- 2015 Harvest- Batch 6- brown sugar,0.7,Japan,3,Trinitario- Criollo,Peru
+La Chocolaterie Nanairo,Lumas- 2015 Harvest- Batch 7,0.7,Japan,3.25,Trinitario- Criollo,Peru
+La Chocolaterie Nanairo,Tumbes- 2013 Harvest- Batch 8,0.7,Japan,3.25,Criollo,Peru
+La Chocolaterie Nanairo,Belize- 2014 Harvest- Batch 9,0.7,Japan,1.5,Trinitario- Criollo,Belize
+L'Amourette,Rugoso,0.8,U.S.A.,2.5,Trinitario,Nicaragua
+Letterpress,Liberia,0.7,U.S.A.,2.5,Unknown,Liberia
+Lilla,Madagascar,0.7,Finland,2.75,Trinitario,Madagascar
+Malmo,Chuao,0.7,Sweden,3,Unknown,Venezuela
+Manufaktura Czekolady,Johe,0.7,Poland,3,Unknown,Nicaragua
+Manufaktura Czekolady,Peru,0.7,Poland,3,Unknown,Peru
+Map Chocolate,Ben Tre- Surprise Valley,0.75,U.S.A.,3.25,Trinitario,Vietnam
+Marana,Piura,0.7,Peru,3.25,Unknown,Peru
+Marana,Cusco,0.7,Peru,3.5,Unknown,Peru
+Marana,San Martin,0.7,Peru,3.5,Unknown,Peru
+Marigold's Finest,Cacao Nib Crunch,0.75,Canada,3.5,Unknown,Unknown
+Martin Mayer,Alto Beni,0.76,Austria,3.5,Unknown,Bolivia
+Martin Mayer,Pisa,0.82,Austria,3.75,Unknown,Haiti
+Martin Mayer,Tumaco,0.74,Austria,3.75,Unknown,Colombia
+Mayacama,Hispaniola,0.72,U.S.A.,3.75,Unknown,Domincan Republic
+Minimal,Acul-du-Nord- 2015,0.7,Japan,4,Criollo- Trinitario,Haiti
+Mission,Fazenda Camboa- Bahia,0.75,Brazil,4,Unknown,Brazil
+Monarque,Oko Caribe,0.72,Canada,4,Unknown,Dominican Republic
+Mutari,Kokoa Kamili- batch 1 SRB,0.68,U.S.A.,4,Unknown,Tanzania
+Mutari,Oko Caribe- batch 1 SRB,0.71,U.S.A.,4,Unknown,Domincan Republic
+Mutari,Ambanja- batch 1 SRB,0.68,U.S.A.,2.5,Unknown,Madagascar
+Mutari,Tien Giang- batch 1 SRB,0.8,U.S.A.,2.75,Trinitario,Vietnam
+Nugali,Fazenda Leolinda,0.7,Brazil,2.75,Trinitario (Scavina),Brazil
+Ocho,Sang Yum Coop,1,New Zealand,2.75,Unknown,Samoa
+Ocho,Sang Yum Coop,0.7,New Zealand,2.75,Unknown,Samoa
+Omnom,Kakao Kamili- Kilombero Valley,0.7,Iceland,3,Trinitario,Tanzania
+Pacari,Sierra Nevada- Tutu Iku,0.7,Ecuador,3,Unknown,Colombia
+Palette de Bine,Lachua,0.7,Canada,3.25,Unknown,Guatemala
+Palette de Bine,Maya Mtn,0.72,Canada,3.25,Trinitario,Belize
+Pangea,Matasawalevu,0.76,Spain,3.25,Unknown,Fiji
+Parliament,Kilombero Valley,0.7,U.S.A.,3.25,Unknown,Tanzania
+Pinellas,Wampusirpi Region,0.8,U.S.A.,3.25,Unknown,Honduras
+Potomac,Oko Caribe- Duarte Province- 2016 H.,0.7,U.S.A.,3.5,Unknown,Domincan Republic
+Pump Street Bakery,Chocoan Rainforest- Teroro Escondido- ESM,0.77,U.K.,3.5,Unknown,Ecuador
+Quetzalli (Wolter),Mexico- Lot 28022016,0.7,Mexico,3.75,Criollo,Mexico
+Quetzalli (Wolter),Uranga- Lot 22032016,0.74,Mexico,3.5,Trinitario,Mexico
+Raaka,Amazon Basin Blend,0.7,U.S.A.,3,Unknown,Peru(SMartin-Pangoa-nacional)
+Raoul Boulanger,Piura,0.75,France,2,Criollo,Peru
+Ritual,Camino Verde P.- Balao- 2015 harvest- batch8,0.75,U.S.A.,2,Unknown,Ecuador
+Roasting Masters,La Dorado- light roast,0.7,South Korea,3,Unknown,Costa Rica
+Roasting Masters,Tapanti- light roast,0.7,South Korea,3,Unknown,Costa Rica
+Roasting Masters,Maleku,0.7,South Korea,2.75,Unknown,Costa Rica
+Rogue,La Masica- Batch 1- FHIA Research Center,0.75,U.S.A.,2.75,Unknown,Honduras
+Shattel,Tingo Maria,0.7,Peru,3,Unknown,Peru
+Sirene,Wild Bolivia,0.73,Canada,3,Unknown,Bolivia
+Sirene,Kokoa Kamili Coop,0.73,Canada,3.25,Unknown,Tanzania
+Sirene,Esmeraldas- Salazar Farm,0.73,Canada,2.5,Unknown,Ecuador
+Sol Cacao,Ecuador- Batch 1,0.7,U.S.A.,2.5,Unknown,Ecuador
+Solkiki,Maranon- Fortunato No. 4,0.68,U.K.,3,Forastero (Nacional),Peru
+Solkiki,Castillo- Hispaniola- unroasted,0.85,U.K.,3.5,Unknown,Domincan Republic
+Solomons Gold,Solomon Island,0.7,New Zealand,3.5,Unknown,Solomon Islands
+Solomons Gold,Solomon Island w/ nibs,0.75,New Zealand,2.5,Unknown,Solomon Islands
+Soma,Oko Caribe- Duarte P.- Collab w Chocosol,0.62,Canada,2.5,Unknown,Domincan Republic
+Soma,Sambirano Valley- Black Science- B-60307.0,0.7,Canada,2.75,Trinitario,Madagascar
+Soma,Bahia Black- batch bra50722.1,0.7,Canada,2.75,Forastero (Parazinho),Brazil
+Soma,Abstract S. w/ Jamaica nibs-batch abs60323.0,0.75,Canada,3.25,Unknown,Ven.-Ecu.-Peru-Nic.
+Soma,Chuno- San Jose de Bocay- Pantasma R.-B.S.,0.7,Canada,2.25,Trinitario,Nicaragua
+Soma,Tien Giang- Black S.- batch VIT60420.0,0.7,Canada,3,Trinitario,Vietnam
+Soma,Camino Verde- Black S.- batch cvu6030.0,0.7,Canada,3,Unknown,Ecuador
+Spencer,Dominican Republic- lot D82R,0.7,Australia,3,Unknown,Domincan Republic
+Spencer,Ecuador- lot E432314L,0.7,Australia,3.25,Unknown,Ecuador
+Spencer,Madagascar- lot M0403R,0.7,Australia,3.5,Unknown,Madagascar
+Summerbird,Peru,0.61,Denmark,3.75,Criollo- Trinitario,Peru
+Summerbird,Peru,0.71,Denmark,4,Criollo- Trinitario,Peru
+Suruca Chocolate,Venezuela,0.7,Venezuela,3,Unknown,Venezuela
+Suruca Chocolate,Venezuela,0.6,Venezuela,3.5,Unknown,Venezuela
+Tan Ban Skrati,Paramaribo- batch 20160043-01,0.7,Suriname,3.75,Trinitario,Suriname
+TCHO,West Africa,0.62,U.S.A.,2.5,Forastero,West Africa
+Timo A. Meyer,Belize- med roast,0.72,Germany,3,Trinitario- TCGA,Belize
+Two Ravens,Peru,0.6,U.S.A.,3,Criollo,Peru
+Upchurch,Madagascar- Sassy Bar,0.72,U.S.A.,3.25,Trinitario,Madagascar
+Upchurch,Tanzania- Party Bar,0.72,U.S.A.,3.25,Unknown,Tanzania
+Vivra,Peru,0.7,U.S.A.,3.5,Unknown,Peru
+Vivra,Ocumare,0.7,U.S.A.,3.5,Unknown,Venezuela
+Vivra,Dominican Republic,0.7,U.S.A.,4,Unknown,Domincan Republic
+Wellington Chocolate Factory,Conacado,0.7,New Zealand,3,Trinitario,Dominican Republic
+Wellington Chocolate Factory,Piura Blanco- Norandino,0.7,New Zealand,2.5,Unknown,Peru
+Willie's Cacao,Los Llanos,0.7,U.K.,2.75,Unknown,Colombia
+Wm,Guasare- Zulia Prov.- 2015- batch 124,0.74,U.S.A.,3,Criollo,Venezuela
+Wm,Wild Beniano- 2016- batch 128- Heirloom,0.76,U.S.A.,3,Unknown,Bolivia
+Wm,Ghana- 2013- batch 129,0.75,U.S.A.,3.25,Unknown,Ghana
+Zart Pralinen,Millot P.- Ambanja,0.7,Austria,3.25,Criollo- Trinitario,Madagascar
+Zart Pralinen,UNOCACE,0.7,Austria,3.25,Nacional (Arriba),Ecuador
+Zart Pralinen,San Juan Estate,0.85,Austria,3.5,Trinitario,Trinidad
+Zart Pralinen,Kakao Kamili- Kilombero Valley,0.85,Austria,2.75,Criollo- Trinitario,Tanzania
+Zart Pralinen,Kakao Kamili- Kilombero Valley,0.7,Austria,2.75,Criollo- Trinitario,Tanzania
+Zart Pralinen,San Juan Estate- Gran Couva,0.78,Austria,3,Trinitario,Trinidad
+Zokoko,Guadalcanal,0.78,Australia,3.5,Unknown,Solomon Islands
+Zokoko,Goddess Blend,0.65,Australia,3.5,Unknown,Unknown
+Alexandre,Winak Coop- Napo,0.7,Netherlands,3.5,Forastero (Nacional),Ecuador
+Alexandre,La Dalia- Matagalpa,0.7,Netherlands,3.25,Criollo- Trinitario,Nicaragua
+Alexandre,Tien Giang,0.7,Netherlands,3.5,Trinitario,Vietnam
+Alexandre,Makwale Village- Kyela,0.7,Netherlands,3.5,Forastero,Tanzania
+Beau Cacao,Asajaya E- NW Borneo- b. #132/4500,0.73,U.K.,3.75,Unknown,Malaysia
+Beau Cacao,Serian E.- NW Borneo- b. #134/3800,0.72,U.K.,3.75,Unknown,Malaysia
+Dalloway,Dominican Republic- batch 7,0.72,U.S.A.,2.75,Unknown,Dominican Republic
+Dick Taylor,Lanquin Estate,0.7,U.S.A.,3,Unknown,Guatemala
+French Broad,Norandino- batch 161208,0.7,U.S.A.,3,Unknown,Peru
+Letterpress,La Masica- Batch 7- FHIA,0.7,U.S.A.,3,Unknown,Honduras
+Letterpress,Maya Mtn- Batch 18- Heirloom,0.7,U.S.A.,3,Unknown,Belize
+Madre,Guadalcanal,0.73,U.S.A.,3,Unknown,Solomon Islands
+Soul,Dominican Republic,0.7,Canada,3.25,Unknown,Dominican Republic
+Soul,Madagascar,0.7,Canada,3.25,Unknown,Madagascar
+Soul,Venezuela,0.75,Canada,3.25,Unknown,Venezuela
+Soul,Ecuador,0.75,Canada,3.5,Unknown,Ecuador
+Soul,Papua New Guinea,0.77,Canada,3.5,Unknown,Papua New Guinea
+Soul,Tanzania,0.8,Canada,3.5,Unknown,Tanzania
+Spencer,Dominican Republic,0.7,U.S.A.,3.5,Unknown,Dominican Republic
+Spencer,Ecuador,0.7,U.S.A.,3.5,Unknown,Ecuador
+Spencer,Peru,0.7,U.S.A.,3.75,Unknown,Peru
+Xocolla,Sambirano- batch 170102,0.7,U.S.A.,3.75,Unknown,Madagascar
+Xocolla,Hispaniola- batch 170104,0.7,U.S.A.,3.75,Unknown,Dominican Republic

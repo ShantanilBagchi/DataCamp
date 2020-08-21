@@ -1,0 +1,831 @@
+﻿OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry
+10248,VINET,5,4-Jul-96,1-Aug-96,16-Jul-96,3,32.38,Vins et alcools Chevalier,59 rue de lAbbaye,Reims,,51100,France
+10249,TOMSP,6,5-Jul-96,16-Aug-96,10-Jul-96,1,11.61,Toms Spezialiteten,Luisenstr. 48,Munster,,44087,Germany
+10250,HANAR,4,8-Jul-96,5-Aug-96,12-Jul-96,2,65.83,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10251,VICTE,3,8-Jul-96,5-Aug-96,15-Jul-96,1,41.34,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10252,SUPRD,4,9-Jul-96,6-Aug-96,11-Jul-96,2,51.3,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10253,HANAR,3,10-Jul-96,24-Jul-96,16-Jul-96,2,58.17,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10254,CHOPS,5,11-Jul-96,8-Aug-96,23-Jul-96,2,22.98,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10255,RICSU,9,12-Jul-96,9-Aug-96,15-Jul-96,3,148.33,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10256,WELLI,3,15-Jul-96,12-Aug-96,17-Jul-96,2,13.97,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10257,HILAA,4,16-Jul-96,13-Aug-96,22-Jul-96,3,81.91,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10258,ERNSH,1,17-Jul-96,14-Aug-96,23-Jul-96,1,140.51,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10259,CENTC,4,18-Jul-96,15-Aug-96,25-Jul-96,3,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,Mexico D.F.,,5022,Mexico
+10260,OTTIK,4,19-Jul-96,16-Aug-96,29-Jul-96,1,55.09,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10261,QUEDE,4,19-Jul-96,16-Aug-96,30-Jul-96,2,3.05,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10262,RATTC,8,22-Jul-96,19-Aug-96,25-Jul-96,3,48.29,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10263,ERNSH,9,23-Jul-96,20-Aug-96,31-Jul-96,3,146.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10264,FOLKO,6,24-Jul-96,21-Aug-96,23-Aug-96,3,3.67,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10265,BLONP,2,25-Jul-96,22-Aug-96,12-Aug-96,1,55.28,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10266,WARTH,3,26-Jul-96,6-Sep-96,31-Jul-96,3,25.73,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10267,FRANK,4,29-Jul-96,26-Aug-96,6-Aug-96,1,208.58,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10268,GROSR,8,30-Jul-96,27-Aug-96,2-Aug-96,3,66.29,GROSELLA-Restaurante,5th Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela
+10269,WHITC,5,31-Jul-96,14-Aug-96,9-Aug-96,1,4.56,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10270,WARTH,1,1-Aug-96,29-Aug-96,2-Aug-96,1,136.54,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10271,SPLIR,6,1-Aug-96,29-Aug-96,30-Aug-96,2,4.54,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10272,RATTC,6,2-Aug-96,30-Aug-96,6-Aug-96,2,98.03,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10273,QUICK,3,5-Aug-96,2-Sep-96,12-Aug-96,3,76.07,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10274,VINET,6,6-Aug-96,3-Sep-96,16-Aug-96,1,6.01,Vins et alcools Chevalier,59 rue de l Abbaye,Reims,,51100,France
+10275,MAGAA,1,7-Aug-96,4-Sep-96,9-Aug-96,1,26.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10276,TORTU,8,8-Aug-96,22-Aug-96,14-Aug-96,3,13.84,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10277,MORGK,2,9-Aug-96,6-Sep-96,13-Aug-96,3,125.77,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany
+10278,BERGS,8,12-Aug-96,9-Sep-96,16-Aug-96,2,92.69,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10279,LEHMS,8,13-Aug-96,10-Sep-96,16-Aug-96,2,25.83,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10280,BERGS,2,14-Aug-96,11-Sep-96,12-Sep-96,1,8.98,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10281,ROMEY,4,14-Aug-96,28-Aug-96,21-Aug-96,1,2.94,Romero y tomillo,Gran Via 1,Madrid,,28001,Spain
+10282,ROMEY,4,15-Aug-96,12-Sep-96,21-Aug-96,1,12.69,Romero y tomillo,Gran Via 1,Madrid,,28001,Spain
+10283,LILAS,3,16-Aug-96,13-Sep-96,23-Aug-96,3,84.81,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10284,LEHMS,4,19-Aug-96,16-Sep-96,27-Aug-96,1,76.56,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10285,QUICK,1,20-Aug-96,17-Sep-96,26-Aug-96,2,76.83,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10286,QUICK,8,21-Aug-96,18-Sep-96,30-Aug-96,3,229.24,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10287,RICAR,8,22-Aug-96,19-Sep-96,28-Aug-96,3,12.76,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10288,REGGC,4,23-Aug-96,20-Sep-96,3-Sep-96,1,7.45,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10289,BSBEV,7,26-Aug-96,23-Sep-96,28-Aug-96,3,22.77,Bs Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10290,COMMI,8,27-Aug-96,24-Sep-96,3-Sep-96,1,79.7,Comercio Mineiro,Av. dos Lusiadas 23,Sao Paulo,SP,05432-043,Brazil
+10291,QUEDE,6,27-Aug-96,24-Sep-96,4-Sep-96,2,6.4,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10292,TRADH,1,28-Aug-96,25-Sep-96,2-Sep-96,2,1.35,Tradicao Hipermercados,Av. Ines de Castro 414,Sao Paulo,SP,05634-030,Brazil
+10293,TORTU,1,29-Aug-96,26-Sep-96,11-Sep-96,3,21.18,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10294,RATTC,4,30-Aug-96,27-Sep-96,5-Sep-96,2,147.26,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10295,VINET,2,2-Sep-96,30-Sep-96,10-Sep-96,2,1.15,Vins et alcools Chevalier,59 rue de l Abbaye,Reims,,51100,France
+10296,LILAS,6,3-Sep-96,1-Oct-96,11-Sep-96,1,0.12,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10297,BLONP,5,4-Sep-96,16-Oct-96,10-Sep-96,2,5.74,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10298,HUNGO,6,5-Sep-96,3-Oct-96,11-Sep-96,2,168.22,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10299,RICAR,4,6-Sep-96,4-Oct-96,13-Sep-96,2,29.76,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10300,MAGAA,2,9-Sep-96,7-Oct-96,18-Sep-96,2,17.68,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10301,WANDK,8,9-Sep-96,7-Oct-96,17-Sep-96,2,45.08,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10302,SUPRD,4,10-Sep-96,8-Oct-96,9-Oct-96,2,6.27,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10303,GODOS,7,11-Sep-96,9-Oct-96,18-Sep-96,2,107.83,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10304,TORTU,1,12-Sep-96,10-Oct-96,17-Sep-96,2,63.79,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10305,OLDWO,8,13-Sep-96,11-Oct-96,9-Oct-96,3,257.62,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10306,ROMEY,1,16-Sep-96,14-Oct-96,23-Sep-96,3,7.56,Romero y tomillo,Gran Via 1,Madrid,,28001,Spain
+10307,LONEP,2,17-Sep-96,15-Oct-96,25-Sep-96,2,0.56,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10308,ANATR,7,18-Sep-96,16-Oct-96,24-Sep-96,3,1.61,Ana Trujillo Emparedados y helados,Avda. de la Constitucion 2222,Mexico D.F.,,5021,Mexico
+10309,HUNGO,3,19-Sep-96,17-Oct-96,23-Oct-96,1,47.3,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10310,THEBI,8,20-Sep-96,18-Oct-96,27-Sep-96,2,17.52,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10311,DUMON,1,20-Sep-96,4-Oct-96,26-Sep-96,3,24.69,Du monde entier,67 rue des Cinquante Otages,Nantes,,44000,France
+10312,WANDK,2,23-Sep-96,21-Oct-96,3-Oct-96,2,40.26,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10313,QUICK,2,24-Sep-96,22-Oct-96,4-Oct-96,2,1.96,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10314,RATTC,1,25-Sep-96,23-Oct-96,4-Oct-96,2,74.16,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10315,ISLAT,4,26-Sep-96,24-Oct-96,3-Oct-96,2,41.76,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10316,RATTC,1,27-Sep-96,25-Oct-96,8-Oct-96,3,150.15,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10317,LONEP,6,30-Sep-96,28-Oct-96,10-Oct-96,1,12.69,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10318,ISLAT,8,1-Oct-96,29-Oct-96,4-Oct-96,2,4.73,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10319,TORTU,7,2-Oct-96,30-Oct-96,11-Oct-96,3,64.5,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10320,WARTH,5,3-Oct-96,17-Oct-96,18-Oct-96,3,34.57,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10321,ISLAT,3,3-Oct-96,31-Oct-96,11-Oct-96,2,3.43,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10322,PERIC,7,4-Oct-96,1-Nov-96,23-Oct-96,3,0.4,Pericles Comidas clesicas,Calle Dr. Jorge Cash 321,Mexico D.F.,,5033,Mexico
+10323,KOENE,4,7-Oct-96,4-Nov-96,14-Oct-96,1,4.88,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10324,SAVEA,9,8-Oct-96,5-Nov-96,10-Oct-96,1,214.27,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10325,KOENE,1,9-Oct-96,23-Oct-96,14-Oct-96,3,64.86,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10326,BOLID,4,10-Oct-96,7-Nov-96,14-Oct-96,2,77.92,Bolido Comidas preparadas,C Araquil 67,Madrid,,28023,Spain
+10327,FOLKO,2,11-Oct-96,8-Nov-96,14-Oct-96,1,63.36,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10328,FURIB,4,14-Oct-96,11-Nov-96,17-Oct-96,3,87.03,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10329,SPLIR,4,15-Oct-96,26-Nov-96,23-Oct-96,2,191.67,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10330,LILAS,3,16-Oct-96,13-Nov-96,28-Oct-96,1,12.75,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10331,BONAP,9,16-Oct-96,27-Nov-96,21-Oct-96,1,10.19,Bon app,12 rue des Bouchers,Marseille,,13008,France
+10332,MEREP,3,17-Oct-96,28-Nov-96,21-Oct-96,2,52.84,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10333,WARTH,5,18-Oct-96,15-Nov-96,25-Oct-96,3,0.59,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10334,VICTE,8,21-Oct-96,18-Nov-96,28-Oct-96,2,8.56,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10335,HUNGO,7,22-Oct-96,19-Nov-96,24-Oct-96,2,42.11,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10336,PRINI,7,23-Oct-96,20-Nov-96,25-Oct-96,2,15.51,Princesa Isabel Vinhos,Estrada da saude n. 58,Lisboa,,1756,Portugal
+10337,FRANK,4,24-Oct-96,21-Nov-96,29-Oct-96,3,108.26,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10338,OLDWO,4,25-Oct-96,22-Nov-96,29-Oct-96,3,84.21,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10339,MEREP,2,28-Oct-96,25-Nov-96,4-Nov-96,2,15.66,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10340,BONAP,1,29-Oct-96,26-Nov-96,8-Nov-96,3,166.31,Bon app,12 rue des Bouchers,Marseille,,13008,France
+10341,SIMOB,7,29-Oct-96,26-Nov-96,5-Nov-96,3,26.78,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+10342,FRANK,4,30-Oct-96,13-Nov-96,4-Nov-96,2,54.83,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10343,LEHMS,4,31-Oct-96,28-Nov-96,6-Nov-96,1,110.37,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10344,WHITC,4,1-Nov-96,29-Nov-96,5-Nov-96,2,23.29,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10345,QUICK,2,4-Nov-96,2-Dec-96,11-Nov-96,2,249.06,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10346,RATTC,3,5-Nov-96,17-Dec-96,8-Nov-96,3,142.08,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10347,FAMIA,4,6-Nov-96,4-Dec-96,8-Nov-96,3,3.1,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10348,WANDK,4,7-Nov-96,5-Dec-96,15-Nov-96,2,0.78,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10349,SPLIR,7,8-Nov-96,6-Dec-96,15-Nov-96,1,8.63,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10350,LAMAI,6,11-Nov-96,9-Dec-96,3-Dec-96,2,64.19,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10351,ERNSH,1,11-Nov-96,9-Dec-96,20-Nov-96,1,162.33,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10352,FURIB,3,12-Nov-96,26-Nov-96,18-Nov-96,3,1.3,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10353,PICCO,7,13-Nov-96,11-Dec-96,25-Nov-96,3,360.63,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10354,PERIC,8,14-Nov-96,12-Dec-96,20-Nov-96,3,53.8,Pericles Comidas clesicas,Calle Dr. Jorge Cash 321,Mexico D.F.,,5033,Mexico
+10355,AROUT,6,15-Nov-96,13-Dec-96,20-Nov-96,1,41.95,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10356,WANDK,6,18-Nov-96,16-Dec-96,27-Nov-96,2,36.71,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10357,LILAS,1,19-Nov-96,17-Dec-96,2-Dec-96,3,34.88,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10358,LAMAI,5,20-Nov-96,18-Dec-96,27-Nov-96,1,19.64,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10359,SEVES,5,21-Nov-96,19-Dec-96,26-Nov-96,3,288.43,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10360,BLONP,4,22-Nov-96,20-Dec-96,2-Dec-96,3,131.7,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10361,QUICK,1,22-Nov-96,20-Dec-96,3-Dec-96,2,183.17,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10362,BONAP,3,25-Nov-96,23-Dec-96,28-Nov-96,1,96.04,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10363,DRACD,4,26-Nov-96,24-Dec-96,4-Dec-96,3,30.54,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany
+10364,EASTC,1,26-Nov-96,7-Jan-97,4-Dec-96,1,71.97,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10365,ANTON,3,27-Nov-96,25-Dec-96,2-Dec-96,2,22,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10366,GALED,8,28-Nov-96,9-Jan-97,30-Dec-96,2,10.14,Galeria del gastronomo,Rambla de Cataluna 23,Barcelona,,8022,Spain
+10367,VAFFE,7,28-Nov-96,26-Dec-96,2-Dec-96,3,13.55,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10368,ERNSH,2,29-Nov-96,27-Dec-96,2-Dec-96,2,101.95,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10369,SPLIR,8,2-Dec-96,30-Dec-96,9-Dec-96,2,195.68,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10370,CHOPS,6,3-Dec-96,31-Dec-96,27-Dec-96,2,1.17,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10371,LAMAI,1,3-Dec-96,31-Dec-96,24-Dec-96,1,0.45,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10372,QUEEN,5,4-Dec-96,1-Jan-97,9-Dec-96,2,890.78,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10373,HUNGO,4,5-Dec-96,2-Jan-97,11-Dec-96,3,124.12,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10374,WOLZA,1,5-Dec-96,2-Jan-97,9-Dec-96,3,3.94,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+10375,HUNGC,3,6-Dec-96,3-Jan-97,9-Dec-96,2,20.12,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10376,MEREP,1,9-Dec-96,6-Jan-97,13-Dec-96,2,20.39,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10377,SEVES,1,9-Dec-96,6-Jan-97,13-Dec-96,3,22.21,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10378,FOLKO,5,10-Dec-96,7-Jan-97,19-Dec-96,3,5.44,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10379,QUEDE,2,11-Dec-96,8-Jan-97,13-Dec-96,1,45.03,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10380,HUNGO,8,12-Dec-96,9-Jan-97,16-Jan-97,3,35.03,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10381,LILAS,3,12-Dec-96,9-Jan-97,13-Dec-96,3,7.99,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10382,ERNSH,4,13-Dec-96,10-Jan-97,16-Dec-96,1,94.77,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10383,AROUT,8,16-Dec-96,13-Jan-97,18-Dec-96,3,34.24,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10384,BERGS,3,16-Dec-96,13-Jan-97,20-Dec-96,3,168.64,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10385,SPLIR,1,17-Dec-96,14-Jan-97,23-Dec-96,2,30.96,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10386,FAMIA,9,18-Dec-96,1-Jan-97,25-Dec-96,3,13.99,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10387,SANTG,1,18-Dec-96,15-Jan-97,20-Dec-96,2,93.63,Sante Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+10388,SEVES,2,19-Dec-96,16-Jan-97,20-Dec-96,1,34.86,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10389,BOTTM,4,20-Dec-96,17-Jan-97,24-Dec-96,2,47.42,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10390,ERNSH,6,23-Dec-96,20-Jan-97,26-Dec-96,1,126.38,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10391,DRACD,3,23-Dec-96,20-Jan-97,31-Dec-96,3,5.45,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany
+10392,PICCO,2,24-Dec-96,21-Jan-97,1-Jan-97,3,122.46,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10393,SAVEA,1,25-Dec-96,22-Jan-97,3-Jan-97,3,126.56,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10394,HUNGC,1,25-Dec-96,22-Jan-97,3-Jan-97,3,30.34,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10395,HILAA,6,26-Dec-96,23-Jan-97,3-Jan-97,1,184.41,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10396,FRANK,1,27-Dec-96,10-Jan-97,6-Jan-97,3,135.35,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10397,PRINI,5,27-Dec-96,24-Jan-97,2-Jan-97,1,60.26,Princesa Isabel Vinhos,Estrada da saude n. 58,Lisboa,,1756,Portugal
+10398,SAVEA,2,30-Dec-96,27-Jan-97,9-Jan-97,3,89.16,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10399,VAFFE,8,31-Dec-96,14-Jan-97,8-Jan-97,3,27.36,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10400,EASTC,1,1-Jan-97,29-Jan-97,16-Jan-97,3,83.93,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10401,RATTC,1,1-Jan-97,29-Jan-97,10-Jan-97,1,12.51,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10402,ERNSH,8,2-Jan-97,13-Feb-97,10-Jan-97,2,67.88,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10403,ERNSH,4,3-Jan-97,31-Jan-97,9-Jan-97,3,73.79,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10404,MAGAA,2,3-Jan-97,31-Jan-97,8-Jan-97,1,155.97,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10405,LINOD,1,6-Jan-97,3-Feb-97,22-Jan-97,1,34.82,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10406,QUEEN,7,7-Jan-97,18-Feb-97,13-Jan-97,1,108.04,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10407,OTTIK,2,7-Jan-97,4-Feb-97,30-Jan-97,2,91.48,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10408,FOLIG,8,8-Jan-97,5-Feb-97,14-Jan-97,1,11.26,Folies gourmandes,184 chaussee de Tournai,Lille,,59000,France
+10409,OCEAN,3,9-Jan-97,6-Feb-97,14-Jan-97,1,29.83,Oceano Atlentico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina
+10410,BOTTM,3,10-Jan-97,7-Feb-97,15-Jan-97,3,2.4,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10411,BOTTM,9,10-Jan-97,7-Feb-97,21-Jan-97,3,23.65,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10412,WARTH,8,13-Jan-97,10-Feb-97,15-Jan-97,2,3.77,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10413,LAMAI,3,14-Jan-97,11-Feb-97,16-Jan-97,2,95.66,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10414,FAMIA,2,14-Jan-97,11-Feb-97,17-Jan-97,3,21.48,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10415,HUNGC,3,15-Jan-97,12-Feb-97,24-Jan-97,1,0.2,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10416,WARTH,8,16-Jan-97,13-Feb-97,27-Jan-97,3,22.72,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10417,SIMOB,4,16-Jan-97,13-Feb-97,28-Jan-97,3,70.29,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+10418,QUICK,4,17-Jan-97,14-Feb-97,24-Jan-97,1,17.55,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10419,RICSU,4,20-Jan-97,17-Feb-97,30-Jan-97,2,137.35,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10420,WELLI,3,21-Jan-97,18-Feb-97,27-Jan-97,1,44.12,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10421,QUEDE,8,21-Jan-97,4-Mar-97,27-Jan-97,1,99.23,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10422,FRANS,2,22-Jan-97,19-Feb-97,31-Jan-97,1,3.02,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+10423,GOURL,6,23-Jan-97,6-Feb-97,24-Feb-97,3,24.5,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10424,MEREP,7,23-Jan-97,20-Feb-97,27-Jan-97,2,370.61,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10425,LAMAI,6,24-Jan-97,21-Feb-97,14-Feb-97,2,7.93,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10426,GALED,4,27-Jan-97,24-Feb-97,6-Feb-97,1,18.69,Galeria del gastronomo,Rambla de Cataluna 23,Barcelona,,8022,Spain
+10427,PICCO,4,27-Jan-97,24-Feb-97,3-Mar-97,2,31.29,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10428,REGGC,7,28-Jan-97,25-Feb-97,4-Feb-97,1,11.09,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10429,HUNGO,3,29-Jan-97,12-Mar-97,7-Feb-97,2,56.63,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10430,ERNSH,4,30-Jan-97,13-Feb-97,3-Feb-97,1,458.78,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10431,BOTTM,4,30-Jan-97,13-Feb-97,7-Feb-97,2,44.17,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10432,SPLIR,3,31-Jan-97,14-Feb-97,7-Feb-97,2,4.34,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10433,PRINI,3,3-Feb-97,3-Mar-97,4-Mar-97,3,73.83,Princesa Isabel Vinhos,Estrada da saude n. 58,Lisboa,,1756,Portugal
+10434,FOLKO,3,3-Feb-97,3-Mar-97,13-Feb-97,2,17.92,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10435,CONSH,8,4-Feb-97,18-Mar-97,7-Feb-97,2,9.21,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,,WX1 6LT,UK
+10436,BLONP,3,5-Feb-97,5-Mar-97,11-Feb-97,2,156.66,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10437,WARTH,8,5-Feb-97,5-Mar-97,12-Feb-97,1,19.97,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10438,TOMSP,3,6-Feb-97,6-Mar-97,14-Feb-97,2,8.24,Toms Spezialiteten,Luisenstr. 48,Munster,,44087,Germany
+10439,MEREP,6,7-Feb-97,7-Mar-97,10-Feb-97,3,4.07,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10440,SAVEA,4,10-Feb-97,10-Mar-97,28-Feb-97,2,86.53,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10441,OLDWO,3,10-Feb-97,24-Mar-97,14-Mar-97,2,73.02,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10442,ERNSH,3,11-Feb-97,11-Mar-97,18-Feb-97,2,47.94,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10443,REGGC,8,12-Feb-97,12-Mar-97,14-Feb-97,1,13.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10444,BERGS,3,12-Feb-97,12-Mar-97,21-Feb-97,3,3.5,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10445,BERGS,3,13-Feb-97,13-Mar-97,20-Feb-97,1,9.3,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10446,TOMSP,6,14-Feb-97,14-Mar-97,19-Feb-97,1,14.68,Toms Spezialiteten,Luisenstr. 48,Munster,,44087,Germany
+10447,RICAR,4,14-Feb-97,14-Mar-97,7-Mar-97,2,68.66,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10448,RANCH,4,17-Feb-97,17-Mar-97,24-Feb-97,2,38.82,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina
+10449,BLONP,3,18-Feb-97,18-Mar-97,27-Feb-97,2,53.3,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10450,VICTE,8,19-Feb-97,19-Mar-97,11-Mar-97,2,7.23,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10451,QUICK,4,19-Feb-97,5-Mar-97,12-Mar-97,3,189.09,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10452,SAVEA,8,20-Feb-97,20-Mar-97,26-Feb-97,1,140.26,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10453,AROUT,1,21-Feb-97,21-Mar-97,26-Feb-97,2,25.36,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10454,LAMAI,4,21-Feb-97,21-Mar-97,25-Feb-97,3,2.74,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10455,WARTH,8,24-Feb-97,7-Apr-97,3-Mar-97,2,180.45,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10456,KOENE,8,25-Feb-97,8-Apr-97,28-Feb-97,2,8.12,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10457,KOENE,2,25-Feb-97,25-Mar-97,3-Mar-97,1,11.57,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10458,SUPRD,7,26-Feb-97,26-Mar-97,4-Mar-97,3,147.06,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10459,VICTE,4,27-Feb-97,27-Mar-97,28-Feb-97,2,25.09,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10460,FOLKO,8,28-Feb-97,28-Mar-97,3-Mar-97,1,16.27,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10461,LILAS,1,28-Feb-97,28-Mar-97,5-Mar-97,3,148.61,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10462,CONSH,2,3-Mar-97,31-Mar-97,18-Mar-97,1,6.17,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,,WX1 6LT,UK
+10463,SUPRD,5,4-Mar-97,1-Apr-97,6-Mar-97,3,14.78,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10464,FURIB,4,4-Mar-97,1-Apr-97,14-Mar-97,2,89,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10465,VAFFE,1,5-Mar-97,2-Apr-97,14-Mar-97,3,145.04,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10466,COMMI,4,6-Mar-97,3-Apr-97,13-Mar-97,1,11.93,Comercio Mineiro,Av. dos Lusiadas 23,Sao Paulo,SP,05432-043,Brazil
+10467,MAGAA,8,6-Mar-97,3-Apr-97,11-Mar-97,2,4.93,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10468,KOENE,3,7-Mar-97,4-Apr-97,12-Mar-97,3,44.12,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10469,WHITC,1,10-Mar-97,7-Apr-97,14-Mar-97,1,60.18,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10470,BONAP,4,11-Mar-97,8-Apr-97,14-Mar-97,2,64.56,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10471,BSBEV,2,11-Mar-97,8-Apr-97,18-Mar-97,3,45.59,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10472,SEVES,8,12-Mar-97,9-Apr-97,19-Mar-97,1,4.2,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10473,ISLAT,1,13-Mar-97,27-Mar-97,21-Mar-97,3,16.37,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10474,PERIC,5,13-Mar-97,10-Apr-97,21-Mar-97,2,83.49,Pericles Comidas clesicas,Calle Dr. Jorge Cash 321,Mexico D.F.,,5033,Mexico
+10475,SUPRD,9,14-Mar-97,11-Apr-97,4-Apr-97,1,68.52,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10476,HILAA,8,17-Mar-97,14-Apr-97,24-Mar-97,3,4.41,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10477,PRINI,5,17-Mar-97,14-Apr-97,25-Mar-97,2,13.02,Princesa Isabel Vinhos,Estrada da saude n. 58,Lisboa,,1756,Portugal
+10478,VICTE,2,18-Mar-97,1-Apr-97,26-Mar-97,3,4.81,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10479,RATTC,3,19-Mar-97,16-Apr-97,21-Mar-97,3,708.95,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10480,FOLIG,6,20-Mar-97,17-Apr-97,24-Mar-97,2,1.35,Folies gourmandes,184 chaussee de Tournai,Lille,,59000,France
+10481,RICAR,8,20-Mar-97,17-Apr-97,25-Mar-97,2,64.33,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10482,LAZYK,1,21-Mar-97,18-Apr-97,10-Apr-97,3,7.48,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA
+10483,WHITC,7,24-Mar-97,21-Apr-97,25-Apr-97,2,15.28,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10484,BSBEV,3,24-Mar-97,21-Apr-97,1-Apr-97,3,6.88,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10485,LINOD,4,25-Mar-97,8-Apr-97,31-Mar-97,2,64.45,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10486,HILAA,1,26-Mar-97,23-Apr-97,2-Apr-97,2,30.53,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10487,QUEEN,2,26-Mar-97,23-Apr-97,28-Mar-97,2,71.07,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10488,FRANK,8,27-Mar-97,24-Apr-97,2-Apr-97,2,4.93,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10489,PICCO,6,28-Mar-97,25-Apr-97,9-Apr-97,2,5.29,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10490,HILAA,7,31-Mar-97,28-Apr-97,3-Apr-97,2,210.19,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10491,FURIB,8,31-Mar-97,28-Apr-97,8-Apr-97,3,16.96,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10492,BOTTM,3,1-Apr-97,29-Apr-97,11-Apr-97,1,62.89,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10493,LAMAI,4,2-Apr-97,30-Apr-97,10-Apr-97,3,10.64,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10494,COMMI,4,2-Apr-97,30-Apr-97,9-Apr-97,2,65.99,Comercio Mineiro,Av. dos Lusiadas 23,Sao Paulo,SP,05432-043,Brazil
+10495,LAUGB,3,3-Apr-97,1-May-97,11-Apr-97,3,4.65,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10496,TRADH,7,4-Apr-97,2-May-97,7-Apr-97,2,46.77,Tradicao Hipermercados,Av. Ines de Castro 414,Sao Paulo,SP,05634-030,Brazil
+10497,LEHMS,7,4-Apr-97,2-May-97,7-Apr-97,1,36.21,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10498,HILAA,8,7-Apr-97,5-May-97,11-Apr-97,2,29.75,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10499,LILAS,4,8-Apr-97,6-May-97,16-Apr-97,2,102.02,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10500,LAMAI,6,9-Apr-97,7-May-97,17-Apr-97,1,42.68,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10501,BLAUS,9,9-Apr-97,7-May-97,16-Apr-97,3,8.85,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10502,PERIC,2,10-Apr-97,8-May-97,29-Apr-97,1,69.32,Pericles Comidas clesicas,Calle Dr. Jorge Cash 321,Mexico D.F.,,5033,Mexico
+10503,HUNGO,6,11-Apr-97,9-May-97,16-Apr-97,2,16.74,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10504,WHITC,4,11-Apr-97,9-May-97,18-Apr-97,3,59.13,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10505,MEREP,3,14-Apr-97,12-May-97,21-Apr-97,3,7.13,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10506,KOENE,9,15-Apr-97,13-May-97,2-May-97,2,21.19,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10507,ANTON,7,15-Apr-97,13-May-97,22-Apr-97,1,47.45,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10508,OTTIK,1,16-Apr-97,14-May-97,13-May-97,2,4.99,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10509,BLAUS,4,17-Apr-97,15-May-97,29-Apr-97,1,0.15,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10510,SAVEA,6,18-Apr-97,16-May-97,28-Apr-97,3,367.63,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10511,BONAP,4,18-Apr-97,16-May-97,21-Apr-97,3,350.64,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10512,FAMIA,7,21-Apr-97,19-May-97,24-Apr-97,2,3.53,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10513,WANDK,7,22-Apr-97,3-Jun-97,28-Apr-97,1,105.65,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10514,ERNSH,3,22-Apr-97,20-May-97,16-May-97,2,789.95,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10515,QUICK,2,23-Apr-97,7-May-97,23-May-97,1,204.47,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10516,HUNGO,2,24-Apr-97,22-May-97,1-May-97,3,62.78,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10517,NORTS,3,24-Apr-97,22-May-97,29-Apr-97,3,32.07,NorthSouth,South House 300 Queensbridge,London,,SW7 1RZ,UK
+10518,TORTU,4,25-Apr-97,9-May-97,5-May-97,2,218.15,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10519,CHOPS,6,28-Apr-97,26-May-97,1-May-97,3,91.76,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10520,SANTG,7,29-Apr-97,27-May-97,1-May-97,1,13.37,Sante Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+10521,CACTU,8,29-Apr-97,27-May-97,2-May-97,2,17.22,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+10522,LEHMS,4,30-Apr-97,28-May-97,6-May-97,1,45.33,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10523,SEVES,7,1-May-97,29-May-97,30-May-97,2,77.63,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10524,BERGS,1,1-May-97,29-May-97,7-May-97,2,244.79,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10525,BONAP,1,2-May-97,30-May-97,23-May-97,2,11.06,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10526,WARTH,4,5-May-97,2-Jun-97,15-May-97,2,58.59,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10527,QUICK,7,5-May-97,2-Jun-97,7-May-97,1,41.9,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10528,GREAL,6,6-May-97,20-May-97,9-May-97,2,3.35,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10529,MAISD,5,7-May-97,4-Jun-97,9-May-97,2,66.69,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10530,PICCO,3,8-May-97,5-Jun-97,12-May-97,2,339.22,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10531,OCEAN,7,8-May-97,5-Jun-97,19-May-97,1,8.12,Oceano Atlentico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina
+10532,EASTC,7,9-May-97,6-Jun-97,12-May-97,3,74.46,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10533,FOLKO,8,12-May-97,9-Jun-97,22-May-97,1,188.04,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10534,LEHMS,8,12-May-97,9-Jun-97,14-May-97,2,27.94,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10535,ANTON,4,13-May-97,10-Jun-97,21-May-97,1,15.64,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10536,LEHMS,3,14-May-97,11-Jun-97,6-Jun-97,2,58.88,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10537,RICSU,1,14-May-97,28-May-97,19-May-97,1,78.85,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10538,BSBEV,9,15-May-97,12-Jun-97,16-May-97,3,4.87,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10539,BSBEV,6,16-May-97,13-Jun-97,23-May-97,3,12.36,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10540,QUICK,3,19-May-97,16-Jun-97,13-Jun-97,3,1007.64,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10541,HANAR,2,19-May-97,16-Jun-97,29-May-97,1,68.65,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10542,KOENE,1,20-May-97,17-Jun-97,26-May-97,3,10.95,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10543,LILAS,8,21-May-97,18-Jun-97,23-May-97,2,48.17,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10544,LONEP,4,21-May-97,18-Jun-97,30-May-97,1,24.91,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10545,LAZYK,8,22-May-97,19-Jun-97,26-Jun-97,2,11.92,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA
+10546,VICTE,1,23-May-97,20-Jun-97,27-May-97,3,194.72,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10547,SEVES,3,23-May-97,20-Jun-97,2-Jun-97,2,178.43,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10548,TOMSP,3,26-May-97,23-Jun-97,2-Jun-97,2,1.43,Toms Spezialiteten,Luisenstr. 48,Munster,,44087,Germany
+10549,QUICK,5,27-May-97,10-Jun-97,30-May-97,1,171.24,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10550,GODOS,7,28-May-97,25-Jun-97,6-Jun-97,3,4.32,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10551,FURIB,4,28-May-97,9-Jul-97,6-Jun-97,3,72.95,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10552,HILAA,2,29-May-97,26-Jun-97,5-Jun-97,1,83.22,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10553,WARTH,2,30-May-97,27-Jun-97,3-Jun-97,2,149.49,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10554,OTTIK,4,30-May-97,27-Jun-97,5-Jun-97,3,120.97,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10555,SAVEA,6,2-Jun-97,30-Jun-97,4-Jun-97,3,252.49,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10556,SIMOB,2,3-Jun-97,15-Jul-97,13-Jun-97,1,9.8,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+10557,LEHMS,9,3-Jun-97,17-Jun-97,6-Jun-97,2,96.72,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10558,AROUT,1,4-Jun-97,2-Jul-97,10-Jun-97,2,72.97,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10559,BLONP,6,5-Jun-97,3-Jul-97,13-Jun-97,1,8.05,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10560,FRANK,8,6-Jun-97,4-Jul-97,9-Jun-97,1,36.65,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10561,FOLKO,2,6-Jun-97,4-Jul-97,9-Jun-97,2,242.21,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10562,REGGC,1,9-Jun-97,7-Jul-97,12-Jun-97,1,22.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10563,RICAR,2,10-Jun-97,22-Jul-97,24-Jun-97,2,60.43,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10564,RATTC,4,10-Jun-97,8-Jul-97,16-Jun-97,3,13.75,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10565,MEREP,8,11-Jun-97,9-Jul-97,18-Jun-97,2,7.15,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10566,BLONP,9,12-Jun-97,10-Jul-97,18-Jun-97,1,88.4,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10567,HUNGO,1,12-Jun-97,10-Jul-97,17-Jun-97,1,33.97,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10568,GALED,3,13-Jun-97,11-Jul-97,9-Jul-97,3,6.54,Galeria del gastronomo,Rambla de Cataluna 23,Barcelona,,8022,Spain
+10569,RATTC,5,16-Jun-97,14-Jul-97,11-Jul-97,1,58.98,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10570,MEREP,3,17-Jun-97,15-Jul-97,19-Jun-97,3,188.99,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10571,ERNSH,8,17-Jun-97,29-Jul-97,4-Jul-97,3,26.06,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10572,BERGS,3,18-Jun-97,16-Jul-97,25-Jun-97,2,116.43,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10573,ANTON,7,19-Jun-97,17-Jul-97,20-Jun-97,3,84.84,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10574,TRAIH,4,19-Jun-97,17-Jul-97,30-Jun-97,2,37.6,Trail s Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10575,MORGK,5,20-Jun-97,4-Jul-97,30-Jun-97,1,127.34,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany
+10576,TORTU,3,23-Jun-97,7-Jul-97,30-Jun-97,3,18.56,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10577,TRAIH,9,23-Jun-97,4-Aug-97,30-Jun-97,2,25.41,Trail s Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10578,BSBEV,4,24-Jun-97,22-Jul-97,25-Jul-97,3,29.6,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10579,LETSS,1,25-Jun-97,23-Jul-97,4-Jul-97,2,13.73,Let s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10580,OTTIK,4,26-Jun-97,24-Jul-97,1-Jul-97,3,75.89,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10581,FAMIA,3,26-Jun-97,24-Jul-97,2-Jul-97,1,3.01,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10582,BLAUS,3,27-Jun-97,25-Jul-97,14-Jul-97,2,27.71,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10583,WARTH,2,30-Jun-97,28-Jul-97,4-Jul-97,2,7.28,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10584,BLONP,4,30-Jun-97,28-Jul-97,4-Jul-97,1,59.14,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10585,WELLI,7,1-Jul-97,29-Jul-97,10-Jul-97,1,13.41,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10586,REGGC,9,2-Jul-97,30-Jul-97,9-Jul-97,1,0.48,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10587,QUEDE,1,2-Jul-97,30-Jul-97,9-Jul-97,1,62.52,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10588,QUICK,2,3-Jul-97,31-Jul-97,10-Jul-97,3,194.67,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10589,GREAL,8,4-Jul-97,1-Aug-97,14-Jul-97,2,4.42,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10590,MEREP,4,7-Jul-97,4-Aug-97,14-Jul-97,3,44.77,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10591,VAFFE,1,7-Jul-97,21-Jul-97,16-Jul-97,1,55.92,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10592,LEHMS,3,8-Jul-97,5-Aug-97,16-Jul-97,1,32.1,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10593,LEHMS,7,9-Jul-97,6-Aug-97,13-Aug-97,2,174.2,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10594,OLDWO,3,9-Jul-97,6-Aug-97,16-Jul-97,2,5.24,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10595,ERNSH,2,10-Jul-97,7-Aug-97,14-Jul-97,1,96.78,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10596,WHITC,8,11-Jul-97,8-Aug-97,12-Aug-97,1,16.34,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10597,PICCO,7,11-Jul-97,8-Aug-97,18-Jul-97,3,35.12,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10598,RATTC,1,14-Jul-97,11-Aug-97,18-Jul-97,3,44.42,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10599,BSBEV,6,15-Jul-97,26-Aug-97,21-Jul-97,3,29.98,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10600,HUNGC,4,16-Jul-97,13-Aug-97,21-Jul-97,1,45.13,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10601,HILAA,7,16-Jul-97,27-Aug-97,22-Jul-97,1,58.3,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10602,VAFFE,8,17-Jul-97,14-Aug-97,22-Jul-97,2,2.92,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10603,SAVEA,8,18-Jul-97,15-Aug-97,8-Aug-97,2,48.77,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10604,FURIB,1,18-Jul-97,15-Aug-97,29-Jul-97,1,7.46,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10605,MEREP,1,21-Jul-97,18-Aug-97,29-Jul-97,2,379.13,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10606,TRADH,4,22-Jul-97,19-Aug-97,31-Jul-97,3,79.4,Tradicao Hipermercados,Av. Ines de Castro 414,Sao Paulo,SP,05634-030,Brazil
+10607,SAVEA,5,22-Jul-97,19-Aug-97,25-Jul-97,1,200.24,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10608,TOMSP,4,23-Jul-97,20-Aug-97,1-Aug-97,2,27.79,Toms Spezialiteten,Luisenstr. 48,Munster,,44087,Germany
+10609,DUMON,7,24-Jul-97,21-Aug-97,30-Jul-97,2,1.85,Du monde entier,67 rue des Cinquante Otages,Nantes,,44000,France
+10610,LAMAI,8,25-Jul-97,22-Aug-97,6-Aug-97,1,26.78,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10611,WOLZA,6,25-Jul-97,22-Aug-97,1-Aug-97,2,80.65,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+10612,SAVEA,1,28-Jul-97,25-Aug-97,1-Aug-97,2,544.08,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10613,HILAA,4,29-Jul-97,26-Aug-97,1-Aug-97,2,8.11,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10614,BLAUS,8,29-Jul-97,26-Aug-97,1-Aug-97,3,1.93,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10615,WILMK,2,30-Jul-97,27-Aug-97,6-Aug-97,3,0.75,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+10616,GREAL,1,31-Jul-97,28-Aug-97,5-Aug-97,2,116.53,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10617,GREAL,4,31-Jul-97,28-Aug-97,4-Aug-97,2,18.53,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10618,MEREP,1,1-Aug-97,12-Sep-97,8-Aug-97,1,154.68,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10619,MEREP,3,4-Aug-97,1-Sep-97,7-Aug-97,3,91.05,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10620,LAUGB,2,5-Aug-97,2-Sep-97,14-Aug-97,3,0.94,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10621,ISLAT,4,5-Aug-97,2-Sep-97,11-Aug-97,2,23.73,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10622,RICAR,4,6-Aug-97,3-Sep-97,11-Aug-97,3,50.97,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10623,FRANK,8,7-Aug-97,4-Sep-97,12-Aug-97,2,97.18,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10624,THECR,4,7-Aug-97,4-Sep-97,19-Aug-97,2,94.8,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA
+10625,ANATR,3,8-Aug-97,5-Sep-97,14-Aug-97,1,43.9,Ana Trujillo Emparedados y helados,Avda. de la Constitucion 2222,Mexico D.F.,,5021,Mexico
+10626,BERGS,1,11-Aug-97,8-Sep-97,20-Aug-97,2,138.69,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10627,SAVEA,8,11-Aug-97,22-Sep-97,21-Aug-97,3,107.46,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10628,BLONP,4,12-Aug-97,9-Sep-97,20-Aug-97,3,30.36,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10629,GODOS,4,12-Aug-97,9-Sep-97,20-Aug-97,3,85.46,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10630,KOENE,1,13-Aug-97,10-Sep-97,19-Aug-97,2,32.35,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10631,LAMAI,8,14-Aug-97,11-Sep-97,15-Aug-97,1,0.87,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10632,WANDK,8,14-Aug-97,11-Sep-97,19-Aug-97,1,41.38,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10633,ERNSH,7,15-Aug-97,12-Sep-97,18-Aug-97,3,477.9,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10634,FOLIG,4,15-Aug-97,12-Sep-97,21-Aug-97,3,487.38,Folies gourmandes,184 chaussee de Tournai,Lille,,59000,France
+10635,MAGAA,8,18-Aug-97,15-Sep-97,21-Aug-97,3,47.46,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10636,WARTH,4,19-Aug-97,16-Sep-97,26-Aug-97,1,1.15,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10637,QUEEN,6,19-Aug-97,16-Sep-97,26-Aug-97,1,201.29,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10638,LINOD,3,20-Aug-97,17-Sep-97,1-Sep-97,1,158.44,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10639,SANTG,7,20-Aug-97,17-Sep-97,27-Aug-97,3,38.64,Sante Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+10640,WANDK,4,21-Aug-97,18-Sep-97,28-Aug-97,1,23.55,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10641,HILAA,4,22-Aug-97,19-Sep-97,26-Aug-97,2,179.61,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10642,SIMOB,7,22-Aug-97,19-Sep-97,5-Sep-97,3,41.89,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+10643,ALFKI,6,25-Aug-97,22-Sep-97,2-Sep-97,1,29.46,Alfreds Futterkiste,Obere Str. 57,Berlin,,12209,Germany
+10644,WELLI,3,25-Aug-97,22-Sep-97,1-Sep-97,2,0.14,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10645,HANAR,4,26-Aug-97,23-Sep-97,2-Sep-97,1,12.41,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10646,HUNGO,9,27-Aug-97,8-Oct-97,3-Sep-97,3,142.33,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10647,QUEDE,4,27-Aug-97,10-Sep-97,3-Sep-97,2,45.54,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10648,RICAR,5,28-Aug-97,9-Oct-97,9-Sep-97,2,14.25,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10649,MAISD,5,28-Aug-97,25-Sep-97,29-Aug-97,3,6.2,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10650,FAMIA,5,29-Aug-97,26-Sep-97,3-Sep-97,3,176.81,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10651,WANDK,8,1-Sep-97,29-Sep-97,11-Sep-97,2,20.6,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10652,GOURL,4,1-Sep-97,29-Sep-97,8-Sep-97,2,7.14,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10653,FRANK,1,2-Sep-97,30-Sep-97,19-Sep-97,1,93.25,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10654,BERGS,5,2-Sep-97,30-Sep-97,11-Sep-97,1,55.26,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10655,REGGC,1,3-Sep-97,1-Oct-97,11-Sep-97,2,4.41,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10656,GREAL,6,4-Sep-97,2-Oct-97,10-Sep-97,1,57.15,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10657,SAVEA,2,4-Sep-97,2-Oct-97,15-Sep-97,2,352.69,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10658,QUICK,4,5-Sep-97,3-Oct-97,8-Sep-97,1,364.15,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10659,QUEEN,7,5-Sep-97,3-Oct-97,10-Sep-97,2,105.81,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10660,HUNGC,8,8-Sep-97,6-Oct-97,15-Oct-97,1,111.29,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA
+10661,HUNGO,7,9-Sep-97,7-Oct-97,15-Sep-97,3,17.55,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10662,LONEP,3,9-Sep-97,7-Oct-97,18-Sep-97,2,1.28,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10663,BONAP,2,10-Sep-97,24-Sep-97,3-Oct-97,2,113.15,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10664,FURIB,1,10-Sep-97,8-Oct-97,19-Sep-97,3,1.27,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10665,LONEP,1,11-Sep-97,9-Oct-97,17-Sep-97,2,26.31,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10666,RICSU,7,12-Sep-97,10-Oct-97,22-Sep-97,2,232.42,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10667,ERNSH,7,12-Sep-97,10-Oct-97,19-Sep-97,1,78.09,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10668,WANDK,1,15-Sep-97,13-Oct-97,23-Sep-97,2,47.22,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+10669,SIMOB,2,15-Sep-97,13-Oct-97,22-Sep-97,1,24.39,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+10670,FRANK,4,16-Sep-97,14-Oct-97,18-Sep-97,1,203.48,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10671,FRANR,1,17-Sep-97,15-Oct-97,24-Sep-97,1,30.34,France restauration,54 rue Royale,Nantes,,44000,France
+10672,BERGS,9,17-Sep-97,1-Oct-97,26-Sep-97,2,95.75,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10673,WILMK,2,18-Sep-97,16-Oct-97,19-Sep-97,1,22.76,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+10674,ISLAT,4,18-Sep-97,16-Oct-97,30-Sep-97,2,0.9,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10675,FRANK,5,19-Sep-97,17-Oct-97,23-Sep-97,2,31.85,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10676,TORTU,2,22-Sep-97,20-Oct-97,29-Sep-97,2,2.01,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10677,ANTON,1,22-Sep-97,20-Oct-97,26-Sep-97,3,4.03,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10678,SAVEA,7,23-Sep-97,21-Oct-97,16-Oct-97,3,388.98,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10679,BLONP,8,23-Sep-97,21-Oct-97,30-Sep-97,3,27.94,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10680,OLDWO,1,24-Sep-97,22-Oct-97,26-Sep-97,1,26.61,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10681,GREAL,3,25-Sep-97,23-Oct-97,30-Sep-97,3,76.13,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10682,ANTON,3,25-Sep-97,23-Oct-97,1-Oct-97,2,36.13,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10683,DUMON,2,26-Sep-97,24-Oct-97,1-Oct-97,1,4.4,Du monde entier,67 rue des Cinquante Otages,Nantes,,44000,France
+10684,OTTIK,3,26-Sep-97,24-Oct-97,30-Sep-97,1,145.63,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10685,GOURL,4,29-Sep-97,13-Oct-97,3-Oct-97,2,33.75,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10686,PICCO,2,30-Sep-97,28-Oct-97,8-Oct-97,1,96.5,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10687,HUNGO,9,30-Sep-97,28-Oct-97,30-Oct-97,2,296.43,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10688,VAFFE,4,1-Oct-97,15-Oct-97,7-Oct-97,2,299.09,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10689,BERGS,1,1-Oct-97,29-Oct-97,7-Oct-97,2,13.42,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10690,HANAR,1,2-Oct-97,30-Oct-97,3-Oct-97,1,15.8,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10691,QUICK,2,3-Oct-97,14-Nov-97,22-Oct-97,2,810.05,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10692,ALFKI,4,3-Oct-97,31-Oct-97,13-Oct-97,2,61.02,Alfred s Futterkiste,Obere Str. 57,Berlin,,12209,Germany
+10693,WHITC,3,6-Oct-97,20-Oct-97,10-Oct-97,3,139.34,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10694,QUICK,8,6-Oct-97,3-Nov-97,9-Oct-97,3,398.36,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10695,WILMK,7,7-Oct-97,18-Nov-97,14-Oct-97,1,16.72,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+10696,WHITC,8,8-Oct-97,19-Nov-97,14-Oct-97,3,102.55,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10697,LINOD,3,8-Oct-97,5-Nov-97,14-Oct-97,1,45.52,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10698,ERNSH,4,9-Oct-97,6-Nov-97,17-Oct-97,1,272.47,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10699,MORGK,3,9-Oct-97,6-Nov-97,13-Oct-97,3,0.58,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany
+10700,SAVEA,3,10-Oct-97,7-Nov-97,16-Oct-97,1,65.1,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10701,HUNGO,6,13-Oct-97,27-Oct-97,15-Oct-97,3,220.31,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10702,ALFKI,4,13-Oct-97,24-Nov-97,21-Oct-97,1,23.94,Alfred s Futterkiste,Obere Str. 57,Berlin,,12209,Germany
+10703,FOLKO,6,14-Oct-97,11-Nov-97,20-Oct-97,2,152.3,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10704,QUEEN,6,14-Oct-97,11-Nov-97,7-Nov-97,1,4.78,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10705,HILAA,9,15-Oct-97,12-Nov-97,18-Nov-97,2,3.52,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10706,OLDWO,8,16-Oct-97,13-Nov-97,21-Oct-97,3,135.63,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10707,AROUT,4,16-Oct-97,30-Oct-97,23-Oct-97,3,21.74,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10708,THEBI,6,17-Oct-97,28-Nov-97,5-Nov-97,2,2.96,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10709,GOURL,1,17-Oct-97,14-Nov-97,20-Nov-97,3,210.8,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10710,FRANS,1,20-Oct-97,17-Nov-97,23-Oct-97,1,4.98,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+10711,SAVEA,5,21-Oct-97,2-Dec-97,29-Oct-97,2,52.41,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10712,HUNGO,3,21-Oct-97,18-Nov-97,31-Oct-97,1,89.93,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10713,SAVEA,1,22-Oct-97,19-Nov-97,24-Oct-97,1,167.05,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10714,SAVEA,5,22-Oct-97,19-Nov-97,27-Oct-97,3,24.49,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10715,BONAP,3,23-Oct-97,6-Nov-97,29-Oct-97,1,63.2,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10716,RANCH,4,24-Oct-97,21-Nov-97,27-Oct-97,2,22.57,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina
+10717,FRANK,1,24-Oct-97,21-Nov-97,29-Oct-97,2,59.25,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10718,KOENE,1,27-Oct-97,24-Nov-97,29-Oct-97,3,170.88,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10719,LETSS,8,27-Oct-97,24-Nov-97,5-Nov-97,2,51.44,Let s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10720,QUEDE,8,28-Oct-97,11-Nov-97,5-Nov-97,2,9.53,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10721,QUICK,5,29-Oct-97,26-Nov-97,31-Oct-97,3,48.92,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10722,SAVEA,8,29-Oct-97,10-Dec-97,4-Nov-97,1,74.58,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10723,WHITC,3,30-Oct-97,27-Nov-97,25-Nov-97,1,21.72,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10724,MEREP,8,30-Oct-97,11-Dec-97,5-Nov-97,2,57.75,Mere Paillarde,43 rue St. Laurent,Montreal,Quebec,H1J 1C3,Canada
+10725,FAMIA,4,31-Oct-97,28-Nov-97,5-Nov-97,3,10.83,Familia Arquibaldo,Rua Oros 92,Sao Paulo,SP,05442-030,Brazil
+10726,EASTC,4,3-Nov-97,17-Nov-97,5-Dec-97,1,16.56,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10727,REGGC,2,3-Nov-97,1-Dec-97,5-Dec-97,1,89.9,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10728,QUEEN,4,4-Nov-97,2-Dec-97,11-Nov-97,2,58.33,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10729,LINOD,8,4-Nov-97,16-Dec-97,14-Nov-97,3,141.06,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10730,BONAP,5,5-Nov-97,3-Dec-97,14-Nov-97,1,20.12,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10731,CHOPS,7,6-Nov-97,4-Dec-97,14-Nov-97,1,96.65,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10732,BONAP,3,6-Nov-97,4-Dec-97,7-Nov-97,1,16.97,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10733,BERGS,1,7-Nov-97,5-Dec-97,10-Nov-97,3,110.11,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10734,GOURL,2,7-Nov-97,5-Dec-97,12-Nov-97,3,1.63,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10735,LETSS,6,10-Nov-97,8-Dec-97,21-Nov-97,2,45.97,Let s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10736,HUNGO,9,11-Nov-97,9-Dec-97,21-Nov-97,2,44.1,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10737,VINET,2,11-Nov-97,9-Dec-97,18-Nov-97,2,7.79,Vins et alcools Chevalier,59 rue de l Abbaye,Reims,,51100,France
+10738,SPECD,2,12-Nov-97,10-Dec-97,18-Nov-97,1,2.91,Specialites du monde,25 rue Lauriston,Paris,,75016,France
+10739,VINET,3,12-Nov-97,10-Dec-97,17-Nov-97,3,11.08,Vins et alcools Chevalier,59 rue de l Abbaye,Reims,,51100,France
+10740,WHITC,4,13-Nov-97,11-Dec-97,25-Nov-97,2,81.88,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10741,AROUT,4,14-Nov-97,28-Nov-97,18-Nov-97,3,10.96,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10742,BOTTM,3,14-Nov-97,12-Dec-97,18-Nov-97,3,243.73,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10743,AROUT,1,17-Nov-97,15-Dec-97,21-Nov-97,2,23.72,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10744,VAFFE,6,17-Nov-97,15-Dec-97,24-Nov-97,1,69.19,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10745,QUICK,9,18-Nov-97,16-Dec-97,27-Nov-97,1,3.52,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10746,CHOPS,1,19-Nov-97,17-Dec-97,21-Nov-97,3,31.43,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10747,PICCO,6,19-Nov-97,17-Dec-97,26-Nov-97,1,117.33,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10748,SAVEA,3,20-Nov-97,18-Dec-97,28-Nov-97,1,232.55,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10749,ISLAT,4,20-Nov-97,18-Dec-97,19-Dec-97,2,61.53,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10750,WARTH,9,21-Nov-97,19-Dec-97,24-Nov-97,1,79.3,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10751,RICSU,3,24-Nov-97,22-Dec-97,3-Dec-97,3,130.79,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10752,NORTS,2,24-Nov-97,22-Dec-97,28-Nov-97,3,1.39,NorthSouth,South House 300 Queensbridge,London,,SW7 1RZ,UK
+10753,FRANS,3,25-Nov-97,23-Dec-97,27-Nov-97,1,7.7,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+10754,MAGAA,6,25-Nov-97,23-Dec-97,27-Nov-97,3,2.38,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10755,BONAP,4,26-Nov-97,24-Dec-97,28-Nov-97,2,16.71,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10756,SPLIR,8,27-Nov-97,25-Dec-97,2-Dec-97,2,73.21,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10757,SAVEA,6,27-Nov-97,25-Dec-97,15-Dec-97,1,8.19,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10758,RICSU,3,28-Nov-97,26-Dec-97,4-Dec-97,3,138.17,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10759,ANATR,3,28-Nov-97,26-Dec-97,12-Dec-97,3,11.99,Ana Trujillo Emparedados y helados,Avda. de la Constitucion 2222,Mexico D.F.,,5021,Mexico
+10760,MAISD,4,1-Dec-97,29-Dec-97,10-Dec-97,1,155.64,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10761,RATTC,5,2-Dec-97,30-Dec-97,8-Dec-97,2,18.66,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10762,FOLKO,3,2-Dec-97,30-Dec-97,9-Dec-97,1,328.74,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10763,FOLIG,3,3-Dec-97,31-Dec-97,8-Dec-97,3,37.35,Folies gourmandes,184 chaussee de Tournai,Lille,,59000,France
+10764,ERNSH,6,3-Dec-97,31-Dec-97,8-Dec-97,3,145.45,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10765,QUICK,3,4-Dec-97,1-Jan-98,9-Dec-97,3,42.74,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10766,OTTIK,4,5-Dec-97,2-Jan-98,9-Dec-97,1,157.55,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10767,SUPRD,4,5-Dec-97,2-Jan-98,15-Dec-97,3,1.59,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10768,AROUT,3,8-Dec-97,5-Jan-98,15-Dec-97,2,146.32,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10769,VAFFE,3,8-Dec-97,5-Jan-98,12-Dec-97,1,65.06,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10770,HANAR,8,9-Dec-97,6-Jan-98,17-Dec-97,3,5.32,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10771,ERNSH,9,10-Dec-97,7-Jan-98,2-Jan-98,2,11.19,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10772,LEHMS,3,10-Dec-97,7-Jan-98,19-Dec-97,2,91.28,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10773,ERNSH,1,11-Dec-97,8-Jan-98,16-Dec-97,3,96.43,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10774,FOLKO,4,11-Dec-97,25-Dec-97,12-Dec-97,1,48.2,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10775,THECR,7,12-Dec-97,9-Jan-98,26-Dec-97,1,20.25,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA
+10776,ERNSH,1,15-Dec-97,12-Jan-98,18-Dec-97,3,351.53,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10777,GOURL,7,15-Dec-97,29-Dec-97,21-Jan-98,2,3.01,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10778,BERGS,3,16-Dec-97,13-Jan-98,24-Dec-97,1,6.79,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10779,MORGK,3,16-Dec-97,13-Jan-98,14-Jan-98,2,58.13,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany
+10780,LILAS,2,16-Dec-97,30-Dec-97,25-Dec-97,1,42.13,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10781,WARTH,2,17-Dec-97,14-Jan-98,19-Dec-97,3,73.16,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+10782,CACTU,9,17-Dec-97,14-Jan-98,22-Dec-97,3,1.1,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+10783,HANAR,4,18-Dec-97,15-Jan-98,19-Dec-97,2,124.98,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10784,MAGAA,4,18-Dec-97,15-Jan-98,22-Dec-97,3,70.09,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10785,GROSR,1,18-Dec-97,15-Jan-98,24-Dec-97,3,1.51,GROSELLA-Restaurante,5th Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela
+10786,QUEEN,8,19-Dec-97,16-Jan-98,23-Dec-97,1,110.87,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10787,LAMAI,2,19-Dec-97,2-Jan-98,26-Dec-97,1,249.93,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10788,QUICK,1,22-Dec-97,19-Jan-98,19-Jan-98,2,42.7,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10789,FOLIG,1,22-Dec-97,19-Jan-98,31-Dec-97,2,100.6,Folies gourmandes,184 chaussee de Tournai,Lille,,59000,France
+10790,GOURL,6,22-Dec-97,19-Jan-98,26-Dec-97,1,28.23,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10791,FRANK,6,23-Dec-97,20-Jan-98,1-Jan-98,2,16.85,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10792,WOLZA,1,23-Dec-97,20-Jan-98,31-Dec-97,3,23.79,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+10793,AROUT,3,24-Dec-97,21-Jan-98,8-Jan-98,3,4.52,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10794,QUEDE,6,24-Dec-97,21-Jan-98,2-Jan-98,1,21.49,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10795,ERNSH,8,24-Dec-97,21-Jan-98,20-Jan-98,2,126.66,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10796,HILAA,3,25-Dec-97,22-Jan-98,14-Jan-98,1,26.52,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10797,DRACD,7,25-Dec-97,22-Jan-98,5-Jan-98,2,33.35,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany
+10798,ISLAT,2,26-Dec-97,23-Jan-98,5-Jan-98,1,2.33,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10799,KOENE,9,26-Dec-97,6-Feb-98,5-Jan-98,3,30.76,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10800,SEVES,1,26-Dec-97,23-Jan-98,5-Jan-98,3,137.44,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10801,BOLID,4,29-Dec-97,26-Jan-98,31-Dec-97,2,97.09,Bolido Comidas preparadas,C Araquil 67,Madrid,,28023,Spain
+10802,SIMOB,4,29-Dec-97,26-Jan-98,2-Jan-98,2,257.26,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+10803,WELLI,4,30-Dec-97,27-Jan-98,6-Jan-98,1,55.23,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10804,SEVES,6,30-Dec-97,27-Jan-98,7-Jan-98,2,27.33,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10805,THEBI,2,30-Dec-97,27-Jan-98,9-Jan-98,3,237.34,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10806,VICTE,3,31-Dec-97,28-Jan-98,5-Jan-98,2,22.11,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10807,FRANS,4,31-Dec-97,28-Jan-98,30-Jan-98,1,1.36,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+10808,OLDWO,2,1-Jan-98,29-Jan-98,9-Jan-98,3,45.53,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10809,WELLI,7,1-Jan-98,29-Jan-98,7-Jan-98,1,4.87,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10810,LAUGB,2,1-Jan-98,29-Jan-98,7-Jan-98,3,4.33,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada
+10811,LINOD,8,2-Jan-98,30-Jan-98,8-Jan-98,1,31.22,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10812,REGGC,5,2-Jan-98,30-Jan-98,12-Jan-98,1,59.78,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10813,RICAR,1,5-Jan-98,2-Feb-98,9-Jan-98,1,47.38,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10814,VICTE,3,5-Jan-98,2-Feb-98,14-Jan-98,3,130.94,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10815,SAVEA,2,5-Jan-98,2-Feb-98,14-Jan-98,3,14.62,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10816,GREAL,4,6-Jan-98,3-Feb-98,4-Feb-98,2,719.78,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10817,KOENE,3,6-Jan-98,20-Jan-98,13-Jan-98,2,306.07,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10818,MAGAA,7,7-Jan-98,4-Feb-98,12-Jan-98,3,65.48,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10819,CACTU,2,7-Jan-98,4-Feb-98,16-Jan-98,3,19.76,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+10820,RATTC,3,7-Jan-98,4-Feb-98,13-Jan-98,2,37.52,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10821,SPLIR,1,8-Jan-98,5-Feb-98,15-Jan-98,1,36.68,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10822,TRAIH,6,8-Jan-98,5-Feb-98,16-Jan-98,3,7,Trail s Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA
+10823,LILAS,5,9-Jan-98,6-Feb-98,13-Jan-98,2,163.97,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10824,FOLKO,8,9-Jan-98,6-Feb-98,30-Jan-98,1,1.23,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10825,DRACD,1,9-Jan-98,6-Feb-98,14-Jan-98,1,79.25,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany
+10826,BLONP,6,12-Jan-98,9-Feb-98,6-Feb-98,1,7.09,Blondel pere et fils,24 place Kleber,Strasbourg,,67000,France
+10827,BONAP,1,12-Jan-98,26-Jan-98,6-Feb-98,2,63.54,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10828,RANCH,9,13-Jan-98,27-Jan-98,4-Feb-98,1,90.85,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina
+10829,ISLAT,9,13-Jan-98,10-Feb-98,23-Jan-98,1,154.72,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10830,TRADH,4,13-Jan-98,24-Feb-98,21-Jan-98,2,81.83,Tradicao Hipermercados,Av. Ines de Castro 414,Sao Paulo,SP,05634-030,Brazil
+10831,SANTG,3,14-Jan-98,11-Feb-98,23-Jan-98,2,72.19,Sante Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+10832,LAMAI,2,14-Jan-98,11-Feb-98,19-Jan-98,2,43.26,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10833,OTTIK,6,15-Jan-98,12-Feb-98,23-Jan-98,2,71.49,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+10834,TRADH,1,15-Jan-98,12-Feb-98,19-Jan-98,3,29.78,Tradicao Hipermercados,Av. Ines de Castro 414,Sao Paulo,SP,05634-030,Brazil
+10835,ALFKI,1,15-Jan-98,12-Feb-98,21-Jan-98,3,69.53,Alfred s Futterkiste,Obere Str. 57,Berlin,,12209,Germany
+10836,ERNSH,7,16-Jan-98,13-Feb-98,21-Jan-98,1,411.88,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10837,BERGS,9,16-Jan-98,13-Feb-98,23-Jan-98,3,13.32,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10838,LINOD,3,19-Jan-98,16-Feb-98,23-Jan-98,3,59.28,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10839,TRADH,3,19-Jan-98,16-Feb-98,22-Jan-98,3,35.43,Tradicao Hipermercados,Av. Ines de Castro 414,Sao Paulo,SP,05634-030,Brazil
+10840,LINOD,4,19-Jan-98,2-Mar-98,16-Feb-98,2,2.71,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10841,SUPRD,5,20-Jan-98,17-Feb-98,29-Jan-98,2,424.3,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10842,TORTU,1,20-Jan-98,17-Feb-98,29-Jan-98,3,54.42,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10843,VICTE,4,21-Jan-98,18-Feb-98,26-Jan-98,2,9.26,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10844,PICCO,8,21-Jan-98,18-Feb-98,26-Jan-98,2,25.22,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+10845,QUICK,8,21-Jan-98,4-Feb-98,30-Jan-98,1,212.98,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10846,SUPRD,2,22-Jan-98,5-Mar-98,23-Jan-98,3,56.46,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10847,SAVEA,4,22-Jan-98,5-Feb-98,10-Feb-98,3,487.57,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10848,CONSH,7,23-Jan-98,20-Feb-98,29-Jan-98,2,38.24,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,,WX1 6LT,UK
+10849,KOENE,9,23-Jan-98,20-Feb-98,30-Jan-98,2,0.56,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10850,VICTE,1,23-Jan-98,6-Mar-98,30-Jan-98,1,49.19,Victuailles en stock,2 rue du Commerce,Lyon,,69004,France
+10851,RICAR,5,26-Jan-98,23-Feb-98,2-Feb-98,1,160.55,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10852,RATTC,8,26-Jan-98,9-Feb-98,30-Jan-98,1,174.05,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10853,BLAUS,9,27-Jan-98,24-Feb-98,3-Feb-98,2,53.83,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10854,ERNSH,3,27-Jan-98,24-Feb-98,5-Feb-98,2,100.22,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10855,OLDWO,3,27-Jan-98,24-Feb-98,4-Feb-98,1,170.97,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10856,ANTON,3,28-Jan-98,25-Feb-98,10-Feb-98,2,58.43,Antonio Moreno Taqueria,Mataderos  2312,Mexico D.F.,,5023,Mexico
+10857,BERGS,8,28-Jan-98,25-Feb-98,6-Feb-98,2,188.85,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10858,LACOR,2,29-Jan-98,26-Feb-98,3-Feb-98,1,52.51,La corne d abondance,67 avenue de l Europe,Versailles,,78000,France
+10859,FRANK,1,29-Jan-98,26-Feb-98,2-Feb-98,2,76.1,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10860,FRANR,3,29-Jan-98,26-Feb-98,4-Feb-98,3,19.26,France restauration,54 rue Royale,Nantes,,44000,France
+10861,WHITC,4,30-Jan-98,27-Feb-98,17-Feb-98,2,14.93,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10862,LEHMS,8,30-Jan-98,13-Mar-98,2-Feb-98,2,53.23,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10863,HILAA,4,2-Feb-98,2-Mar-98,17-Feb-98,2,30.26,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10864,AROUT,4,2-Feb-98,2-Mar-98,9-Feb-98,2,3.04,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10865,QUICK,2,2-Feb-98,16-Feb-98,12-Feb-98,1,348.14,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10866,BERGS,5,3-Feb-98,3-Mar-98,12-Feb-98,1,109.11,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10867,LONEP,6,3-Feb-98,17-Mar-98,11-Feb-98,1,1.93,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10868,QUEEN,7,4-Feb-98,4-Mar-98,23-Feb-98,2,191.27,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10869,SEVES,5,4-Feb-98,4-Mar-98,9-Feb-98,1,143.28,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK
+10870,WOLZA,5,4-Feb-98,4-Mar-98,13-Feb-98,3,12.04,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+10871,BONAP,9,5-Feb-98,5-Mar-98,10-Feb-98,2,112.27,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10872,GODOS,5,5-Feb-98,5-Mar-98,9-Feb-98,2,175.32,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10873,WILMK,4,6-Feb-98,6-Mar-98,9-Feb-98,1,0.82,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+10874,GODOS,5,6-Feb-98,6-Mar-98,11-Feb-98,2,19.58,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10875,BERGS,4,6-Feb-98,6-Mar-98,3-Mar-98,2,32.37,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10876,BONAP,7,9-Feb-98,9-Mar-98,12-Feb-98,3,60.42,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10877,RICAR,1,9-Feb-98,9-Mar-98,19-Feb-98,1,38.06,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+10878,QUICK,4,10-Feb-98,10-Mar-98,12-Feb-98,1,46.69,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10879,WILMK,3,10-Feb-98,10-Mar-98,12-Feb-98,3,8.5,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+10880,FOLKO,7,10-Feb-98,24-Mar-98,18-Feb-98,1,88.01,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10881,CACTU,4,11-Feb-98,11-Mar-98,18-Feb-98,1,2.84,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+10882,SAVEA,4,11-Feb-98,11-Mar-98,20-Feb-98,3,23.1,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10883,LONEP,8,12-Feb-98,12-Mar-98,20-Feb-98,3,0.53,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+10884,LETSS,4,12-Feb-98,12-Mar-98,13-Feb-98,2,90.97,Let s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA
+10885,SUPRD,6,12-Feb-98,12-Mar-98,18-Feb-98,3,5.64,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10886,HANAR,1,13-Feb-98,13-Mar-98,2-Mar-98,1,4.99,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10887,GALED,8,13-Feb-98,13-Mar-98,16-Feb-98,3,1.25,Galeria del gastronomo,Rambla de Cataluna 23,Barcelona,,8022,Spain
+10888,GODOS,1,16-Feb-98,16-Mar-98,23-Feb-98,2,51.87,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10889,RATTC,9,16-Feb-98,16-Mar-98,23-Feb-98,3,280.61,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10890,DUMON,7,16-Feb-98,16-Mar-98,18-Feb-98,1,32.76,Du monde entier,67 rue des Cinquante Otages,Nantes,,44000,France
+10891,LEHMS,7,17-Feb-98,17-Mar-98,19-Feb-98,2,20.37,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10892,MAISD,4,17-Feb-98,17-Mar-98,19-Feb-98,2,120.27,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10893,KOENE,9,18-Feb-98,18-Mar-98,20-Feb-98,2,77.78,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+10894,SAVEA,1,18-Feb-98,18-Mar-98,20-Feb-98,1,116.13,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10895,ERNSH,3,18-Feb-98,18-Mar-98,23-Feb-98,1,162.75,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10896,MAISD,7,19-Feb-98,19-Mar-98,27-Feb-98,3,32.45,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10897,HUNGO,3,19-Feb-98,19-Mar-98,25-Feb-98,2,603.54,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10898,OCEAN,4,20-Feb-98,20-Mar-98,6-Mar-98,2,1.27,Oceano Atlentico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina
+10899,LILAS,5,20-Feb-98,20-Mar-98,26-Feb-98,3,1.21,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10900,WELLI,1,20-Feb-98,20-Mar-98,4-Mar-98,2,1.66,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10901,HILAA,4,23-Feb-98,23-Mar-98,26-Feb-98,1,62.09,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10902,FOLKO,1,23-Feb-98,23-Mar-98,3-Mar-98,1,44.15,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10903,HANAR,3,24-Feb-98,24-Mar-98,4-Mar-98,3,36.71,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10904,WHITC,3,24-Feb-98,24-Mar-98,27-Feb-98,3,162.95,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+10905,WELLI,9,24-Feb-98,24-Mar-98,6-Mar-98,2,13.72,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10906,WOLZA,4,25-Feb-98,11-Mar-98,3-Mar-98,3,26.29,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+10907,SPECD,6,25-Feb-98,25-Mar-98,27-Feb-98,3,9.19,Specialites du monde,25 rue Lauriston,Paris,,75016,France
+10908,REGGC,4,26-Feb-98,26-Mar-98,6-Mar-98,2,32.96,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10909,SANTG,1,26-Feb-98,26-Mar-98,10-Mar-98,2,53.05,Sante Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+10910,WILMK,1,26-Feb-98,26-Mar-98,4-Mar-98,3,38.11,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+10911,GODOS,3,26-Feb-98,26-Mar-98,5-Mar-98,1,38.19,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10912,HUNGO,2,26-Feb-98,26-Mar-98,18-Mar-98,2,580.91,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10913,QUEEN,4,26-Feb-98,26-Mar-98,4-Mar-98,1,33.05,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10914,QUEEN,6,27-Feb-98,27-Mar-98,2-Mar-98,1,21.19,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10915,TORTU,2,27-Feb-98,27-Mar-98,2-Mar-98,2,3.51,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+10916,RANCH,1,27-Feb-98,27-Mar-98,9-Mar-98,2,63.77,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina
+10917,ROMEY,4,2-Mar-98,30-Mar-98,11-Mar-98,2,8.29,Romero y tomillo,Gran Via 1,Madrid,,28001,Spain
+10918,BOTTM,3,2-Mar-98,30-Mar-98,11-Mar-98,3,48.83,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10919,LINOD,2,2-Mar-98,30-Mar-98,4-Mar-98,2,19.8,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10920,AROUT,4,3-Mar-98,31-Mar-98,9-Mar-98,2,29.61,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10921,VAFFE,1,3-Mar-98,14-Apr-98,9-Mar-98,1,176.48,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10922,HANAR,5,3-Mar-98,31-Mar-98,5-Mar-98,3,62.74,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10923,LAMAI,7,3-Mar-98,14-Apr-98,13-Mar-98,3,68.26,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+10924,BERGS,3,4-Mar-98,1-Apr-98,8-Apr-98,2,151.52,Berglunds snabbkop,Berguvsvegen  8,Lulea,,S-958 22,Sweden
+10925,HANAR,3,4-Mar-98,1-Apr-98,13-Mar-98,1,2.27,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10926,ANATR,4,4-Mar-98,1-Apr-98,11-Mar-98,3,39.92,Ana Trujillo Emparedados y helados,Avda. de la Constitucion 2222,Mexico D.F.,,5021,Mexico
+10927,LACOR,4,5-Mar-98,2-Apr-98,8-Apr-98,1,19.79,La corne d abondance,67 avenue de l Europe,Versailles,,78000,France
+10928,GALED,1,5-Mar-98,2-Apr-98,18-Mar-98,1,1.36,Galeria del gastronomo,Rambla de Cataluna 23,Barcelona,,8022,Spain
+10929,FRANK,6,5-Mar-98,2-Apr-98,12-Mar-98,1,33.93,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+10930,SUPRD,4,6-Mar-98,17-Apr-98,18-Mar-98,3,15.55,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+10931,RICSU,4,6-Mar-98,20-Mar-98,19-Mar-98,2,13.6,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10932,BONAP,8,6-Mar-98,3-Apr-98,24-Mar-98,1,134.64,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10933,ISLAT,6,6-Mar-98,3-Apr-98,16-Mar-98,3,54.15,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK
+10934,LEHMS,3,9-Mar-98,6-Apr-98,12-Mar-98,3,32.01,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+10935,WELLI,4,9-Mar-98,6-Apr-98,18-Mar-98,3,47.59,Wellington Importadora,Rua do Mercado 12,Resende,SP,08737-363,Brazil
+10936,GREAL,3,9-Mar-98,6-Apr-98,18-Mar-98,2,33.68,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+10937,CACTU,7,10-Mar-98,24-Mar-98,13-Mar-98,3,31.51,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+10938,QUICK,3,10-Mar-98,7-Apr-98,16-Mar-98,2,31.89,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10939,MAGAA,2,10-Mar-98,7-Apr-98,13-Mar-98,2,76.33,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10940,BONAP,8,11-Mar-98,8-Apr-98,23-Mar-98,3,19.77,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+10941,SAVEA,7,11-Mar-98,8-Apr-98,20-Mar-98,2,400.81,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10942,REGGC,9,11-Mar-98,8-Apr-98,18-Mar-98,3,17.95,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+10943,BSBEV,4,11-Mar-98,8-Apr-98,19-Mar-98,2,2.17,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10944,BOTTM,6,12-Mar-98,26-Mar-98,13-Mar-98,3,52.92,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10945,MORGK,4,12-Mar-98,9-Apr-98,18-Mar-98,1,10.22,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany
+10946,VAFFE,1,12-Mar-98,9-Apr-98,19-Mar-98,2,27.2,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10947,BSBEV,3,13-Mar-98,10-Apr-98,16-Mar-98,2,3.26,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+10948,GODOS,3,13-Mar-98,10-Apr-98,19-Mar-98,3,23.39,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+10949,BOTTM,2,13-Mar-98,10-Apr-98,17-Mar-98,3,74.44,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10950,MAGAA,1,16-Mar-98,13-Apr-98,23-Mar-98,2,2.5,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy
+10951,RICSU,9,16-Mar-98,27-Apr-98,7-Apr-98,2,30.85,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+10952,ALFKI,1,16-Mar-98,27-Apr-98,24-Mar-98,1,40.42,Alfred s Futterkiste,Obere Str. 57,Berlin,,12209,Germany
+10953,AROUT,9,16-Mar-98,30-Mar-98,25-Mar-98,2,23.72,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+10954,LINOD,5,17-Mar-98,28-Apr-98,20-Mar-98,1,27.91,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+10955,FOLKO,8,17-Mar-98,14-Apr-98,20-Mar-98,2,3.26,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10956,BLAUS,6,17-Mar-98,28-Apr-98,20-Mar-98,2,44.65,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+10957,HILAA,8,18-Mar-98,15-Apr-98,27-Mar-98,3,105.36,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10958,OCEAN,7,18-Mar-98,15-Apr-98,27-Mar-98,2,49.56,Oceano Atlentico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina
+10959,GOURL,6,18-Mar-98,29-Apr-98,23-Mar-98,2,4.98,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+10960,HILAA,3,19-Mar-98,2-Apr-98,8-Apr-98,1,2.08,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10961,QUEEN,8,19-Mar-98,16-Apr-98,30-Mar-98,1,104.47,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+10962,QUICK,8,19-Mar-98,16-Apr-98,23-Mar-98,2,275.79,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10963,FURIB,9,19-Mar-98,16-Apr-98,26-Mar-98,3,2.7,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal
+10964,SPECD,3,20-Mar-98,17-Apr-98,24-Mar-98,2,87.38,Specialites du monde,25 rue Lauriston,Paris,,75016,France
+10965,OLDWO,6,20-Mar-98,17-Apr-98,30-Mar-98,3,144.38,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+10966,CHOPS,4,20-Mar-98,17-Apr-98,8-Apr-98,1,27.19,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+10967,TOMSP,2,23-Mar-98,20-Apr-98,2-Apr-98,2,62.22,Toms Spezialiteten,Luisenstr. 48,Munster,,44087,Germany
+10968,ERNSH,1,23-Mar-98,20-Apr-98,1-Apr-98,3,74.6,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10969,COMMI,1,23-Mar-98,20-Apr-98,30-Mar-98,2,0.21,Comercio Mineiro,Av. dos Lusiadas 23,Sao Paulo,SP,05432-043,Brazil
+10970,BOLID,9,24-Mar-98,7-Apr-98,24-Apr-98,1,16.16,Bolido Comidas preparadas,C Araquil 67,Madrid,,28023,Spain
+10971,FRANR,2,24-Mar-98,21-Apr-98,2-Apr-98,2,121.82,France restauration,54 rue Royale,Nantes,,44000,France
+10972,LACOR,4,24-Mar-98,21-Apr-98,26-Mar-98,2,0.02,La corne d abondance,67 avenue de l Europe,Versailles,,78000,France
+10973,LACOR,6,24-Mar-98,21-Apr-98,27-Mar-98,2,15.17,La corne d abondance,67 avenue de l Europe,Versailles,,78000,France
+10974,SPLIR,3,25-Mar-98,8-Apr-98,3-Apr-98,3,12.96,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA
+10975,BOTTM,1,25-Mar-98,22-Apr-98,27-Mar-98,3,32.27,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10976,HILAA,1,25-Mar-98,6-May-98,3-Apr-98,1,37.97,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+10977,FOLKO,8,26-Mar-98,23-Apr-98,10-Apr-98,3,208.5,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10978,MAISD,9,26-Mar-98,23-Apr-98,23-Apr-98,2,32.82,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+10979,ERNSH,8,26-Mar-98,23-Apr-98,31-Mar-98,2,353.07,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10980,FOLKO,4,27-Mar-98,8-May-98,17-Apr-98,1,1.26,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10981,HANAR,1,27-Mar-98,24-Apr-98,2-Apr-98,2,193.37,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+10982,BOTTM,2,27-Mar-98,24-Apr-98,8-Apr-98,1,14.01,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+10983,SAVEA,2,27-Mar-98,24-Apr-98,6-Apr-98,2,657.54,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10984,SAVEA,1,30-Mar-98,27-Apr-98,3-Apr-98,3,211.22,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+10985,HUNGO,2,30-Mar-98,27-Apr-98,2-Apr-98,1,91.51,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+10986,OCEAN,8,30-Mar-98,27-Apr-98,21-Apr-98,2,217.86,Oceano Atlentico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina
+10987,EASTC,8,31-Mar-98,28-Apr-98,6-Apr-98,1,185.48,Eastern Connection,35 King George,London,,WX3 6FW,UK
+10988,RATTC,3,31-Mar-98,28-Apr-98,10-Apr-98,2,61.14,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+10989,QUEDE,2,31-Mar-98,28-Apr-98,2-Apr-98,1,34.76,Que Delicia,Rua da Panificadora 12,Rio de Janeiro,RJ,02389-673,Brazil
+10990,ERNSH,2,1-Apr-98,13-May-98,7-Apr-98,3,117.61,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+10991,QUICK,1,1-Apr-98,29-Apr-98,7-Apr-98,1,38.51,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10992,THEBI,1,1-Apr-98,29-Apr-98,3-Apr-98,3,4.27,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA
+10993,FOLKO,7,1-Apr-98,29-Apr-98,10-Apr-98,3,8.81,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+10994,VAFFE,2,2-Apr-98,16-Apr-98,9-Apr-98,3,65.53,Vaffeljernet,Smagsloget 45,Arhus,,8200,Denmark
+10995,PERIC,1,2-Apr-98,30-Apr-98,6-Apr-98,3,46,Pericles Comidas clesicas,Calle Dr. Jorge Cash 321,Mexico D.F.,,5033,Mexico
+10996,QUICK,4,2-Apr-98,30-Apr-98,10-Apr-98,2,1.12,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+10997,LILAS,8,3-Apr-98,15-May-98,13-Apr-98,2,73.91,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+10998,WOLZA,8,3-Apr-98,17-Apr-98,17-Apr-98,2,20.31,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+10999,OTTIK,6,3-Apr-98,1-May-98,10-Apr-98,2,96.35,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+11000,RATTC,2,6-Apr-98,4-May-98,14-Apr-98,3,55.12,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA
+11001,FOLKO,2,6-Apr-98,4-May-98,14-Apr-98,2,197.3,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+11002,SAVEA,4,6-Apr-98,4-May-98,16-Apr-98,1,141.16,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11003,THECR,3,6-Apr-98,4-May-98,8-Apr-98,3,14.91,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA
+11004,MAISD,3,7-Apr-98,5-May-98,20-Apr-98,1,44.84,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium
+11005,WILMK,2,7-Apr-98,5-May-98,10-Apr-98,1,0.75,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland
+11006,GREAL,3,7-Apr-98,5-May-98,15-Apr-98,2,25.19,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+11007,PRINI,8,8-Apr-98,6-May-98,13-Apr-98,2,202.24,Princesa Isabel Vinhos,Estrada da saude n. 58,Lisboa,,1756,Portugal
+11008,ERNSH,7,8-Apr-98,6-May-98,,3,79.46,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+11009,GODOS,2,8-Apr-98,6-May-98,10-Apr-98,1,59.11,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+11010,REGGC,2,9-Apr-98,7-May-98,21-Apr-98,2,28.71,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+11011,ALFKI,3,9-Apr-98,7-May-98,13-Apr-98,1,1.21,Alfred s Futterkiste,Obere Str. 57,Berlin,,12209,Germany
+11012,FRANK,1,9-Apr-98,23-Apr-98,17-Apr-98,3,242.95,Frankenversand,Berliner Platz 43,Munchen,,80805,Germany
+11013,ROMEY,2,9-Apr-98,7-May-98,10-Apr-98,1,32.99,Romero y tomillo,Gran Via 1,Madrid,,28001,Spain
+11014,LINOD,2,10-Apr-98,8-May-98,15-Apr-98,3,23.6,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+11015,SANTG,2,10-Apr-98,24-Apr-98,20-Apr-98,2,4.62,Sante Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway
+11016,AROUT,9,10-Apr-98,8-May-98,13-Apr-98,2,33.8,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK
+11017,ERNSH,9,13-Apr-98,11-May-98,20-Apr-98,2,754.26,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+11018,LONEP,4,13-Apr-98,11-May-98,16-Apr-98,2,11.65,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA
+11019,RANCH,6,13-Apr-98,11-May-98,,3,3.17,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina
+11020,OTTIK,2,14-Apr-98,12-May-98,16-Apr-98,2,43.3,Ottilies Keseladen,Mehrheimerstr. 369,Koln,,50739,Germany
+11021,QUICK,3,14-Apr-98,12-May-98,21-Apr-98,1,297.18,QUICK-Stop,Taucherstrasse 10,Cunewalde,,1307,Germany
+11022,HANAR,9,14-Apr-98,12-May-98,4-May-98,2,6.27,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+11023,BSBEV,1,14-Apr-98,28-Apr-98,24-Apr-98,2,123.83,B s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK
+11024,EASTC,4,15-Apr-98,13-May-98,20-Apr-98,1,74.36,Eastern Connection,35 King George,London,,WX3 6FW,UK
+11025,WARTH,6,15-Apr-98,13-May-98,24-Apr-98,3,29.17,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland
+11026,FRANS,4,15-Apr-98,13-May-98,28-Apr-98,1,47.09,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+11027,BOTTM,1,16-Apr-98,14-May-98,20-Apr-98,1,52.52,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+11028,KOENE,2,16-Apr-98,14-May-98,22-Apr-98,1,29.59,Koniglich Essen,Maubelstr. 90,Brandenburg,,14776,Germany
+11029,CHOPS,4,16-Apr-98,14-May-98,27-Apr-98,1,47.84,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+11030,SAVEA,7,17-Apr-98,15-May-98,27-Apr-98,2,830.75,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11031,SAVEA,6,17-Apr-98,15-May-98,24-Apr-98,2,227.22,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11032,WHITC,2,17-Apr-98,15-May-98,23-Apr-98,3,606.19,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+11033,RICSU,7,17-Apr-98,15-May-98,23-Apr-98,3,84.74,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+11034,OLDWO,8,20-Apr-98,1-Jun-98,27-Apr-98,1,40.32,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA
+11035,SUPRD,2,20-Apr-98,18-May-98,24-Apr-98,2,0.17,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+11036,DRACD,8,20-Apr-98,18-May-98,22-Apr-98,3,149.47,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany
+11037,GODOS,7,21-Apr-98,19-May-98,27-Apr-98,1,3.2,Godos Cocina Tipica,C Romero 33,Sevilla,,41101,Spain
+11038,SUPRD,1,21-Apr-98,19-May-98,30-Apr-98,2,29.59,Supremes delices,Boulevard Tirou 255,Charleroi,,B-6000,Belgium
+11039,LINOD,1,21-Apr-98,19-May-98,,2,65,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela
+11040,GREAL,4,22-Apr-98,20-May-98,,3,18.84,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+11041,CHOPS,3,22-Apr-98,20-May-98,28-Apr-98,2,48.22,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland
+11042,COMMI,2,22-Apr-98,6-May-98,1-May-98,1,29.99,Comercio Mineiro,Av. dos Lusiadas 23,Sao Paulo,SP,05432-043,Brazil
+11043,SPECD,5,22-Apr-98,20-May-98,29-Apr-98,2,8.8,Specialites du monde,25 rue Lauriston,Paris,,75016,France
+11044,WOLZA,4,23-Apr-98,21-May-98,1-May-98,1,8.72,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland
+11045,BOTTM,6,23-Apr-98,21-May-98,,2,70.58,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+11046,WANDK,8,23-Apr-98,21-May-98,24-Apr-98,2,71.64,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany
+11047,EASTC,7,24-Apr-98,22-May-98,1-May-98,3,46.62,Eastern Connection,35 King George,London,,WX3 6FW,UK
+11048,BOTTM,7,24-Apr-98,22-May-98,30-Apr-98,3,24.12,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada
+11049,GOURL,3,24-Apr-98,22-May-98,4-May-98,1,8.34,Gourmet Lanchonetes,Av. Brasil 442,Campinas,SP,04876-786,Brazil
+11050,FOLKO,8,27-Apr-98,25-May-98,5-May-98,2,59.41,Folk och fe HB,Akergatan 24,Brecke,,S-844 67,Sweden
+11051,LAMAI,7,27-Apr-98,25-May-98,,3,2.79,La maison d Asie,1 rue Alsace-Lorraine,Toulouse,,31000,France
+11052,HANAR,3,27-Apr-98,25-May-98,1-May-98,1,67.26,Hanari Carnes,Rua do Paco 67,Rio de Janeiro,RJ,05454-876,Brazil
+11053,PICCO,2,27-Apr-98,25-May-98,29-Apr-98,2,53.05,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria
+11054,CACTU,8,28-Apr-98,26-May-98,,1,0.33,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina
+11055,HILAA,7,28-Apr-98,26-May-98,5-May-98,2,120.92,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette no.8-35,San Cristobal,Techira,5022,Venezuela
+11056,EASTC,8,28-Apr-98,12-May-98,1-May-98,2,278.96,Eastern Connection,35 King George,London,,WX3 6FW,UK
+11057,NORTS,3,29-Apr-98,27-May-98,1-May-98,3,4.13,NorthSouth,South House 300 Queensbridge,London,,SW7 1RZ,UK
+11058,BLAUS,9,29-Apr-98,27-May-98,,3,31.14,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany
+11059,RICAR,2,29-Apr-98,10-Jun-98,,2,85.8,Ricardo Adocicados,Av. Copacabana 267,Rio de Janeiro,RJ,02389-890,Brazil
+11060,FRANS,2,30-Apr-98,28-May-98,4-May-98,2,10.98,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy
+11061,GREAL,4,30-Apr-98,11-Jun-98,,3,14.01,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA
+11062,REGGC,4,30-Apr-98,28-May-98,,2,29.93,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy
+11063,HUNGO,3,30-Apr-98,28-May-98,6-May-98,2,81.73,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland
+11064,SAVEA,1,1-May-98,29-May-98,4-May-98,1,30.09,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA
+11065,LILAS,8,1-May-98,29-May-98,,1,12.91,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+11066,WHITC,7,1-May-98,29-May-98,4-May-98,2,44.72,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA
+11067,DRACD,1,4-May-98,18-May-98,6-May-98,2,7.98,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany
+11068,QUEEN,8,4-May-98,1-Jun-98,,2,81.75,Queen Cozinha,Alameda dos Canerios 891,Sao Paulo,SP,05487-020,Brazil
+11069,TORTU,1,4-May-98,1-Jun-98,6-May-98,2,15.67,Tortuga Restaurante,Avda. Azteca 123,Mexico D.F.,,5033,Mexico
+11070,LEHMS,2,5-May-98,2-Jun-98,,1,136,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany
+11071,LILAS,1,5-May-98,2-Jun-98,,1,0.93,LILA-Supermercado,Carrera 52 con Ave. Bolivar no.65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela
+11072,ERNSH,4,5-May-98,2-Jun-98,,2,258.64,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria
+11073,PERIC,2,5-May-98,2-Jun-98,,2,24.95,Pericles Comidas clesicas,Calle Dr. Jorge Cash 321,Mexico D.F.,,5033,Mexico
+11074,SIMOB,7,6-May-98,3-Jun-98,,2,18.44,Simons bistro,Vinbaeltet 34,Kobenhavn,,1734,Denmark
+11075,RICSU,8,6-May-98,3-Jun-98,,2,6.19,Richter Supermarkt,Starenweg 5,Geneve,,1204,Switzerland
+11076,BONAP,4,6-May-98,3-Jun-98,,2,38.28,Bon app ,12 rue des Bouchers,Marseille,,13008,France
+11077,RATTC,1,6-May-98,3-Jun-98,,2,8.53,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA

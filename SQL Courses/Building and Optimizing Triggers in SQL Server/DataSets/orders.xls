@@ -1,0 +1,501 @@
+OrderID,Customer,Product,Price,Currency,Quantity,WithDiscount,Discount,OrderDate,TotalAmount,Dispatched
+284,VitaFruit,Orange,.76,USD,75,0,0,2018-09-17,57.00,1
+330,Healthy Choices,Raspberry,1.96,USD,200,1,3,2018-10-29,392.00,1
+302,World of Fruits,Pineapple,4.16,USD,25,0,0,2018-10-09,104.00,1
+248,Fruit Mania,Plum,1.11,USD,300,0,0,2018-08-11,333.00,1
+358,Fruit Mag,Pomelo,1.11,USD,750,1,4,2018-11-29,832.50,1
+100,VitaFruit,Avocado,2.91,USD,500,1,7,2018-03-29,1455.00,1
+218,Fruit Mag,Plum,1.11,USD,75,1,1,2018-07-11,83.25,1
+205,Health Mag,Kiwi,1.31,USD,250,1,7,2018-06-29,327.50,1
+324,Tasty Fruits,Blackcurrant,2.41,USD,75,0,0,2018-10-24,180.75,1
+332,eFruits,Fig,1.56,USD,1000,1,6,2018-10-31,1560.00,1
+7,Health Mag,Grapefruit,1.36,USD,600,1,1,2018-01-06,816.00,1
+110,Fruit Mag,Blueberry,1.91,USD,100,1,6,2018-04-07,191.00,1
+281,eFruits,Orange,.76,USD,20,1,1,2018-09-13,15.20,1
+194,eShop,Blackcurrant,2.41,USD,1200,0,0,2018-06-17,2892.00,1
+256,Health Mag,Watermelon,.26,USD,1200,1,7,2018-08-19,312.00,1
+206,Tasty Fruits,Grape,2.01,USD,25,1,1,2018-06-30,50.25,1
+185,World of Fruits,Cherry,3.41,USD,1500,1,1,2018-06-10,5115.00,1
+327,Exotic Taste,Watermelon,.26,USD,100,0,0,2018-10-27,26.00,1
+190,Health Mag,Blackcurrant,2.41,USD,25,1,3,2018-06-13,60.25,1
+9,Every Fruit,Grape,2.01,USD,250,1,3,2018-01-08,502.50,1
+109,Fruit Mania,Avocado,2.91,USD,80,1,8,2018-04-05,232.80,1
+375,eShop,Raspberry,1.96,USD,80,1,4,2018-12-12,156.80,1
+221,VitaFruit,Papaya,3.26,USD,20,1,5,2018-07-17,65.20,1
+168,Fruit Mania,Peach,1.91,USD,40,1,7,2018-05-27,76.40,1
+37,Health Mag,Coconut,2.91,USD,300,1,4,2018-01-29,873.00,1
+247,Tasty Fruits,Blueberry,1.91,USD,40,0,0,2018-08-11,76.40,1
+381,Health Mag,Pomelo,1.11,USD,250,1,9,2018-12-16,277.50,1
+276,Exotic Taste,Blackcurrant,2.41,USD,800,0,0,2018-09-08,1928.00,1
+131,Fruit Shop,Pear,2.26,USD,80,0,0,2018-04-27,180.80,1
+75,Health Mag,Nectarine,.51,USD,40,0,0,2018-03-08,20.40,1
+357,Exotic Taste,Lemon,.26,USD,100,1,9,2018-11-28,26.00,1
+305,eFruits,Blackcurrant,2.41,USD,200,0,0,2018-10-11,482.00,1
+239,Healthy Choices,Apple,1.91,USD,750,1,5,2018-08-03,1432.50,1
+115,Exotic Taste,Plum,1.11,USD,200,0,0,2018-04-12,222.00,1
+99,Health Mag,Peach,1.91,USD,1000,1,10,2018-03-29,1910.00,1
+363,Fruit Mania,Blackcurrant,2.41,USD,1000,1,10,2018-12-02,2410.00,1
+193,eShop,Nectarine,.51,USD,120,1,3,2018-06-16,61.20,1
+265,Fruity Loops,Raspberry,1.96,USD,1500,0,0,2018-08-31,2940.00,1
+87,Fruit Paradise,Apple,1.91,USD,500,0,0,2018-03-20,955.00,1
+314,Tasty Fruits,Blueberry,1.91,USD,1000,1,2,2018-10-17,1910.00,1
+138,eFruits,Cherry,3.41,USD,1200,0,0,2018-05-02,4092.00,1
+230,Fruit Mag,Orange,.76,USD,75,0,0,2018-07-22,57.00,1
+45,eFruits,Orange,.76,USD,1000,1,6,2018-02-10,760.00,1
+282,Fruit Mag,Cherry,3.41,USD,200,0,0,2018-09-14,682.00,1
+365,VitaFruit,Blackberry,1.91,USD,240,0,0,2018-12-03,458.40,1
+70,Healthy Choices,Fig,1.56,USD,100,1,6,2018-03-01,156.00,1
+94,Fruit Mania,Grapefruit,1.36,USD,300,1,10,2018-03-24,408.00,1
+356,Exotic Taste,Goji berry,.51,USD,20,0,0,2018-11-28,10.20,1
+280,Exotic Taste,Cranberry,1.01,USD,25,1,10,2018-09-12,25.25,1
+308,eFruits,Papaya,3.26,USD,40,0,0,2018-10-13,130.40,1
+235,VitaFruit,Strawberry,3.06,USD,250,0,0,2018-07-29,765.00,1
+251,Fruit Paradise,Nectarine,.51,USD,120,0,0,2018-08-16,61.20,1
+345,eFruits,Banana,1.71,USD,200,0,0,2018-11-13,342.00,1
+191,Fruit Mag,Orange,.76,USD,300,0,0,2018-06-13,228.00,1
+292,Tasty Fruits,Pineapple,4.16,USD,800,1,1,2018-09-29,3328.00,1
+401,eShop,Mango,1.76,USD,75,1,5,2018-12-21,132.00,1
+137,Fruit Mania,Peach,1.91,USD,250,1,4,2018-04-30,477.50,1
+85,World of Fruits,Blackcurrant,2.41,USD,120,0,0,2018-03-18,289.20,1
+226,World of Fruits,Kiwi,1.31,USD,240,0,0,2018-07-20,314.40,1
+270,Fruity Loops,Raspberry,1.96,USD,100,1,9,2018-09-05,196.00,1
+360,Fruit Paradise,Nectarine,.51,USD,250,0,0,2018-12-01,127.50,1
+385,Tasty Fruits,Apple,1.91,USD,600,1,9,2018-12-18,1146.00,1
+144,Tasty Fruits,Grapefruit,1.36,USD,1000,0,0,2018-05-05,1360.00,1
+359,Tasty Fruits,Banana,1.71,USD,500,1,1,2018-11-30,855.00,1
+61,Exotic Taste,Pear,2.26,USD,75,0,0,2018-02-23,169.50,1
+184,Healthy Choices,Fig,1.56,USD,250,0,0,2018-06-08,390.00,1
+160,Fruity Loops,Blackcurrant,2.41,USD,100,1,2,2018-05-17,241.00,1
+196,World of Fruits,Raspberry,1.96,USD,1000,0,0,2018-06-20,1960.00,1
+254,Fruity Loops,Grapefruit,1.36,USD,120,1,4,2018-08-18,163.20,1
+121,Fruit Paradise,Watermelon,.26,USD,25,1,7,2018-04-16,6.50,1
+299,Every Fruit,Peach,1.91,USD,100,0,0,2018-10-07,191.00,1
+213,Fruit Paradise,Grapefruit,1.36,USD,100,0,0,2018-07-04,136.00,1
+111,Fruit Mag,Goji berry,.51,USD,200,0,0,2018-04-08,102.00,1
+249,World of Fruits,Banana,1.71,USD,75,0,0,2018-08-11,128.25,1
+355,Every Fruit,Pear,2.26,USD,800,0,0,2018-11-27,1808.00,1
+50,VitaFruit,Papaya,3.26,USD,75,1,10,2018-02-12,244.50,1
+222,Every Fruit,Pear,2.26,USD,600,0,0,2018-07-18,1356.00,1
+364,Fruit Paradise,Raspberry,1.96,USD,20,1,10,2018-12-02,39.20,1
+344,Exotic Taste,Watermelon,.26,USD,75,0,0,2018-11-12,19.50,1
+29,Every Fruit,Apple,1.91,USD,300,1,2,2018-01-25,573.00,1
+225,eFruits,Watermelon,.26,USD,500,1,2,2018-07-20,130.00,1
+331,Fruit Mania,Fig,1.56,USD,25,0,0,2018-10-30,39.00,1
+279,Fruit Mag,Apricot,1.46,USD,120,0,0,2018-09-11,175.20,1
+34,eShop,Banana,1.71,USD,1000,1,10,2018-01-28,1710.00,1
+116,eFruits,Watermelon,.26,USD,300,0,0,2018-04-12,78.00,1
+13,Fruit Paradise,Pineapple,4.16,USD,500,1,6,2018-01-12,2080.00,1
+296,Fruit Shop,Apple,1.91,USD,250,0,0,2018-10-02,477.50,1
+64,VitaFruit,Apple,1.91,USD,240,1,5,2018-02-26,458.40,1
+400,Fruit Mag,Peach,1.91,USD,1200,0,0,2018-12-21,2292.00,1
+243,VitaFruit,Date,1.26,USD,300,1,5,2018-08-08,378.00,1
+65,Fruit Shop,Kiwi,1.31,USD,40,0,0,2018-02-26,52.40,1
+11,Healthy Choices,Nectarine,.51,USD,25,0,0,2018-01-10,12.75,1
+264,VitaFruit,Blackcurrant,2.41,USD,50,0,0,2018-08-30,120.50,1
+123,Fruity Loops,Kiwi,1.31,USD,800,0,0,2018-04-18,1048.00,1
+71,eFruits,Pineapple,4.16,USD,1500,0,0,2018-03-04,6240.00,1
+159,eFruits,Apple,1.91,USD,25,1,3,2018-05-17,47.75,1
+386,Fruit Mania,Apricot,1.46,USD,100,1,3,2018-12-19,146.00,1
+253,Every Fruit,Raspberry,1.96,USD,80,0,0,2018-08-18,156.80,1
+175,Health Mag,Watermelon,.26,USD,250,0,0,2018-06-01,65.00,1
+252,Fruit Shop,Lemon,.26,USD,600,0,0,2018-08-16,156.00,1
+459,Nutty Nuts,Apple,1.91,USD,50,1,10,2018-12-27,95.50,1
+321,Fruit Mag,Blueberry,1.91,USD,40,0,0,2018-10-21,76.40,1
+219,Fruity Loops,Plum,1.11,USD,25,1,8,2018-07-14,27.75,1
+165,Health Mag,Blackcurrant,2.41,USD,50,0,0,2018-05-25,120.50,1
+240,Exotic Taste,Banana,1.71,USD,40,0,0,2018-08-04,68.40,1
+242,Health Mag,Banana,1.71,USD,25,1,5,2018-08-08,42.75,1
+122,Fruit Shop,Banana,1.71,USD,500,0,0,2018-04-18,855.00,1
+58,World of Fruits,Blackcurrant,2.41,USD,120,0,0,2018-02-21,289.20,1
+372,eShop,Orange,.76,USD,25,1,9,2018-12-08,19.00,1
+78,Fruit Mag,Apricot,1.46,USD,25,0,0,2018-03-11,36.50,1
+214,Health Mag,Pineapple,4.16,USD,1500,1,9,2018-07-07,6240.00,1
+73,Nutty Nuts,Plum,1.11,USD,800,0,0,2018-03-06,888.00,1
+295,Healthy Choices,Lemon,.26,USD,1000,1,1,2018-09-30,260.00,1
+283,Fruit Mag,Blackberry,1.91,USD,1000,0,0,2018-09-14,1910.00,1
+200,World of Fruits,Lemon,.26,USD,20,1,1,2018-06-25,5.20,1
+142,Fruit Paradise,Fig,1.56,USD,500,1,7,2018-05-03,780.00,1
+306,Exotic Taste,Fig,1.56,USD,1500,1,5,2018-10-12,2340.00,1
+217,Nutty Nuts,Raspberry,1.96,USD,300,0,0,2018-07-09,588.00,1
+212,eFruits,Blackberry,1.91,USD,20,0,0,2018-07-04,38.20,1
+176,Health Mag,Cherry,3.41,USD,250,1,3,2018-06-02,852.50,1
+154,Fruit Paradise,Grape,2.01,USD,600,0,0,2018-05-13,1206.00,1
+231,Fruit Shop,Kiwi,1.31,USD,50,0,0,2018-07-24,65.50,1
+150,Fruity Loops,Plum,1.11,USD,250,1,10,2018-05-09,277.50,1
+374,Healthy Choices,Fig,1.56,USD,750,1,3,2018-12-11,1170.00,1
+336,Fruit Paradise,Lemon,.26,USD,40,0,0,2018-11-05,10.40,1
+207,Fruit Shop,Grape,2.01,USD,75,0,0,2018-06-30,150.75,1
+371,Every Fruit,Coconut,2.91,USD,100,0,0,2018-12-07,291.00,1
+118,Fruit Mag,Blackcurrant,2.41,USD,1500,1,1,2018-04-14,3615.00,1
+495,Fruit Mania,Cherry,3.41,USD,20,0,0,2018-12-30,68.20,1
+227,Every Fruit,Plum,1.11,USD,250,1,2,2018-07-21,277.50,1
+343,Healthy Choices,Kiwi,1.31,USD,800,0,0,2018-11-11,1048.00,1
+348,Fruit Paradise,Fig,1.56,USD,80,0,0,2018-11-18,124.80,1
+79,Health Mag,Cherry,3.41,USD,1500,1,4,2018-03-12,5115.00,1
+328,eFruits,Blackberry,1.91,USD,100,0,0,2018-10-27,191.00,1
+311,Fruity Loops,Blueberry,1.91,USD,300,0,0,2018-10-15,573.00,1
+80,Fruit Paradise,Apricot,1.46,USD,1000,1,9,2018-03-15,1460.00,1
+291,Fruit Mag,Blackberry,1.91,USD,1500,1,8,2018-09-27,2865.00,1
+10,VitaFruit,Apple,1.91,USD,75,0,0,2018-01-09,143.25,1
+458,VitaFruit,Nectarine,.51,USD,240,1,1,2018-12-26,122.40,1
+161,World of Fruits,Cherry,3.41,USD,100,0,0,2018-05-18,341.00,1
+426,Healthy Choices,Grapefruit,1.36,USD,120,0,0,2018-12-23,163.20,1
+334,eFruits,Orange,.76,USD,250,0,0,2018-11-01,190.00,1
+51,Healthy Choices,Banana,1.71,USD,20,0,0,2018-02-12,34.20,1
+373,Nutty Nuts,Pomelo,1.11,USD,1000,0,0,2018-12-09,1110.00,1
+23,Healthy Choices,Plum,1.11,USD,120,1,9,2018-01-20,133.20,1
+275,Healthy Choices,Cherry,3.41,USD,25,1,8,2018-09-07,85.25,1
+140,Fruit Paradise,Papaya,3.26,USD,40,0,0,2018-05-02,130.40,1
+1,Fruit Mag,Pear,2.26,USD,600,1,9,2018-01-01,1356.00,1
+32,Exotic Taste,Grape,2.01,USD,750,0,0,2018-01-27,1507.50,1
+246,VitaFruit,Blackberry,1.91,USD,300,1,3,2018-08-09,573.00,1
+16,Tasty Fruits,Mango,1.76,USD,240,1,7,2018-01-15,422.40,1
+315,VitaFruit,Grapefruit,1.36,USD,200,0,0,2018-10-18,272.00,1
+204,Health Mag,Blackberry,1.91,USD,120,1,3,2018-06-29,229.20,1
+266,VitaFruit,Blueberry,1.91,USD,120,1,6,2018-09-02,229.20,1
+83,Fruit Paradise,Apple,1.91,USD,200,0,0,2018-03-16,382.00,1
+312,Tasty Fruits,Pineapple,4.16,USD,500,0,0,2018-10-16,2080.00,1
+277,Every Fruit,Goji berry,.51,USD,240,0,0,2018-09-09,122.40,1
+14,eShop,Grape,2.01,USD,500,0,0,2018-01-12,1005.00,1
+333,Nutty Nuts,Pineapple,4.16,USD,20,1,8,2018-10-31,83.20,1
+288,Fruit Mania,Plum,1.11,USD,200,0,0,2018-09-21,222.00,1
+89,Fruity Loops,Strawberry,3.06,USD,1500,0,0,2018-03-22,4590.00,1
+382,Health Mag,Lemon,.26,USD,40,0,0,2018-12-17,10.40,1
+228,Tasty Fruits,Grapefruit,1.36,USD,25,0,0,2018-07-21,34.00,1
+128,eFruits,Avocado,2.91,USD,250,0,0,2018-04-23,727.50,1
+268,VitaFruit,Nectarine,.51,USD,600,1,3,2018-09-03,306.00,1
+220,eShop,Orange,.76,USD,120,1,8,2018-07-14,91.20,1
+349,Every Fruit,Coconut,2.91,USD,20,0,0,2018-11-21,58.20,1
+188,Fruit Shop,Peach,1.91,USD,750,1,2,2018-06-12,1432.50,1
+262,Every Fruit,Lemon,.26,USD,500,0,0,2018-08-29,130.00,1
+106,World of Fruits,Watermelon,.26,USD,20,0,0,2018-04-03,5.20,1
+164,Healthy Choices,Banana,1.71,USD,80,1,6,2018-05-25,136.80,1
+76,Fruit Mag,Watermelon,.26,USD,500,0,0,2018-03-09,130.00,1
+125,Healthy Choices,Fig,1.56,USD,250,1,1,2018-04-20,390.00,1
+233,Healthy Choices,Cherry,3.41,USD,25,1,1,2018-07-26,85.25,1
+105,Fruit Mag,Cranberry,1.01,USD,25,1,10,2018-04-02,25.25,1
+370,eShop,Pear,2.26,USD,1000,1,5,2018-12-07,2260.00,1
+66,VitaFruit,Blackberry,1.91,USD,300,1,10,2018-02-27,573.00,1
+285,Health Mag,Pomelo,1.11,USD,200,1,10,2018-09-18,222.00,1
+90,Nutty Nuts,Cranberry,1.01,USD,750,1,9,2018-03-23,757.50,1
+236,eFruits,Blackcurrant,2.41,USD,1200,0,0,2018-08-01,2892.00,1
+28,Nutty Nuts,Avocado,2.91,USD,500,1,3,2018-01-24,1455.00,1
+130,eShop,Watermelon,.26,USD,100,1,3,2018-04-25,26.00,1
+180,Every Fruit,Apple,1.91,USD,50,0,0,2018-06-06,95.50,1
+52,Fruity Loops,Strawberry,3.06,USD,1200,0,0,2018-02-13,3672.00,1
+286,Fruity Loops,Goji berry,.51,USD,1000,0,0,2018-09-18,510.00,1
+257,Fruit Mag,Plum,1.11,USD,300,0,0,2018-08-19,333.00,1
+44,World of Fruits,Coconut,2.91,USD,1200,1,9,2018-02-09,3492.00,1
+350,VitaFruit,Strawberry,3.06,USD,300,0,0,2018-11-22,918.00,1
+402,Nutty Nuts,Grapefruit,1.36,USD,500,1,10,2018-12-22,680.00,1
+182,eFruits,Blackberry,1.91,USD,80,0,0,2018-06-08,152.80,1
+186,Health Mag,Peach,1.91,USD,240,1,5,2018-06-12,458.40,1
+170,Fruit Mag,Date,1.26,USD,75,0,0,2018-05-29,94.50,1
+46,Health Mag,Blackberry,1.91,USD,100,1,9,2018-02-11,191.00,1
+91,VitaFruit,Blueberry,1.91,USD,50,0,0,2018-03-23,95.50,1
+260,Every Fruit,Mango,1.76,USD,1000,0,0,2018-08-27,1760.00,1
+290,Exotic Taste,Nectarine,.51,USD,50,1,2,2018-09-27,25.50,1
+271,Fruit Mag,Watermelon,.26,USD,250,1,2,2018-09-06,65.00,1
+149,World of Fruits,Apricot,1.46,USD,1500,1,10,2018-05-09,2190.00,1
+163,Fruit Mag,Apricot,1.46,USD,50,1,2,2018-05-24,73.00,1
+127,Every Fruit,Date,1.26,USD,600,0,0,2018-04-22,756.00,1
+354,Health Mag,Nectarine,.51,USD,120,0,0,2018-11-26,61.20,1
+81,Fruit Mania,Coconut,2.91,USD,300,0,0,2018-03-15,873.00,1
+139,Fruit Mag,Blackcurrant,2.41,USD,800,1,6,2018-05-02,1928.00,1
+169,Fruit Mag,Avocado,2.91,USD,1200,1,9,2018-05-29,3492.00,1
+480,eShop,Blueberry,1.91,USD,600,0,0,2018-12-28,1146.00,1
+8,Tasty Fruits,Apple,1.91,USD,25,1,7,2018-01-07,47.75,1
+129,VitaFruit,Pineapple,4.16,USD,1000,1,10,2018-04-24,4160.00,1
+197,Health Mag,Pomelo,1.11,USD,120,1,3,2018-06-24,133.20,1
+307,eShop,Mango,1.76,USD,750,0,0,2018-10-12,1320.00,1
+353,Healthy Choices,Papaya,3.26,USD,1200,1,7,2018-11-25,3912.00,1
+320,Exotic Taste,Lemon,.26,USD,1500,0,0,2018-10-19,390.00,1
+187,Fruit Mag,Plum,1.11,USD,25,0,0,2018-06-12,27.75,1
+177,Every Fruit,Goji berry,.51,USD,200,1,1,2018-06-02,102.00,1
+55,Healthy Choices,Pineapple,4.16,USD,200,1,10,2018-02-16,832.00,1
+383,Fruit Mania,Fig,1.56,USD,75,0,0,2018-12-17,117.00,1
+294,Exotic Taste,Cranberry,1.01,USD,500,0,0,2018-09-29,505.00,1
+156,VitaFruit,Plum,1.11,USD,50,0,0,2018-05-15,55.50,1
+380,eShop,Banana,1.71,USD,300,1,8,2018-12-16,513.00,1
+153,Exotic Taste,Blackcurrant,2.41,USD,300,1,8,2018-05-10,723.00,1
+287,Fruit Mag,Coconut,2.91,USD,40,0,0,2018-09-18,116.40,1
+293,Tasty Fruits,Grape,2.01,USD,40,0,0,2018-09-29,80.40,1
+274,Health Mag,Apricot,1.46,USD,120,0,0,2018-09-07,175.20,1
+263,Healthy Choices,Peach,1.91,USD,240,1,1,2018-08-30,458.40,1
+250,Fruit Shop,Banana,1.71,USD,500,1,9,2018-08-13,855.00,1
+183,eFruits,Mango,1.76,USD,600,0,0,2018-06-08,1056.00,1
+33,VitaFruit,Pineapple,4.16,USD,800,1,7,2018-01-27,3328.00,1
+54,Fruit Shop,Peach,1.91,USD,300,0,0,2018-02-16,573.00,1
+367,Fruit Mag,Papaya,3.26,USD,750,1,4,2018-12-04,2445.00,1
+62,Health Mag,Pear,2.26,USD,25,0,0,2018-02-24,56.50,1
+40,Fruit Mag,Pomelo,1.11,USD,600,1,2,2018-02-03,666.00,1
+49,VitaFruit,Strawberry,3.06,USD,80,0,0,2018-02-12,244.80,1
+238,Fruit Paradise,Orange,.76,USD,750,0,0,2018-08-03,570.00,1
+22,eShop,Fig,1.56,USD,20,1,3,2018-01-20,31.20,1
+152,Fruit Shop,Lemon,.26,USD,300,1,1,2018-05-10,78.00,1
+107,Nutty Nuts,Papaya,3.26,USD,1200,1,7,2018-04-05,3912.00,1
+316,Tasty Fruits,Raspberry,1.96,USD,1000,1,8,2018-10-18,1960.00,1
+289,Health Mag,Orange,.76,USD,120,0,0,2018-09-24,91.20,1
+2,Fruity Loops,Pear,2.26,USD,75,1,1,2018-01-01,169.50,1
+92,Healthy Choices,Papaya,3.26,USD,75,1,2,2018-03-23,244.50,1
+101,Exotic Taste,Date,1.26,USD,25,0,0,2018-03-30,31.50,1
+202,Fruit Paradise,Peach,1.91,USD,750,0,0,2018-06-27,1432.50,1
+141,Healthy Choices,Grape,2.01,USD,75,0,0,2018-05-03,150.75,1
+151,Every Fruit,Apricot,1.46,USD,25,1,9,2018-05-10,36.50,1
+384,Fruity Loops,Papaya,3.26,USD,50,1,6,2018-12-18,163.00,1
+24,Every Fruit,Nectarine,.51,USD,40,0,0,2018-01-23,20.40,1
+42,Fruit Mag,Blackberry,1.91,USD,1200,0,0,2018-02-07,2292.00,1
+317,Tasty Fruits,Banana,1.71,USD,50,1,1,2018-10-18,85.50,1
+117,eFruits,Nectarine,.51,USD,80,1,3,2018-04-12,40.80,1
+126,VitaFruit,Cranberry,1.01,USD,20,1,10,2018-04-21,20.20,1
+102,eShop,Lemon,.26,USD,200,0,0,2018-03-30,52.00,1
+337,Healthy Choices,Cherry,3.41,USD,1000,1,1,2018-11-08,3410.00,1
+21,Fruit Mania,Grapefruit,1.36,USD,1500,0,0,2018-01-19,2040.00,1
+15,eFruits,Plum,1.11,USD,50,1,1,2018-01-12,55.50,1
+147,eFruits,Watermelon,.26,USD,250,1,10,2018-05-08,65.00,1
+341,Fruit Shop,Coconut,2.91,USD,200,0,0,2018-11-11,582.00,1
+244,VitaFruit,Blackcurrant,2.41,USD,500,0,0,2018-08-08,1205.00,1
+84,Exotic Taste,Blueberry,1.91,USD,1200,1,10,2018-03-16,2292.00,1
+3,Nutty Nuts,Blueberry,1.91,USD,100,1,6,2018-01-02,191.00,1
+335,Fruit Mania,Kiwi,1.31,USD,100,0,0,2018-11-01,131.00,1
+108,Health Mag,Pear,2.26,USD,500,1,8,2018-04-05,1130.00,1
+146,Fruity Loops,Blackberry,1.91,USD,240,0,0,2018-05-08,458.40,1
+237,Fruit Mania,Banana,1.71,USD,750,1,3,2018-08-03,1282.50,1
+211,Health Mag,Lemon,.26,USD,240,0,0,2018-07-04,62.40,1
+17,eShop,Pomelo,1.11,USD,300,1,9,2018-01-16,333.00,1
+171,eShop,Blackberry,1.91,USD,80,0,0,2018-05-29,152.80,1
+98,VitaFruit,Kiwi,1.31,USD,75,0,0,2018-03-26,98.25,1
+427,VitaFruit,Raspberry,1.96,USD,1200,1,7,2018-12-24,2352.00,1
+189,Tasty Fruits,Pineapple,4.16,USD,1000,0,0,2018-06-13,4160.00,1
+223,Every Fruit,Date,1.26,USD,750,0,0,2018-07-18,945.00,1
+148,Exotic Taste,Blueberry,1.91,USD,100,1,5,2018-05-09,191.00,1
+208,Fruit Paradise,Grapefruit,1.36,USD,120,0,0,2018-07-01,163.20,1
+210,Exotic Taste,Blueberry,1.91,USD,750,1,8,2018-07-02,1432.50,1
+27,Health Mag,Lemon,.26,USD,300,0,0,2018-01-24,78.00,1
+342,Tasty Fruits,Goji berry,.51,USD,800,1,9,2018-11-11,408.00,1
+269,Exotic Taste,Coconut,2.91,USD,750,1,1,2018-09-05,2182.50,1
+38,Tasty Fruits,Grape,2.01,USD,40,1,9,2018-01-30,80.40,1
+41,eFruits,Blueberry,1.91,USD,1000,0,0,2018-02-06,1910.00,1
+155,Fruit Mag,Goji berry,.51,USD,1000,0,0,2018-05-14,510.00,1
+53,Tasty Fruits,Kiwi,1.31,USD,240,1,9,2018-02-15,314.40,1
+347,Fruity Loops,Cranberry,1.01,USD,200,0,0,2018-11-14,202.00,1
+377,World of Fruits,Grape,2.01,USD,80,0,0,2018-12-15,160.80,1
+179,Fruit Mania,Blueberry,1.91,USD,750,0,0,2018-06-06,1432.50,1
+361,VitaFruit,Blackberry,1.91,USD,1200,0,0,2018-12-01,2292.00,1
+245,Healthy Choices,Cherry,3.41,USD,240,0,0,2018-08-09,818.40,1
+134,World of Fruits,Watermelon,.26,USD,20,0,0,2018-04-28,5.20,1
+67,eFruits,Coconut,2.91,USD,1000,1,6,2018-02-28,2910.00,1
+178,Fruit Paradise,Grape,2.01,USD,200,0,0,2018-06-03,402.00,1
+88,Tasty Fruits,Kiwi,1.31,USD,750,1,9,2018-03-22,982.50,1
+124,VitaFruit,Apple,1.91,USD,1500,0,0,2018-04-19,2865.00,1
+376,Exotic Taste,Watermelon,.26,USD,40,1,5,2018-12-14,10.40,1
+192,eShop,Blueberry,1.91,USD,20,1,7,2018-06-13,38.20,1
+304,Healthy Choices,Fig,1.56,USD,200,1,1,2018-10-11,312.00,1
+387,Fruity Loops,Cranberry,1.01,USD,750,1,3,2018-12-19,757.50,1
+82,Healthy Choices,Kiwi,1.31,USD,50,0,0,2018-03-15,65.50,1
+56,eShop,Blackberry,1.91,USD,500,0,0,2018-02-19,955.00,1
+368,eFruits,Kiwi,1.31,USD,40,1,9,2018-12-05,52.40,1
+303,eShop,Peach,1.91,USD,800,1,3,2018-10-10,1528.00,1
+201,Exotic Taste,Date,1.26,USD,40,0,0,2018-06-26,50.40,1
+136,Exotic Taste,Strawberry,3.06,USD,1500,1,8,2018-04-29,4590.00,1
+68,Fruit Shop,Strawberry,3.06,USD,25,1,8,2018-02-28,76.50,1
+113,Tasty Fruits,Nectarine,.51,USD,500,1,2,2018-04-12,255.00,1
+241,Fruit Mag,Mango,1.76,USD,240,0,0,2018-08-05,422.40,1
+96,Fruity Loops,Coconut,2.91,USD,50,1,6,2018-03-25,145.50,1
+5,Fruit Shop,Watermelon,.26,USD,50,0,0,2018-01-04,13.00,1
+158,Nutty Nuts,Kiwi,1.31,USD,25,0,0,2018-05-17,32.75,1
+47,Nutty Nuts,Plum,1.11,USD,120,0,0,2018-02-11,133.20,1
+258,World of Fruits,Avocado,2.91,USD,1500,1,1,2018-08-26,4365.00,1
+346,eFruits,Papaya,3.26,USD,500,0,0,2018-11-13,1630.00,1
+209,Exotic Taste,Cherry,3.41,USD,300,0,0,2018-07-01,1023.00,1
+114,Every Fruit,Coconut,2.91,USD,50,1,7,2018-04-12,145.50,1
+319,Fruity Loops,Avocado,2.91,USD,40,1,4,2018-10-18,116.40,1
+6,Fruit Shop,Cherry,3.41,USD,100,1,9,2018-01-05,341.00,1
+35,Fruit Mag,Watermelon,.26,USD,20,0,0,2018-01-28,5.20,1
+30,Fruit Paradise,Mango,1.76,USD,120,0,0,2018-01-26,211.20,1
+195,Nutty Nuts,Pineapple,4.16,USD,300,1,2,2018-06-19,1248.00,1
+57,World of Fruits,Blackberry,1.91,USD,800,1,2,2018-02-21,1528.00,1
+338,Every Fruit,Raspberry,1.96,USD,1000,0,0,2018-11-08,1960.00,1
+174,Fruit Mag,Kiwi,1.31,USD,50,1,2,2018-05-31,65.50,1
+340,Health Mag,Watermelon,.26,USD,50,1,7,2018-11-11,13.00,1
+378,World of Fruits,Cranberry,1.01,USD,75,1,2,2018-12-15,75.75,1
+224,Fruit Mania,Orange,.76,USD,300,1,8,2018-07-19,228.00,1
+77,Tasty Fruits,Apricot,1.46,USD,20,0,0,2018-03-09,29.20,1
+133,Tasty Fruits,Avocado,2.91,USD,250,0,0,2018-04-27,727.50,1
+325,Fruit Mag,Raspberry,1.96,USD,100,1,9,2018-10-25,196.00,1
+379,Fruit Mania,Mango,1.76,USD,300,0,0,2018-12-15,528.00,1
+216,eShop,Cranberry,1.01,USD,120,1,5,2018-07-09,121.20,1
+119,Every Fruit,Pomelo,1.11,USD,500,0,0,2018-04-15,555.00,1
+351,Tasty Fruits,Orange,.76,USD,300,1,10,2018-11-22,228.00,1
+172,Fruit Shop,Watermelon,.26,USD,240,0,0,2018-05-29,62.40,1
+229,Fruit Paradise,Watermelon,.26,USD,50,1,3,2018-07-21,13.00,1
+39,VitaFruit,Papaya,3.26,USD,100,1,2,2018-01-30,326.00,1
+322,Healthy Choices,Blackcurrant,2.41,USD,600,1,2,2018-10-22,1446.00,1
+36,Tasty Fruits,Kiwi,1.31,USD,600,1,3,2018-01-28,786.00,1
+199,VitaFruit,Raspberry,1.96,USD,25,1,7,2018-06-25,49.00,1
+181,Health Mag,Apricot,1.46,USD,300,0,0,2018-06-07,438.00,1
+267,World of Fruits,Date,1.26,USD,200,0,0,2018-09-02,252.00,1
+234,Nutty Nuts,Raspberry,1.96,USD,1500,1,8,2018-07-28,2940.00,1
+198,World of Fruits,Goji berry,.51,USD,200,0,0,2018-06-24,102.00,1
+20,Healthy Choices,Raspberry,1.96,USD,40,0,0,2018-01-19,78.40,1
+167,Fruit Paradise,Banana,1.71,USD,300,1,9,2018-05-26,513.00,1
+103,Fruit Paradise,Blackcurrant,2.41,USD,600,1,9,2018-03-31,1446.00,1
+272,eFruits,Peach,1.91,USD,80,0,0,2018-09-06,152.80,1
+162,Every Fruit,Blueberry,1.91,USD,120,1,8,2018-05-19,229.20,1
+19,eShop,Watermelon,.26,USD,100,1,10,2018-01-18,26.00,1
+145,Fruit Mania,Peach,1.91,USD,100,0,0,2018-05-07,191.00,1
+97,Health Mag,Orange,.76,USD,1000,1,9,2018-03-26,760.00,1
+339,Fruit Mag,Apricot,1.46,USD,80,1,6,2018-11-09,116.80,1
+48,eFruits,Pineapple,4.16,USD,25,0,0,2018-02-12,104.00,1
+26,Healthy Choices,Avocado,2.91,USD,250,0,0,2018-01-24,727.50,1
+215,Fruity Loops,Mango,1.76,USD,800,1,5,2018-07-08,1408.00,1
+323,World of Fruits,Raspberry,1.96,USD,120,0,0,2018-10-23,235.20,1
+95,Health Mag,Blueberry,1.91,USD,240,1,6,2018-03-25,458.40,1
+59,Fruit Shop,Goji berry,.51,USD,600,0,0,2018-02-22,306.00,1
+255,Exotic Taste,Pomelo,1.11,USD,1000,1,2,2018-08-18,1110.00,1
+86,Fruity Loops,Papaya,3.26,USD,25,1,4,2018-03-19,81.50,1
+203,Tasty Fruits,Pineapple,4.16,USD,1000,0,0,2018-06-28,4160.00,1
+416,Healthy Choices,Pomelo,1.11,USD,40,1,2,2018-12-23,44.40,1
+318,Fruit Paradise,Blackcurrant,2.41,USD,100,0,0,2018-10-18,241.00,1
+313,Fruit Shop,Cherry,3.41,USD,1000,1,10,2018-10-16,3410.00,1
+25,Tasty Fruits,Grape,2.01,USD,1500,1,6,2018-01-23,3015.00,1
+388,Exotic Taste,Pear,2.26,USD,120,0,0,2018-12-19,271.20,1
+43,Nutty Nuts,Papaya,3.26,USD,75,0,0,2018-02-07,244.50,1
+120,Healthy Choices,Grape,2.01,USD,80,0,0,2018-04-16,160.80,1
+352,Fruit Shop,Mango,1.76,USD,40,0,0,2018-11-22,70.40,1
+259,Fruit Paradise,Grapefruit,1.36,USD,750,1,3,2018-08-27,1020.00,1
+329,Fruit Shop,Plum,1.11,USD,300,1,7,2018-10-28,333.00,1
+297,Healthy Choices,Pomelo,1.11,USD,1500,0,0,2018-10-05,1665.00,1
+72,eShop,Grapefruit,1.36,USD,300,1,6,2018-03-05,408.00,1
+166,World of Fruits,Peach,1.91,USD,250,0,0,2018-05-25,477.50,1
+309,Fruit Mag,Cherry,3.41,USD,50,0,0,2018-10-13,170.50,1
+362,Every Fruit,Apricot,1.46,USD,200,1,6,2018-12-01,292.00,1
+63,Nutty Nuts,Pomelo,1.11,USD,120,0,0,2018-02-25,133.20,1
+60,Fruit Paradise,Cherry,3.41,USD,750,0,0,2018-02-22,2557.50,1
+326,Fruity Loops,Banana,1.71,USD,1500,1,9,2018-10-27,2565.00,1
+301,eFruits,Mango,1.76,USD,300,1,1,2018-10-08,528.00,1
+4,Fruit Mania,Apricot,1.46,USD,300,0,0,2018-01-02,438.00,1
+273,Health Mag,Banana,1.71,USD,75,1,1,2018-09-06,128.25,1
+278,eShop,Avocado,2.91,USD,1200,1,4,2018-09-10,3492.00,1
+69,Fruit Shop,Blackberry,1.91,USD,750,0,0,2018-03-01,1432.50,1
+389,Every Fruit,Kiwi,1.31,USD,750,0,0,2018-12-20,982.50,1
+300,eShop,Strawberry,3.06,USD,100,1,6,2018-10-08,306.00,1
+369,Tasty Fruits,Mango,1.76,USD,600,0,0,2018-12-06,1056.00,1
+31,VitaFruit,Orange,.76,USD,1000,1,6,2018-01-26,760.00,1
+298,Fruit Mania,Cranberry,1.01,USD,25,0,0,2018-10-06,25.25,1
+104,Fruit Mania,Apricot,1.46,USD,25,1,3,2018-04-01,36.50,1
+310,eShop,Strawberry,3.06,USD,1200,0,0,2018-10-14,3672.00,1
+366,Tasty Fruits,Peach,1.91,USD,50,0,0,2018-12-03,95.50,1
+261,Fruity Loops,Peach,1.91,USD,25,0,0,2018-08-28,47.75,1
+112,Fruit Mania,Blackberry,1.91,USD,1000,1,1,2018-04-11,1910.00,1
+18,World of Fruits,Blueberry,1.91,USD,20,1,4,2018-01-16,38.20,1
+157,Exotic Taste,Peach,1.91,USD,1200,0,0,2018-05-15,2292.00,1
+135,Exotic Taste,Orange,.76,USD,1200,0,0,2018-04-28,912.00,1
+74,Tasty Fruits,Blackberry,1.91,USD,40,1,5,2018-03-07,76.40,1
+232,Fruity Loops,Pear,2.26,USD,1200,1,7,2018-07-24,2712.00,1
+143,Fruit Mania,Blackberry,1.91,USD,1200,1,10,2018-05-03,2292.00,1
+93,eShop,Pear,2.26,USD,120,0,0,2018-03-23,271.20,1
+173,Exotic Taste,Goji berry,.51,USD,20,1,6,2018-05-29,10.20,1
+132,Fruity Loops,Grapefruit,1.36,USD,750,1,4,2018-04-27,1020.00,1
+439,eFruits,Date,1.26,USD,50,0,0,2018-12-25,63.00,1
+12,eShop,Grapefruit,1.36,USD,75,0,0,2018-01-10,102.00,1
+438,Healthy Choices,Cherry,3.41,USD,80,0,0,2018-12-25,272.80,0
+410,World of Fruits,Fig,1.56,USD,100,1,2,2018-12-22,156.00,0
+454,VitaFruit,Grape,2.01,USD,1000,1,3,2018-12-26,2010.00,0
+390,Healthy Choices,Apricot,1.46,USD,120,1,1,2018-12-21,175.20,0
+461,Exotic Taste,Pineapple,4.16,USD,200,0,0,2018-12-27,832.00,0
+482,Fruit Paradise,Orange,.76,USD,800,0,0,2018-12-29,608.00,0
+413,Fruit Mag,Goji berry,.51,USD,25,1,3,2018-12-23,12.75,0
+437,VitaFruit,Blackberry,1.91,USD,1200,0,0,2018-12-25,2292.00,0
+412,Tasty Fruits,Nectarine,.51,USD,750,0,0,2018-12-23,382.50,0
+409,eShop,Kiwi,1.31,USD,1000,0,0,2018-12-22,1310.00,0
+411,Fruit Paradise,Fig,1.56,USD,1200,1,9,2018-12-23,1872.00,0
+462,Every Fruit,Cherry,3.41,USD,800,0,0,2018-12-27,2728.00,0
+436,Tasty Fruits,Pineapple,4.16,USD,20,0,0,2018-12-25,83.20,0
+460,World of Fruits,Plum,1.11,USD,75,0,0,2018-12-27,83.25,0
+496,Exotic Taste,Nectarine,.51,USD,50,0,0,2018-12-31,25.50,0
+391,Fruit Mag,Banana,1.71,USD,600,0,0,2018-12-21,1026.00,0
+408,Exotic Taste,Coconut,2.91,USD,500,0,0,2018-12-22,1455.00,0
+455,Exotic Taste,Coconut,2.91,USD,100,0,0,2018-12-26,291.00,0
+435,Every Fruit,Blackberry,1.91,USD,50,0,0,2018-12-25,95.50,0
+497,eShop,Strawberry,3.06,USD,80,0,0,2018-12-31,244.80,0
+481,Exotic Taste,Kiwi,1.31,USD,40,1,9,2018-12-29,52.40,0
+414,Tasty Fruits,Orange,.76,USD,20,0,0,2018-12-23,15.20,0
+456,eShop,Grape,2.01,USD,300,1,4,2018-12-26,603.00,0
+415,Fruit Mag,Raspberry,1.96,USD,50,0,0,2018-12-23,98.00,0
+434,Fruit Shop,Avocado,2.91,USD,75,1,10,2018-12-24,218.25,0
+392,World of Fruits,Strawberry,3.06,USD,300,1,1,2018-12-21,918.00,0
+494,Fruit Mania,Avocado,2.91,USD,200,0,0,2018-12-30,582.00,0
+457,Health Mag,Watermelon,.26,USD,200,1,1,2018-12-26,52.00,0
+417,Health Mag,Grape,2.01,USD,250,1,9,2018-12-23,502.50,0
+393,Every Fruit,Goji berry,.51,USD,120,0,0,2018-12-21,61.20,0
+479,eShop,Cherry,3.41,USD,300,0,0,2018-12-28,1023.00,0
+493,Fruit Paradise,Apple,1.91,USD,20,1,5,2018-12-30,38.20,0
+451,Fruit Paradise,Grape,2.01,USD,300,0,0,2018-12-26,603.00,0
+478,Nutty Nuts,Blackberry,1.91,USD,80,1,8,2018-12-28,152.80,0
+443,Tasty Fruits,Coconut,2.91,USD,1200,1,8,2018-12-25,3492.00,0
+407,Fruit Mania,Peach,1.91,USD,25,1,1,2018-12-22,47.75,0
+483,Nutty Nuts,Watermelon,.26,USD,1000,1,2,2018-12-29,260.00,0
+498,VitaFruit,Grape,2.01,USD,200,1,8,2018-12-31,402.00,0
+452,Fruit Mania,Strawberry,3.06,USD,200,1,8,2018-12-26,612.00,0
+444,Fruit Shop,Blueberry,1.91,USD,250,0,0,2018-12-25,477.50,0
+445,Exotic Taste,Raspberry,1.96,USD,100,0,0,2018-12-25,196.00,0
+394,World of Fruits,Cherry,3.41,USD,240,0,0,2018-12-21,818.40,0
+475,World of Fruits,Papaya,3.26,USD,120,0,0,2018-12-28,391.20,0
+476,Tasty Fruits,Apple,1.91,USD,1200,0,0,2018-12-28,2292.00,0
+477,Tasty Fruits,Blackberry,1.91,USD,75,1,4,2018-12-28,143.25,0
+395,eShop,Apricot,1.46,USD,120,1,8,2018-12-21,175.20,0
+418,Exotic Taste,Apricot,1.46,USD,25,1,2,2018-12-23,36.50,0
+464,Nutty Nuts,Peach,1.91,USD,75,1,6,2018-12-27,143.25,0
+492,Fruit Mania,Date,1.26,USD,750,0,0,2018-12-30,945.00,0
+484,eShop,Papaya,3.26,USD,50,1,3,2018-12-29,163.00,0
+491,Healthy Choices,Lemon,.26,USD,50,0,0,2018-12-30,13.00,0
+453,Fruit Paradise,Fig,1.56,USD,25,1,9,2018-12-26,39.00,0
+396,Fruit Mag,Goji berry,.51,USD,750,0,0,2018-12-21,382.50,0
+406,Nutty Nuts,Coconut,2.91,USD,750,0,0,2018-12-22,2182.50,0
+433,eFruits,Date,1.26,USD,750,0,0,2018-12-24,945.00,0
+463,VitaFruit,Banana,1.71,USD,250,1,4,2018-12-27,427.50,0
+431,VitaFruit,Date,1.26,USD,800,1,4,2018-12-24,1008.00,0
+442,Fruit Mag,Strawberry,3.06,USD,40,1,4,2018-12-25,122.40,0
+419,Health Mag,Mango,1.76,USD,120,1,9,2018-12-23,211.20,0
+420,Fruit Paradise,Pear,2.26,USD,600,0,0,2018-12-23,1356.00,0
+432,Nutty Nuts,Mango,1.76,USD,250,0,0,2018-12-24,440.00,0
+440,Fruit Paradise,Banana,1.71,USD,750,0,0,2018-12-25,1282.50,0
+441,Fruit Mania,Cherry,3.41,USD,750,0,0,2018-12-25,2557.50,0
+421,Fruity Loops,Avocado,2.91,USD,75,0,0,2018-12-23,218.25,0
+422,Exotic Taste,Peach,1.91,USD,300,1,10,2018-12-23,573.00,0
+499,Fruit Paradise,Fig,1.56,USD,25,1,6,2018-12-31,39.00,0
+423,World of Fruits,Cherry,3.41,USD,500,0,0,2018-12-23,1705.00,0
+467,Fruit Mag,Mango,1.76,USD,500,1,3,2018-12-27,880.00,0
+485,eShop,Lemon,.26,USD,40,1,1,2018-12-29,10.40,0
+446,Tasty Fruits,Papaya,3.26,USD,100,0,0,2018-12-25,326.00,0
+447,Fruit Mag,Grapefruit,1.36,USD,40,1,1,2018-12-25,54.40,0
+404,Health Mag,Pomelo,1.11,USD,800,1,9,2018-12-22,888.00,0
+397,Every Fruit,Coconut,2.91,USD,200,0,0,2018-12-21,582.00,0
+474,Fruit Mania,Banana,1.71,USD,200,0,0,2018-12-28,342.00,0
+398,Fruit Mag,Papaya,3.26,USD,120,1,6,2018-12-21,391.20,0
+490,Fruit Shop,Blueberry,1.91,USD,20,0,0,2018-12-30,38.20,0
+487,eShop,Kiwi,1.31,USD,500,0,0,2018-12-29,655.00,0
+465,Health Mag,Plum,1.11,USD,300,0,0,2018-12-27,333.00,0
+450,eShop,Blackberry,1.91,USD,600,1,10,2018-12-26,1146.00,0
+486,Every Fruit,Papaya,3.26,USD,1200,0,0,2018-12-29,3912.00,0
+466,Nutty Nuts,Apple,1.91,USD,240,0,0,2018-12-27,458.40,0
+428,Exotic Taste,Banana,1.71,USD,25,0,0,2018-12-24,42.75,0
+405,eFruits,Peach,1.91,USD,500,1,4,2018-12-22,955.00,0
+430,eFruits,Fig,1.56,USD,240,0,0,2018-12-24,374.40,0
+489,Fruit Mania,Pineapple,4.16,USD,600,1,1,2018-12-30,2496.00,0
+448,Fruit Mag,Lemon,.26,USD,800,1,7,2018-12-25,208.00,0
+469,Fruity Loops,Pineapple,4.16,USD,1200,0,0,2018-12-27,4992.00,0
+470,eShop,Cranberry,1.01,USD,40,0,0,2018-12-27,40.40,0
+399,Health Mag,Papaya,3.26,USD,500,0,0,2018-12-21,1630.00,0
+429,Fruit Mania,Grapefruit,1.36,USD,800,1,3,2018-12-24,1088.00,0
+425,Fruity Loops,Apple,1.91,USD,600,0,0,2018-12-23,1146.00,0
+500,World of Fruits,Raspberry,1.96,USD,600,1,2,2018-12-31,1176.00,0
+488,Fruit Mag,Strawberry,3.06,USD,120,1,6,2018-12-29,367.20,0
+449,Healthy Choices,Strawberry,3.06,USD,25,0,0,2018-12-25,76.50,0
+472,Fruity Loops,Watermelon,.26,USD,300,1,1,2018-12-28,78.00,0
+424,eFruits,Grapefruit,1.36,USD,500,1,8,2018-12-23,680.00,0
+473,World of Fruits,Plum,1.11,USD,120,0,0,2018-12-28,133.20,0
+403,Nutty Nuts,Cherry,3.41,USD,80,0,0,2018-12-22,272.80,0
+468,Health Mag,Banana,1.71,USD,240,1,9,2018-12-27,410.40,0
+471,Fruit Mania,Strawberry,3.06,USD,120,0,0,2018-12-28,367.20,0
