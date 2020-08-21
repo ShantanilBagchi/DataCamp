@@ -72,16 +72,16 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 # Data Analyst with SQL Server
 | Course | Slides | Dataset | Notes| Solutions |
 | ------------- |:-------------:| :-----:| :-----:| :-----:|
-| Introduction to SQL Server | - | - | - | - |
+| Introduction to SQL Server | - | - | - | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Solutions.md) |
 | Introduction to Relational Databases in SQL | - | - | - | - |
 | Intermediate SQL Server | - | - | - | - |
 | Time Series Analysis in SQL Server | - | - | - | - |
 | Functions for Manipulating Data in SQL Server | - | - | - | - |
-| Database Design | - | - | - | - |
+| Database Design | - | - | - | [link](SQL%20Courses/Database%20Design/Solutions.md) |
 | Hierarchical and Recursive Queries in SQL Server | - | - | - | - |
 | Transactions and Error Handling in SQL Server | - | - | - | - |
 | Writing Functions and Stored Procedures in SQL Server | - | - | - | - |
-| Building and Optimizing Triggers in SQL Server | - | - | - | [link](https://github.com/ShantanilBagchi/DataCamp/blob/master/SQL%20Courses/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/Solutions.md) |
+| Building and Optimizing Triggers in SQL Server | - | - | - | [link](SQL%20Courses/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/Solutions.md) |
 | Improving Query Performance in SQL Server | - | - | - | - |
 
 
