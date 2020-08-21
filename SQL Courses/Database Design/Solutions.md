@@ -5,13 +5,15 @@ You should now be familiar with the differences between OLTP and OLAP. In this e
 
 - [x] Categorize the cards into the approach that they describe best.
 
-OLAP- Queries a larger amount of data
-Help businesses with decision making and problem solving
-Typically uses a data warehouse
+OLAP- 
+* Queries a larger amount of data
+* Help businesses with decision making and problem solving
+* Typically uses a data warehouse
 
-OLTP- Data is inserted and updated more often
-Most likely to have data from past hour
-Typically uses an operational database
+OLTP- 
+* Data is inserted and updated more often
+* Most likely to have data from past hour
+* Typically uses an operational database
 
 
 ## Which is better?
