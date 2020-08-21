@@ -81,7 +81,7 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 | Hierarchical and Recursive Queries in SQL Server | - | - | - | - |
 | Transactions and Error Handling in SQL Server | - | - | - | - |
 | Writing Functions and Stored Procedures in SQL Server | - | - | - | - |
-| Building and Optimizing Triggers in SQL Server | - | - | - | - |
+| Building and Optimizing Triggers in SQL Server | - | - | - | [link](https://github.com/ShantanilBagchi/DataCamp/blob/master/SQL%20Courses/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/Solutions.md) |
 | Improving Query Performance in SQL Server | - | - | - | - |
 
 
