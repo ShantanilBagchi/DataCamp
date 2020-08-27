@@ -25,7 +25,7 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 | PROJECT The GitHub History of the Scala Language | - | - | - | - |
 | Introduction to Data Visualization with Matplotlib | - | - | - | - |
 | Introduction to Data Visualization with Seaborn | - | - | - | - |
-| Python Data Science Toolbox (Part 1) | - | - | - | - |
+| Python Data Science Toolbox (Part 1) | - | - | [link](Python%20Courses/Python%20Data%20Science%20Toolbox%20(Part%201)/python_data_science_toolbox_part_1.ipynb) | - |
 | Python Data Science Toolbox (Part 2) | - | - | - | - |
 | Intermediate Data Visualization with Seaborn | - | - | - | - |
 | PROJECT A Visual History of Nobel Prize Winners | - | - | - | - |
