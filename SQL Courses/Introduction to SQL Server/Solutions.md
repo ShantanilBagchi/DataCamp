@@ -258,6 +258,13 @@ WHERE
 ```
 <hr>
 
+### Notes 3:
+* We can use `AND` and `OR` along with `WHERE` to improve the results and use multiple clauses for querying.
+* We have seen `BETWEEN` to find values between some range. If the values that we want are not in order or range, we can use `IN` to specify the items to search over.
+`WHERE ____ IN (__,__,__,__)`.
+* We can also use `LIKE` to specify wildcard searches like `WHERE ___ LIKE 'a%'`.
+
+<hr>
 
 ## Exploring classic rock songs
 It's time to rock and roll! In this set of exercises, you'll use the songlist table, which contains songs featured on the playlists of 25 classic rock radio stations.
@@ -290,7 +297,6 @@ FROM
 WHERE
   release_year IS NOT NULL;
 ```
-
 
 - [x] Order the results by artist and release_year.
 
