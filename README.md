@@ -72,7 +72,7 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 # Data Analyst with SQL Server
 | Course | Notes| Solutions |
 | ------------- |:-----:| :-----:|
-| [Introduction to SQL Server](SQL%20Courses/Introduction%20to%20SQL%20Server) | - | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Solutions.md) |
+| [Introduction to SQL Server](SQL%20Courses/Introduction%20to%20SQL%20Server) | - | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Readme.md) |
 | [Introduction to Relational Databases in SQL](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL) | - | - |
 | [Intermediate SQL Server](SQL%20Courses/Intermediate%20SQL%20Server) | - | - |
 | [Time Series Analysis in SQL Server](SQL%20Courses/Time%20Series%20Analysis%20in%20SQL%20Server) | - | - |
