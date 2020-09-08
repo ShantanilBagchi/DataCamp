@@ -1,8 +1,23 @@
 # Introduction to SQL Server
 
+### Notes 1:
+* SQL stands for `Structured Query Language` which is used to work with databases.
+* `SQL Server` and `T-SQL` (Transact-SQL) are both `RDMS` (Relational Database Management System) with the later having additional functionality.
+* SQL-Server stores data in the form of tables and connections. We can't directly access the whole data so we use `queries` to fetch the appropriate data.
+* `SELECT` statement specifies what we want to retrieve from the table.
+* `FROM` specifies the location of the source table.
+* Always end a query with a `;`.
+* Use `TOP` to limit the number of rows returned. We can also specify percentage of rows using `TOP (5) PERCENT`.
+* Use `SELECT DISTINCT` to return a list of unique values from a column.
+* Use `SELECT *` to return all the rows of a column. (Not recommended for large tables).
+* Use rename or Alias to make results more meaningful. `SELECT ___ AS ___`.
+
+**Note**- Try to reserve Upper Case for the inbuilt keywords and Lower Case for table and column names. That makes it easier to read.
+<hr>
+
 ## Simple selections
 
-It's time to begin writing your own queries! In this first coding exercise, you will use `SELECT` statements to retrieve columns from a database table. 
+It's time to begin writing your own queries! In this first coding exercise, you will use `SELECT` statements to retrieve columns from a database table.
 You'll be working with the `eurovision` table, which contains data relating to individual country performance at the Eurovision Song Contest from 1998 to 2012.
 
 After selecting columns, you'll also practice renaming columns, and limiting the number of rows returned.
@@ -21,18 +36,19 @@ FROM
 
 ```sql
 -- Select the points column
-SELECT 
-  points 
-FROM 
+SELECT
+  points
+FROM
   eurovision;
 ```  
 
 - [x] Use `TOP` to change the existing query so that only the first 50 rows are returned.
+
 ```sql
 -- Limit the number of rows returned
-SELECT 
-  TOP (50) points 
-FROM 
+SELECT
+  TOP (50) points
+FROM
   eurovision;
 ```
 
@@ -40,9 +56,9 @@ FROM
 
 ```sql
 -- Return unique countries and use an alias
-SELECT 
-  DISTINCT country AS unique_country 
-FROM 
+SELECT
+  DISTINCT country AS unique_country
+FROM
   eurovision;
 ```
 <hr>
@@ -52,68 +68,81 @@ Now that you've practiced how to select one column at a time, it's time to pract
 
 - [x] SELECT the country and event_year columns from the eurovision table.
 
+```sql
+-- Select country and event_year from eurovision
+SELECT
+  country,
+  event_year
+FROM
+  eurovision;
+```
+
 - [x] Use a shortcut to amend the current query, returning ALL rows from ALL columns in the table.
+
+```sql
+-- Amend the code to select all rows and columns
+SELECT
+*
+FROM
+  eurovision;
+```
 
 - [x] Return all columns, but only include the top half of the table - in other words, return 50 percent of the rows.
 
 ```sql
--- Select country and event_year from eurovision
-SELECT
-  country, 
-  event_year 
-FROM 
-  eurovision;
-```
-
-```sql
--- Amend the code to select all rows and columns
-SELECT 
-* 
-FROM 
-  eurovision;
-```
-```sql
 -- Return all columns, restricting the percent of rows returned
-SELECT 
-  TOP (50) PERCENT * 
-FROM 
+SELECT
+  TOP (50) PERCENT *
+FROM
   eurovision;
 ```
 <hr>
 
+### Notes 2:
+* Queries return sets or subsets from the table but sets have no inherent order. So there's no guarantee that it will return the same query every time. However, we can make it happen using `ORDER BY`. Add `DESC` for showing a particular column in descending order. Default behavior is Ascending.
+
+* If we only wanted to return rows that meet certain criteria, we can use `WHERE` to query specific result. We can use `BETWEEN` to return value in a range. Use `<>` for 'not equals to'.
+
+* `NULL` indicates there is no value for that record. It is useful to know how to retrieve NULLS using `IS NULL` and `IS NOT NULL`.
+
+**Note-** We can order by columns that don't appear in the SELECT part of the query too.
+
+<hr>
+
 ## Order by
-In this exercise, you'll practice the use of ORDER BY using the grid dataset. It's loaded and waiting for you! 
+In this exercise, you'll practice the use of ORDER BY using the grid dataset. It's loaded and waiting for you!
 It contains a subset of wider publicly available information on US power outages.
 
 Some of the main columns include:
 
-* description: The reason/ cause of the outage.
-* nerc_region: The North American Electricity Reliability Corporation was formed to ensure the reliability of the grid and comprises several regional entities).
-* demand_loss_mw: How much energy was not transmitted/consumed during the outage.
+* `description`: The reason/ cause of the outage.
+* `nerc_region`: The North American Electricity Reliability Corporation was formed to ensure the reliability of the grid and comprises several regional entities).
+* `demand_loss_mw`: How much energy was not transmitted/consumed during the outage.
 
 - [x] Select description and event_date from grid. Your query should return the first 5 rows, ordered by event_date.
+
+```sql
+-- Select the first 5 rows from the specified columns
+SELECT
+  TOP (5) description,
+  event_date
+FROM
+  grid
+  -- Order your results by the event_date column
+ORDER BY
+  event_date;
+```
 
 - [x] Modify your code based on the comments provided on the right.
 
 ```sql
--- Select the first 5 rows from the specified columns
-SELECT 
-  TOP (5) description, 
-  event_date 
-FROM 
-  grid 
-  -- Order your results by the event_date column
-ORDER BY 
-  event_date;
-```
-```sql
 -- Select the top 20 rows from description, nerc_region and event_date
-SELECT 
+SELECT
   TOP (20) description,
   nerc_region,
   event_date
-FROM 
-  grid 
+FROM
+  grid
   -- Order by nerc_region, affected_customers & event_date
   -- Event_date should be in descending order
 ORDER BY
@@ -133,13 +162,13 @@ The WHERE clause is essential for selecting, updating (and deleting!) data from 
 
 ```sql
 -- Select description and event_year
-SELECT 
-  description, 
+SELECT
+  description,
   event_year
-FROM 
-  grid 
+FROM
+  grid
   -- Filter the results
-WHERE 
+WHERE
   description = 'Vandalism';
 ```
 <hr>
@@ -151,48 +180,48 @@ In this course, dates are always represented in the YYYY-MM-DD format (Year-Mont
 
 - [x] Select the nerc_region and demand_loss_mw columns, limiting the results to those where affected_customers is greater than or equal to 500000.
 
+```sql
+-- Select nerc_region and demand_loss_mw
+SELECT
+  nerc_region,
+  demand_loss_mw
+FROM
+  grid
+-- Retrieve rows where affected_customers is >= 500000  
+WHERE
+  affected_customers>=500000;
+```
+
 - [x] Update your code to select description and affected_customers, returning records where the event_date was the 22nd December, 2013.
+
+```sql
+-- Select description and affected customers
+SELECT
+  description,
+  affected_customers
+FROM
+  grid
+  -- Retrieve rows where the event_date was the 22nd December, 2013    
+WHERE
+  event_date='2013-12-22';
+```
 
 - [x] Limit the results to those where the affected_customers is BETWEEN 50000 and 150000, and order in descending order of event_date.
 
 ```sql
--- Select nerc_region and demand_loss_mw
-SELECT 
-  nerc_region, 
-  demand_loss_mw 
-FROM 
-  grid 
--- Retrieve rows where affected_customers is >= 500000  
-WHERE 
-  affected_customers>=500000;
-```
-
-```sql
--- Select description and affected customers
-SELECT 
-  description,
-  affected_customers
-FROM 
-  grid 
-  -- Retrieve rows where the event_date was the 22nd December, 2013    
-WHERE 
-  event_date='2013-12-22';
-```
-
-```sql
 -- Select description, affected_customers and event date
-SELECT 
-  description, 
+SELECT
+  description,
   affected_customers,
   event_date
-FROM 
-  grid 
+FROM
+  grid
   -- The affected_customers column should be >= 50000 and <=150000   
-WHERE 
+WHERE
   affected_customers BETWEEN 50000
-  AND 150000 
+  AND 150000
    -- Define the order   
-ORDER by 
+ORDER by
   event_date DESC;
 ```
 <hr>
@@ -204,28 +233,31 @@ In this exercise, you'll practice filtering for NULL values, excluding them from
 
 - [x] Use a shortcut to select all columns from grid. Then filter the results to only include rows where demand_loss_mw is unknown or missing.
 
-- [x] Adapt your code to return rows where demand_loss_mw is not unknown or missing.
+```sql
+-- Retrieve all columns
+SELECT
+  *
+FROM
+  grid
+  -- Return only rows where demand_loss_mw is missing or unknown  
+WHERE
+  demand_loss_mw is NULL;
+```
+
+- [x] Adapt your code to return rows where demand_loss_mw is not unknown or missing
 
 ```sql
 -- Retrieve all columns
-SELECT 
+SELECT
   *
-FROM 
-  grid 
-  -- Return only rows where demand_loss_mw is missing or unknown  
-WHERE 
-  demand_loss_mw is NULL;
-
--- Retrieve all columns
-SELECT 
-  * 
-FROM 
-  grid 
+FROM
+  grid
   -- Return rows where demand_loss_mw is not missing or unknown   
-WHERE 
+WHERE
   demand_loss_mw IS NOT NULL;
 ```
 <hr>
+
 
 ## Exploring classic rock songs
 It's time to rock and roll! In this set of exercises, you'll use the songlist table, which contains songs featured on the playlists of 25 classic rock radio stations.
@@ -248,33 +280,34 @@ FROM
 
 ```sql
 -- Retrieve the song, artist and release_year columns
-SELECT 
-  song, 
-  artist, 
-  release_year 
-FROM 
-  songlist 
+SELECT
+  song,
+  artist,
+  release_year
+FROM
+  songlist
   -- Ensure there are no missing or unknown values in the release_year column
-WHERE 
-  release_year IS NOT NULL; 
+WHERE
+  release_year IS NOT NULL;
 ```
 
 
 - [x] Order the results by artist and release_year.
+
 ```sql
 -- Retrieve the song,artist and release_year columns
-SELECT 
-  song, 
-  artist, 
-  release_year 
-FROM 
-  songlist 
+SELECT
+  song,
+  artist,
+  release_year
+FROM
+  songlist
   -- Ensure there are no missing or unknown values in the release_year column
-WHERE 
-  release_year IS NOT NULL 
+WHERE
+  release_year IS NOT NULL
   -- Arrange the results by the artist and release_year columns
-ORDER BY 
-  artist, 
+ORDER BY
+  artist,
   release_year;
 ```
 
@@ -286,38 +319,38 @@ Having familiarized yourself with the songlist table, you'll now extend your WHE
 - [x] Extend the WHERE clause so that the results are those with a release_year greater than or equal to 1980 and less than or equal to 1990.
 
 ```sql
-SELECT 
-  song, 
-  artist, 
+SELECT
+  song,
+  artist,
   release_year
-FROM 
-  songlist 
-WHERE 
+FROM
+  songlist
+WHERE
   -- Retrieve records greater than and including 1980
-  release_year >= 1980 
+  release_year >= 1980
   -- Also retrieve records up to and including 1990
-  AND release_year <=1990 
-ORDER BY 
-  artist, 
+  AND release_year <=1990
+ORDER BY
+  artist,
   release_year;
 ```
 
 - [x] Update your query to use an OR instead of an AND.
 
 ```sql
-SELECT 
-  song, 
-  artist, 
+SELECT
+  song,
+  artist,
   release_year
-FROM 
-  songlist 
-WHERE 
+FROM
+  songlist
+WHERE
   -- Retrieve records greater than and including 1980
-  release_year >= 1980 
+  release_year >= 1980
   -- Replace AND with OR
-  OR release_year <= 1990 
-ORDER BY 
-  artist, 
+  OR release_year <= 1990
+ORDER BY
+  artist,
   release_year;
 ```
 <hr>
@@ -328,24 +361,24 @@ You can use parentheses to make the intention of your code clearer. This becomes
 - [x] Select all artists beginning with B who released tracks in 1986, but also retrieve any records where the release_year is greater than 1990.
 
 ```sql
-SELECT 
-  artist, 
-  release_year, 
-  song 
-FROM 
-  songlist 
+SELECT
+  artist,
+  release_year,
+  song
+FROM
+  songlist
   -- Choose the correct artist and specify the release year
-WHERE 
+WHERE
   (
-    artist LIKE 'B%' 
+    artist LIKE 'B%'
     AND release_year = 1986
-  ) 
+  )
   -- Or return all songs released after 1990
-  OR release_year > 1990 
+  OR release_year > 1990
   -- Order the results
-ORDER BY 
-  release_year, 
-  artist, 
+ORDER BY
+  release_year,
+  artist,
   song;
 ```
 
@@ -361,13 +394,13 @@ You'll start by obtaining overall sums, focusing specifically on the 'MRO' regio
 
 ```sql
 -- Sum the demand_loss_mw column
-SELECT 
-  SUM(demand_loss_mw) AS MRO_demand_loss 
-FROM 
-  grid 
+SELECT
+  SUM(demand_loss_mw) AS MRO_demand_loss
+FROM
+  grid
 WHERE
   -- demand_loss_mw should not contain NULL values
-  demand_loss_mw is not null 
+  demand_loss_mw is not null
   -- and nerc_region should be 'MRO';
   and nerc_region = 'mro';
 ```
@@ -380,9 +413,9 @@ Having explored the 'MRO' region, let's now explore the 'RFC' region in more det
 - [x] Return the COUNT of the grid_id column, aliasing the result as grid_total.
 ```sql
 -- Obtain a count of 'grid_id'
-SELECT 
-  COUNT(grid_id) as grid_total 
-FROM 
+SELECT
+  COUNT(grid_id) as grid_total
+FROM
   grid;
 ```
 
@@ -390,9 +423,9 @@ FROM
 
 ```sql
 -- Obtain a count of 'grid_id'
-SELECT 
+SELECT
   COUNT(grid_id) AS RFC_count
-FROM 
+FROM
   grid
 -- Restrict to rows where the nerc_region is 'RFC'
 WHERE
@@ -412,9 +445,9 @@ Along with summing and counting, you'll frequently need to find the minimum, max
 
 ```sql
 -- Find the minimum number of affected customers
-SELECT 
-  MIN(affected_customers) AS min_affected_customers 
-FROM 
+SELECT
+  MIN(affected_customers) AS min_affected_customers
+FROM
   grid
 -- Only retrieve rows where demand_loss_mw has a value
 WHERE
@@ -423,23 +456,23 @@ WHERE
 
 ```sql
 -- Find the maximum number of affected customers
-SELECT 
-  MAX(affected_customers) AS max_affected_customers 
-FROM 
+SELECT
+  MAX(affected_customers) AS max_affected_customers
+FROM
   grid
 -- Only retrieve rows where demand_loss_mw has a value
-WHERE 
+WHERE
   demand_loss_mw IS NOT NULL;
 ```
 
 ```sql
 -- Find the average number of affected customers
-SELECT 
-  AVG(affected_customers) AS avg_affected_customers 
-FROM 
+SELECT
+  AVG(affected_customers) AS avg_affected_customers
+FROM
   grid
 -- Only retrieve rows where demand_loss_mw has a value
-WHERE 
+WHERE
   demand_loss_mw IS NOT NULL;
 ```
 
@@ -452,9 +485,9 @@ Knowing the length of a string is key to being able to manipulate it further usi
 
 ```sql
 -- Calculate the length of the description column
-SELECT 
-  len (description) AS description_length 
-FROM 
+SELECT
+  len (description) AS description_length
+FROM
   grid;
 ```
 
@@ -467,9 +500,9 @@ We can retrieve portions of a string from either the start of the string, using 
 
 ```sql
 -- Select the first 25 characters from the left of the description column
-SELECT 
-  LEFT(description, 25) AS first_25_left 
-FROM 
+SELECT
+  LEFT(description, 25) AS first_25_left
+FROM
   grid;
 ```
 
@@ -477,27 +510,27 @@ FROM
 
 ```sql
 -- Amend the query to select 25 characters from the  right of the description column
-SELECT 
+SELECT
   RIGHT(description, 25) AS last_25_right
-FROM 
+FROM
   grid;
 ```
 
 <hr>
 
 ## Stuck in the middle with you
-You might be fortunate, and find that the interesting parts of your strings are at either end. However, chances are, you'll want to retrieve characters from 
-somewhere around the middle. Let's see how to use RIGHT, LEN, CHARINDEX AND SUBSTRING to extract the interior portion of a text string. 
+You might be fortunate, and find that the interesting parts of your strings are at either end. However, chances are, you'll want to retrieve characters from
+somewhere around the middle. Let's see how to use RIGHT, LEN, CHARINDEX AND SUBSTRING to extract the interior portion of a text string.
 The description column can contain multiple reasons for power outages in each row. We want to extract any additional causes of outage whenever Weather appears in the description column.
 
 - [x] You can use CHARINDEX to find a specific character or pattern within a column. Edit the query to return the CHARINDEX of the string 'Weather' whenever it appears within the description column.
 
 ```sql
 -- Complete the query to find `Weather` within the description column
-SELECT 
-  description, 
-  CHARINDEX('weather', description) 
-FROM 
+SELECT
+  description,
+  CHARINDEX('weather', description)
+FROM
   grid
 WHERE description LIKE '%Weather%';
 ```
@@ -506,13 +539,13 @@ WHERE description LIKE '%Weather%';
 
 ```sql
 -- Complete the query to find the length of `Weather`
-SELECT 
-  description, 
+SELECT
+  description,
   CHARINDEX('Weather', description) AS start_of_string,
-  LEN('Weather') AS length_of_string 
-FROM 
+  LEN('Weather') AS length_of_string
+FROM
   grid
-WHERE description LIKE '%Weather%'; 
+WHERE description LIKE '%Weather%';
 ```
 
 - [x] Now we use SUBSTRING to return everything after Weather for the first ten rows. The start index here is 15, because the CHARINDEX for each row is 8, and the LEN of Weather is 7.
@@ -520,15 +553,15 @@ WHERE description LIKE '%Weather%';
 ```sql
 -- Complete the substring function to begin extracting from the correct character in the description column
 SELECT TOP (10)
-  description, 
-  CHARINDEX('Weather', description) AS start_of_string, 
-  LEN ('Weather') AS length_of_string, 
+  description,
+  CHARINDEX('Weather', description) AS start_of_string,
+  LEN ('Weather') AS length_of_string,
   SUBSTRING(
-    description, 
-    15, 
+    description,
+    15,
     LEN(description)
-  ) AS additional_description 
-FROM 
+  ) AS additional_description
+FROM
   grid
 WHERE description LIKE '%Weather%';
 ```
@@ -547,20 +580,20 @@ You'll return to the grid table here and calculate the total lost demand for all
 
 ```sql
 -- Select the region column
-SELECT 
+SELECT
   nerc_region,
   -- Sum the demand_loss_mw column
   SUM(demand_loss_mw) AS demand_loss
-FROM 
+FROM
   grid
   -- Exclude NULL values of demand_loss
-WHERE 
+WHERE
   demand_loss_mw is not null
   -- Group the results by nerc_region
-group by 
+group by
   nerc_region
   -- Order the results in descending order of demand_loss
-ORDER BY 
+ORDER BY
   demand_loss desc;
 ```
 
@@ -573,19 +606,19 @@ WHERE is used to filter rows before any grouping occurs. Once you have performed
 - [x] Replace it with a HAVING clause so that only results with a total demand_loss_mw of greater than 10000 are returned.
 
 ```sql
-SELECT 
-  nerc_region, 
-  SUM (demand_loss_mw) AS demand_loss 
-FROM 
-  grid 
+SELECT
+  nerc_region,
+  SUM (demand_loss_mw) AS demand_loss
+FROM
+  grid
   -- Remove the WHERE clause
 
-GROUP BY 
-  nerc_region 
+GROUP BY
+  nerc_region
   -- Enter a new HAVING clause so that the sum of demand_loss_mw is greater than 10000
-HAVING 
-  SUM(demand_loss_mw) > 10000 
-ORDER BY 
+HAVING
+  SUM(demand_loss_mw) > 10000
+ORDER BY
   demand_loss DESC;
 ```
 
@@ -600,13 +633,13 @@ To conclude this chapter, we'll return to the eurovision table from the first ch
 
 ```sql
 -- Retrieve the minimum and maximum place values
-SELECT 
-  MIN(place) AS min_place, 
-  MAX(place) AS max_place, 
+SELECT
+  MIN(place) AS min_place,
+  MAX(place) AS max_place,
   -- Retrieve the minimum and maximum points values
-  MIN(points) AS min_points, 
-  MAX(points) AS max_points 
-FROM 
+  MIN(points) AS min_points,
+  MAX(points) AS max_points
+FROM
   eurovision;
 ```
 
@@ -614,60 +647,60 @@ FROM
 
 ```sql
 -- Retrieve the minimum and maximum place values
-SELECT 
-  MIN(place) AS min_place, 
-  MAX(place) AS max_place, 
+SELECT
+  MIN(place) AS min_place,
+  MAX(place) AS max_place,
   -- Retrieve the minimum and maximum points values
-  MIN(points) AS min_points, 
-  MAX(points) AS max_points 
-FROM 
+  MIN(points) AS min_points,
+  MAX(points) AS max_points
+FROM
   eurovision
   -- Group by country
 GROUP BY
   country;
 ```
 
-- [x] The previous query results did not identify the country. Let's amend the query, returning the count of entries per country and the country column. 
+- [x] The previous query results did not identify the country. Let's amend the query, returning the count of entries per country and the country column.
 Complete the aggregate section by finding the average place for each country.
 
 ```sql
 -- Obtain a count for each country
-SELECT 
-  COUNT(country) AS country_count, 
+SELECT
+  COUNT(country) AS country_count,
   -- Retrieve the country column
-  country, 
-  -- Return the average of the Place column 
-  AVG(place) AS average_place, 
-  AVG(points) AS avg_points, 
-  MIN(points) AS min_points, 
-  MAX(points) AS max_points 
-FROM 
-  eurovision 
-GROUP BY 
+  country,
+  -- Return the average of the Place column
+  AVG(place) AS average_place,
+  AVG(points) AS avg_points,
+  MIN(points) AS min_points,
+  MAX(points) AS max_points
+FROM
+  eurovision
+GROUP BY
   country;
 ```
 
-- [x] Finally, our results are skewed by countries who only have one entry. Apply a filter so we only return rows where the country_count is greater than 5. 
+- [x] Finally, our results are skewed by countries who only have one entry. Apply a filter so we only return rows where the country_count is greater than 5.
 Then arrange by avg_place in ascending order, and avg_points in descending order.
 
 ```dql
-SELECT 
-  country, 
-  COUNT (country) AS country_count, 
-  AVG (place) AS avg_place, 
-  AVG (points) AS avg_points, 
-  MIN (points) AS min_points, 
-  MAX (points) AS max_points 
-FROM 
-  eurovision 
-GROUP BY 
-  country 
+SELECT
+  country,
+  COUNT (country) AS country_count,
+  AVG (place) AS avg_place,
+  AVG (points) AS avg_points,
+  MIN (points) AS min_points,
+  MAX (points) AS max_points
+FROM
+  eurovision
+GROUP BY
+  country
   -- The country column should only contain those with a count greater than 5
-HAVING 
-  count(country) > 5 
+HAVING
+  count(country) > 5
   -- Arrange columns in the correct order
-ORDER BY 
-  avg_place, 
+ORDER BY
+  avg_place,
   avg_points;
 ```
 
@@ -681,7 +714,7 @@ Let's find the tracks that belong to each album.
 - [x] Perform an inner join between album and track using the album_id column.
 
 ```sql
-SELECT 
+SELECT
   track_id,
   name AS track_name,
   title AS album_title
@@ -701,7 +734,7 @@ Here, you'll continue to practice your INNER JOIN skills. We'll use the album ta
 
 ```sql
 -- Select album_id and title from album, and name from artist
-SELECT 
+SELECT
   album_id,
   title,
   name AS artist
@@ -744,9 +777,9 @@ A LEFT JOIN will return ALL rows in the first table, and any matching rows in th
 - [x] Complete the LEFT JOIN, returning all rows from the specified columns from invoiceline and any matches from invoice.
 
 ```sql
-SELECT 
+SELECT
   invoiceline_id,
-  unit_price, 
+  unit_price,
   quantity,
   billing_state
   -- Specify the source table
@@ -769,7 +802,7 @@ For this exercise, we'll return to the Chinook database from earlier in the chap
 
 ```sql
 -- SELECT the fully qualified album_id column from the album table
-SELECT 
+SELECT
   album_id,
   title,
   album.artist_id,
@@ -784,7 +817,7 @@ WHERE album.album_id IN (213,214)
 - [x] To complete the query, join the album table to the track table using the relevant fully qualified album_id column. The album table is on the left-hand side of the join, and the additional join should return all matches or NULLs.
 
 ```sql
-SELECT 
+SELECT
   album.album_id,
   title,
   album.artist_id,
@@ -817,7 +850,7 @@ You can write 2 or more SELECT statements and combine the results using UNION. F
 - [x] Make the first selection from the album table. Then join the results by providing the relevant keyword and selecting from the artist table.
 
 ```sql
-SELECT 
+SELECT
   album_id AS ID,
   title AS description,
   'Album' AS Source
@@ -825,7 +858,7 @@ SELECT
 FROM album
  -- Combine the result set using the relevant keyword
 UNION
-SELECT 
+SELECT
   artist_id AS ID,
   name AS description,
   'Artist'  AS Source
@@ -848,13 +881,13 @@ When we talk about 'CRUD' operations on the records of a database, what do we me
 <hr>
 
 ## Create tables
-Say you want to create a table to consolidate some useful track information into one table. This will consist of the track name, the artist, 
-and the album the track came from. You also want to store the track length in a different format to how it is currently stored in the track table. 
+Say you want to create a table to consolidate some useful track information into one table. This will consist of the track name, the artist,
+and the album the track came from. You also want to store the track length in a different format to how it is currently stored in the track table.
 How can you go about doing this? Using CREATE TABLE. Recall the example from the video:
 ```sql
 CREATE TABLE test_table(
-  test_date DATE, 
-  test_name VARCHAR(20), 
+  test_date DATE,
+  test_name VARCHAR(20),
   test_int INT
 )
 ```
@@ -906,12 +939,12 @@ CREATE TABLE results (
 	);
 
 -- Select all columns from the table
-SELECT 
-  track, 
-  artist, 
-  album, 
-  track_length_mins 
-FROM 
+SELECT
+  track,
+  artist,
+  album,
+  track_length_mins
+FROM
   results;
 ```
 <hr>
@@ -934,9 +967,9 @@ CREATE TABLE tracks(
 	track_length_mins INT
 );
 -- Select all columns from the new table
-SELECT 
-  * 
-FROM 
+SELECT
+  *
+FROM
   tracks;
 ```
 
@@ -946,9 +979,9 @@ FROM
 -- Create the table
 CREATE TABLE tracks(
   -- Create track column
-  track VARCHAR(200), 
+  track VARCHAR(200),
   -- Create album column
-  album VARCHAR(160), 
+  album VARCHAR(160),
   -- Create track_length_mins column
   track_length_mins INT
 );
@@ -960,9 +993,9 @@ INSERT INTO tracks
 VALUES
   ('Basket Case', 'Dookie', 3);
 -- Select all columns from the new table
-SELECT 
+SELECT
   *
-FROM 
+FROM
   tracks;
 ```
 
@@ -977,11 +1010,11 @@ You don't want to delete the record - you just want to update it in place. To do
 
 ```sql
 -- Select the album
-SELECT 
+SELECT
   title
-FROM 
-  album 
-WHERE 
+FROM
+  album
+WHERE
   album_id = 213;
 ```
 
@@ -989,17 +1022,17 @@ WHERE
 
 ```sql
 -- Run the query
-SELECT 
-  title 
-FROM 
-  album 
-WHERE 
+SELECT
+  title
+FROM
+  album
+WHERE
   album_id = 213;
 -- UPDATE the album table
-UPDATE 
+UPDATE
   album
 -- SET the new title    
-SET 
+SET
   title = 'Pure Cult: The Best Of The Cult'
 WHERE album_id = 213;
 ```
@@ -1008,23 +1041,23 @@ WHERE album_id = 213;
 
 ```sql
 -- Select the album
-SELECT 
-  title 
-FROM 
-  album 
-WHERE 
+SELECT
+  title
+FROM
+  album
+WHERE
   album_id = 213;
 -- UPDATE the title of the album
-UPDATE 
-  album 
-SET 
-  title = 'Pure Cult: The Best Of The Cult' 
-WHERE 
+UPDATE
+  album
+SET
+  title = 'Pure Cult: The Best Of The Cult'
+WHERE
   album_id = 213;
 -- Run the query again
-SELECT 
-  title 
-FROM 
+SELECT
+  title
+FROM
   album ;
 ```
 
@@ -1041,19 +1074,19 @@ Remember - there is no confirmation before deleting. When you execute the statem
 
 ```sql
 -- Run the query
-SELECT 
-  * 
-FROM 
-  album 
+SELECT
+  *
+FROM
+  album
   -- DELETE the record
-DELETE FROM 
-  album 
-WHERE 
+DELETE FROM
+  album
+WHERE
   album_id = 1;
   -- Run the query again
-SELECT 
-  * 
-FROM 
+SELECT
+  *
+FROM
   album;
 ```
 
@@ -1157,12 +1190,12 @@ SET @start = '2014-01-24'
 SET @stop  = '2014-07-02'
 SET @affected =  5000 ;
 
-SELECT 
+SELECT
   description,
   nerc_region,
   demand_loss_mw,
   affected_customers
-FROM 
+FROM
   grid
 -- Specify the date range of the event_date and the value for @affected
 WHERE event_date BETWEEN @start AND @stop
