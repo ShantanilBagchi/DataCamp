@@ -689,7 +689,7 @@ GROUP BY
 - [x] Finally, our results are skewed by countries who only have one entry. Apply a filter so we only return rows where the country_count is greater than 5.
 Then arrange by avg_place in ascending order, and avg_points in descending order.
 
-```dql
+```sql
 SELECT
   country,
   COUNT (country) AS country_count,
