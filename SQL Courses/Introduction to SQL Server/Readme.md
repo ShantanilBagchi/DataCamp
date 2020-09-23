@@ -390,6 +390,14 @@ ORDER BY
 
 <hr>
 
+### Notes 4:
+* Calculate the total amount of a column value with `SUM()`. Use a useful alias else it will be returned with ***no column name***.
+* When using aggregating functions like `SUM`, we need to have all the statements below `SELECT` to be aggregating types or it needs to be used as a grouping column(*later discussed*), else we will get an **error message**.
+* `COUNT` query returns the number of rows in the particular column. using `DISTINCT` along with `COUNT` may be more useful in finding total number of distinct values.
+* Other aggregating functions are `MAX`, `MIN` and `AVG`.
+
+<hr>
+
 ## Summing
 Summing and counting are key ways of aggregating data, regardless of whether you are using a database, manipulating a spreadsheet, or using a programming language such as Python or R. Let's see how to do it in T-SQL using the grid table from Chapter 1.
 
@@ -445,10 +453,6 @@ Along with summing and counting, you'll frequently need to find the minimum, max
 
 - [x] Find the minimum value from the affected_customers column, but only for rows where demand_loss_mw has a value. Name the result min_affected_customers.
 
-- [x] Amend the query to return the maximum value from the same column, this time aliasing as max_affected_customers.
-
-- [x] Return the average value from the affected_customers column, this time aliasing as avg_affected_customers
-
 ```sql
 -- Find the minimum number of affected customers
 SELECT
@@ -460,6 +464,8 @@ WHERE
   demand_loss_mw is not NULL;
 ```
 
+- [x] Amend the query to return the maximum value from the same column, this time aliasing as max_affected_customers.
+
 ```sql
 -- Find the maximum number of affected customers
 SELECT
@@ -470,6 +476,8 @@ FROM
 WHERE
   demand_loss_mw IS NOT NULL;
 ```
+
+- [x] Return the average value from the affected_customers column, this time aliasing as avg_affected_customers
 
 ```sql
 -- Find the average number of affected customers
@@ -483,6 +491,16 @@ WHERE
 ```
 
 <hr>
+
+### Notes 5: **STRINGS**
+* We can use `LEN` to find the number of characters, including spaces of a string.
+* We use `LEFT (string, number_of_characters)` to extract number of characters from the beginning of a string. `RIGHT` works similarly starting at the end of a string.
+* `CHARINDEX ('character', string)` function helps us find a specific character within a string i.e. it will return the string from start till the point where the character has been found.
+* We use `SUBSTRING (string, start_pos, end_pos)` to select a portion of the string.
+* We use `REPLACE (string, 'character_to_replace', 'new_character')` to replace a certain character/s from a string.
+
+<hr>
+
 
 ## LEN'gth of a string
 Knowing the length of a string is key to being able to manipulate it further using other functions, so what better way to start the lesson?
@@ -574,8 +592,15 @@ WHERE description LIKE '%Weather%';
 
 <hr>
 
+### Notes 6: **GROUPING and HAVING**
+* We use `GROUP BY column_name` to perform aggregate functions on the unique entries of the *column_name*.
+* *When we use the `WHERE` clause, the filtering takes place on the row level i.e. within the data.* But, if we want to filter the aggregate values after using `GROUP BY`, we can use `HAVING` clause.
+
+<hr>
+
+
 ## GROUP BY
-In an earlier exercise, you wrote a separate WHERE query to determine the amount of demand lost for a specific region. We wouldn't want to have to write individual queries for every region. Fortunately,you don't have to write individual queries for every region. With GROUP BY, you can obtain a sum of all the unique values for your chosen column, all at once.
+In an earlier exercise, you wrote a separate WHERE query to determine the amount of demand lost for a specific region. We wouldn't want to have to write individual queries for every region. Fortunately, you don't have to write individual queries for every region. With GROUP BY, you can obtain a sum of all the unique values for your chosen column, all at once.
 
 You'll return to the grid table here and calculate the total lost demand for all regions.
 
@@ -712,6 +737,23 @@ ORDER BY
 
 <hr>
 
+### Notes 7: **JOINING TABLES**
+One of the key principles of RDMS is that data is stored across multiple tables. In order to extract the required data, tables need to be joined. We use **PRIMARY KEY** and **FOREIGN KEY** to join tables.
+* A primary key is a column that is used to uniquely identify each row in a table.
+* `INNER JOIN` is used to select common data from both the tables involved i.e. all the rows that are common in both the tables.
+```sql
+SELECT
+  table_A.columnX,
+  table_A.columnY,
+  table_B.columnZ,
+  table_C.columnW
+FROM table_A
+INNER JOIN table_B ON table_B.foreign_key = table_A.primary_key
+INNER JOIN table_C ON table_C.foreign_key = table_B.primary_key;
+```
+
+<hr>
+
 ## Inner Joins - a perfect match
 Let's use the Chinook database, which consists of tables related to an online store, to understand how inner joins work. The album table lists albums by multiple artists. The track table lists individual songs, each with a unique identifier, but also, an album_id column that links each track to an album.
 
@@ -772,6 +814,10 @@ FROM track
 INNER JOIN album on album.album_id = track.album_id
 INNER JOIN artist on artist.artist_id = album.artist_id;
 ```
+
+<hr>
+### Notes 8: **LEFT & RIGHT joins**
+These kind of joins are helpful in cases when one table may not have an exact match in another but we need to see all the data from this table. Foe non matching rows, a `NULL` is returned.
 
 <hr>
 
@@ -836,6 +882,12 @@ WHERE album.album_id IN (213,214)
 ```
 <hr>
 
+### Notes 9: **UNION and UNION ALL**
+Combine results of multiple queries.
+* When we have same structure of multiple query result i.e. same number of columns, columns listed in the same order and have similar data types, then we can join or merge the results into one output table using `UNION`.
+* The only difference between the two clauses is that `UNION ALL` returns all rows including duplicate rows whereas `UNION` returns only unique rows. `UNION` is generally slower to run as it takes time to discard the duplicates.
+
+<hr>
 ## UNION ALL Check
 Which of the following options correctly describes what happens when 2 queries are combined with UNION ALL?
 
@@ -871,6 +923,27 @@ SELECT
   -- Complete the FROM statement
 from artist;
 ```
+<hr>
+
+### Notes 10: **CRUD**
+The acronym CRUD describes the 4 main type of operations we can carry out on a database:
+* CREATE- tables, views and in addition, DBA can create users, permissions and security groups.
+* READ- read using `SELECT` statement.
+* UPDATE- Amend existing database records.
+* DELETE- Need sufficient access to delete records, database etc.
+
+
+Various DataTypes for creating a table:
+  * Dates:
+    * date(`YYYY-MM-DD`), datetime(`YYYY-MM-DD hh:mm:ss`)
+    * time
+  * Numeric:
+    * integer, decimal, float
+    * bit (`1 = TRUE`,`0 = FALSE`). Also accepts `NULL`.
+  * Strings:
+    * `char`,`varchar`,`nvarchar`
+and others
+
 <hr>
 
 ## CRUD operations
@@ -953,6 +1026,37 @@ SELECT
 FROM
   results;
 ```
+<hr>
+
+### Notes 11: **INSERT, UPDATE & DELETE**
+```SQL
+INSERT INTO table_name (col1, col2, col3)
+VALUES ('value1','value2',value3)
+```
+
+```SQL
+UPDATE table_name
+SET
+  column1=value1,
+  column2=value2
+WHERE
+  -Condition(s);
+```
+**Don't forget `WHERE` clause else all values will be updated**
+
+```SQL
+DELETE
+FROM table
+WHERE
+- Conditions
+```
+
+**OR**
+
+```SQL
+TRUNCATE TABLE table_name
+```
+
 <hr>
 
 ## Insert
@@ -1094,6 +1198,29 @@ SELECT
   *
 FROM
   album;
+```
+
+<hr>
+
+### Notes 12: **DECLARE**
+Use of **variables**- why they are useful, how to create them and assign values to them.<br>
+Also create temporary tables, when we don't have access or permissions to other tables.
+
+* Variable- Placeholder for a specific value, of a specific data type. It means we write less repetitive code.
+
+`DECLARE @var_name DATA_TYPE`<br>
+`SET @var_name = value`
+
+* Temporary tables: these table will exist until connection or session ends or we manually remove it with `DROP TABLE` statement.
+```SQL
+SELECT
+  col1,
+  col2
+INTO
+  #my_temp_table
+FROM existing_table
+WHERE
+  -Condition(s)
 ```
 
 <hr>
