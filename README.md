@@ -73,7 +73,7 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 | Course |  Solutions |
 | ------------- |:-----:|
 | [Introduction to SQL Server](SQL%20Courses/Introduction%20to%20SQL%20Server) | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Readme.md) |
-| [Introduction to Relational Databases in SQL](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL) |  - |
+| [Introduction to Relational Databases in SQL](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL) |  [link](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL/Readme.md) |
 | [Intermediate SQL Server](SQL%20Courses/Intermediate%20SQL%20Server) |  - |
 | [Time Series Analysis in SQL Server](SQL%20Courses/Time%20Series%20Analysis%20in%20SQL%20Server) |  - |
 | [Functions for Manipulating Data in SQL Server](SQL%20Courses/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server) |  - |
