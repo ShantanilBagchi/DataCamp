@@ -816,6 +816,7 @@ INNER JOIN artist on artist.artist_id = album.artist_id;
 ```
 
 <hr>
+
 ### Notes 8: **LEFT & RIGHT joins**
 These kind of joins are helpful in cases when one table may not have an exact match in another but we need to see all the data from this table. Foe non matching rows, a `NULL` is returned.
 
