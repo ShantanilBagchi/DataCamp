@@ -74,7 +74,7 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 | ------------- |:-----:|
 | Introduction to SQL Server | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Readme.md) |
 | Introduction to Relational Databases in SQL |  [link](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL/Readme.md) |
-| Intermediate SQL Server |  - |
+| Intermediate SQL Server |  [link](SQL%20Courses/Intermediate%20SQL%20Server/Readme.md) |
 | Time Series Analysis in SQL Server |  - |
 | Functions for Manipulating Data in SQL Server |  - |
 | Database Design | [link](SQL%20Courses/Database%20Design/Solutions.md) |
