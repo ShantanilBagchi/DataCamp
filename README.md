@@ -72,17 +72,17 @@ Thank you for viewing the repository. I am still in the process of updating it. 
 # Data Analyst with SQL Server
 | Course |  Solutions |
 | ------------- |:-----:|
-| [Introduction to SQL Server](SQL%20Courses/Introduction%20to%20SQL%20Server) | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Readme.md) |
-| [Introduction to Relational Databases in SQL](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL) |  [link](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL/Readme.md) |
-| [Intermediate SQL Server](SQL%20Courses/Intermediate%20SQL%20Server) |  - |
-| [Time Series Analysis in SQL Server](SQL%20Courses/Time%20Series%20Analysis%20in%20SQL%20Server) |  - |
-| [Functions for Manipulating Data in SQL Server](SQL%20Courses/Functions%20for%20Manipulating%20Data%20in%20SQL%20Server) |  - |
-| [Database Design](SQL%20Courses/Database%20Design) | [link](SQL%20Courses/Database%20Design/Solutions.md) |
-| [Hierarchical and Recursive Queries in SQL Server](SQL%20Courses/Hierarchical%20and%20Recursive%20Queries%20in%20SQL%20Server) | - |
-| [Transactions and Error Handling in SQL Server](SQL%20Courses/Transactions%20and%20Error%20Handling%20in%20SQL%20Server) | - |
-| [Writing Functions and Stored Procedures in SQL Server](SQL%20Courses/Writing%20Functions%20and%20Stored%20Procedures%20in%20SQL%20Server) | - |
-| [Building and Optimizing Triggers in SQL Server](SQL%20Courses/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server) | [link](SQL%20Courses/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/Solutions.md) |
-| [Improving Query Performance in SQL Server](SQL%20Courses/Improving%20Query%20Performance%20in%20SQL%20Server) | - |
+| Introduction to SQL Server | [link](SQL%20Courses/Introduction%20to%20SQL%20Server/Readme.md) |
+| Introduction to Relational Databases in SQL |  [link](SQL%20Courses/Introduction%20to%20Relational%20Databases%20in%20SQL/Readme.md) |
+| Intermediate SQL Server |  - |
+| Time Series Analysis in SQL Server |  - |
+| Functions for Manipulating Data in SQL Server |  - |
+| Database Design | [link](SQL%20Courses/Database%20Design/Solutions.md) |
+| Hierarchical and Recursive Queries in SQL Server | - |
+| Transactions and Error Handling in SQL Server | - |
+| Writing Functions and Stored Procedures in SQL Server | - |
+| Building and Optimizing Triggers in SQL Server | [link](SQL%20Courses/Building%20and%20Optimizing%20Triggers%20in%20SQL%20Server/Solutions.md) |
+| Improving Query Performance in SQL Server | - |
 
 
 # Data Science for Everyone
